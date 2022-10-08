@@ -1,0 +1,1345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="PDFXPrinter" productVersion="5.0.0268.0000" version=""/>
+	<language eName="Hungarian" lName="Magyar" lcid="0x040e"/>
+	<modules>
+		<module id="driver" name="Illesztőprogram">
+			<dialogs>
+				<dialog id="101" text="Névjegy">
+					<item id="1033" text="A termék jogos felhasználója:"/>
+					<item id="1040" text="Copyright © 2001-16 by Tracker Software Products (Canada) Ltd. Minden jog fenntartva."/>
+					<item id="1143" text="&amp;Regisztráció ..."/>
+					<item id="1144" text="&amp;Súgó ..."/>
+				</dialog>
+				<dialog id="102" text="Beállítások"/>
+				<dialog id="103" text="">
+					<item id="1001" text="&amp;Szokásos:"/>
+					<item id="1002" text="&amp;Egyéni:"/>
+					<item id="1017" text="Á&amp;lló"/>
+					<item id="1018" text="&amp;Fekvő"/>
+					<item id="1026" text="Tükrözés az &amp;X tengelyen"/>
+					<item id="1027" text="Tükrözés az &amp;Y tengelyen"/>
+					<item id="1030" text="x"/>
+					<item id="1031" text="&amp;Margó:"/>
+					<item id="1032" text="&amp;Felbontás:"/>
+					<item id="1033" text="&amp;Méretezés:"/>
+					<item id="1034" text="Tájolás:"/>
+					<item id="1035" text="Elrendezés típusa:"/>
+					<item id="1036" text="Lapméret:"/>
+					<item id="1037" text="Méret:"/>
+					<item id="1038" text="x"/>
+					<item id="1050" text="Oldalméret"/>
+					<item id="1051" text="Grafika"/>
+					<item id="1052" text="Elrendezés"/>
+					<item id="1053" text="Speciális nyomtatási beállítások"/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1030" text="Megfelelés &amp;specifikációnak:"/>
+					<item id="1031" text="Dokumentum megnyitásakor"/>
+					<item id="1032" text="Oldal e&amp;lrendezése:"/>
+					<item id="1033" text="Oldalmegjelenítési &amp;mód:"/>
+					<item id="1034" text="&amp;Teljes képernyős oldalmegjelenítési mód:"/>
+					<item id="1035" text="Na&amp;gyítás:"/>
+					<item id="1036" text="%"/>
+					<item id="1037" text="Megnyitás &amp;oldalhoz:"/>
+					<item id="1038" text="Átmenet típusa:"/>
+					<item id="1039" text="Oldalmegjelenítés időtartama:"/>
+					<item id="1040" text="mp."/>
+					<item id="1041" text="Átmeneti mód:"/>
+					<item id="1042" text="Átmenet időtartama:"/>
+					<item id="1043" text="mp."/>
+					<item id="1044" text="Megjelenítő beállításai"/>
+					<item id="1050" text="PDF-specifikáció"/>
+					<item id="1051" text="Átmenetek"/>
+					<item id="1076" text="Eszköz&amp;tárak elrejtése"/>
+					<item id="1077" text="M&amp;enüsor elrejtése"/>
+					<item id="1078" text="Dokumentum &amp;ablakának középre igazítása"/>
+					<item id="1079" text="A dokumentum ablakának az első oldal méretéhez &amp;illesztése"/>
+					<item id="1080" text="A &amp;felhasználói felület elemeinek elrejtése a dokumentum ablakában"/>
+					<item id="1081" text="A d&amp;okumentum címének kijelzése az ablak címsorában"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1050" text="Vízjelek listája"/>
+					<item id="1090" text="A vízjel &amp;nyomtatásának engedélyezése"/>
+					<item id="1096" text="Az összes &amp;törlése"/>
+					<item id="1097" text="&amp;Az összes kijelölése"/>
+					<item id="1098" text="S&amp;zerkesztés..."/>
+					<item id="1099" text="Ú&amp;j..."/>
+					<item id="1100" text="&amp;Eltávolítás"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1030" text="&amp;Megjelenítési mód:"/>
+					<item id="1031" text="&amp;Szint:"/>
+					<item id="1032" text="±"/>
+					<item id="1033" text="pt."/>
+					<item id="1034" text="Stílus:"/>
+					<item id="1035" text="Szín:"/>
+					<item id="1036" text="Állapot:"/>
+					<item id="1050" text="&amp;Sablon"/>
+					<item id="1051" text="Felismerés beállításai"/>
+					<item id="1052" text="Megjelenítési beállítások"/>
+					<item id="1100" text="&amp;Eltávolítás"/>
+					<item id="1101" text="Automatikus könyvjelzőfelismerés &amp;engedélyezése"/>
+					<item id="1102" text="Többsoros könyvjelzők e&amp;ngedélyezése"/>
+					<item id="1103" text="A dokumentumcím &amp;használata könyvjelzőgyökérként"/>
+					<item id="1104" text="Cso&amp;mópont egyeztetése a szinttől eltekintve"/>
+					<item id="1109" text="Hozzá&amp;adás"/>
+					<item id="1110" text="&amp;Betűtípus:"/>
+					<item id="1112" text="&amp;Stílus:"/>
+					<item id="1114" text="&amp;Méret:"/>
+					<item id="1119" text="&amp;Szín:"/>
+					<item id="1120" text="Szín"/>
+					<item id="1122" text="Szín"/>
+					<item id="1123" text="Megnyitva"/>
+					<item id="1124" text="Menté&amp;s..."/>
+					<item id="1125" text="Betö&amp;ltés..."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1030" text="&amp;Fejléc:"/>
+					<item id="1031" text="&amp;Lábléc:"/>
+					<item id="1032" text="Az első oldal &amp;száma:"/>
+					<item id="1033" text="Ba&amp;lra:"/>
+					<item id="1034" text="Fen&amp;t:"/>
+					<item id="1035" text="Jobb&amp;ra:"/>
+					<item id="1036" text="&amp;Lent:"/>
+					<item id="1037" text="&amp;Mértékegység:"/>
+					<item id="1051" text="Fejléc és lábléc"/>
+					<item id="1052" text="Beállítások"/>
+					<item id="1053" text="Eltolások"/>
+					<item id="1126" text="Fejlécek és láblécek hozzá&amp;adása a dokumentum oldalaihoz"/>
+					<item id="1130" text="Személyre szabás..."/>
+					<item id="1132" text="Személyre szabás..."/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1030" text="Pozíció:"/>
+					<item id="1031" text="Méret:"/>
+					<item id="1032" text="Méretezés:"/>
+					<item id="1146" text="Középre"/>
+					<item id="1153" text="Méretezés, hogy elférjen"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1030" text="Oldal &amp;laponként:"/>
+					<item id="1033" text="Oldals&amp;orrend:"/>
+					<item id="1156" text="Oldalszegélyek nyomtatása"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1030" text="Füzet típusa:"/>
+					<item id="1031" text="Lapok az aláírásban:"/>
+					<item id="1032" text="Kötésmargó mérete:"/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1031" text="&amp;Cím:"/>
+					<item id="1032" text="&amp;Tárgy:"/>
+					<item id="1033" text="S&amp;zerző:"/>
+					<item id="1034" text="&amp;Kulcsszavak:"/>
+					<item id="1035" text="&amp;Létrehozó:"/>
+					<item id="1036" text="&amp;Készítő:"/>
+					<item id="1050" text="PDF &amp;információk"/>
+					<item id="1162" text="További információk elhelyezése a &amp;dokumentumban"/>
+					<item id="1163" text="Dokumentum információk kérése a nyomt&amp;atás megkezdésekor"/>
+					<item id="1164" text="XMP &amp;metaadatok hozzáadása a dokumentumhoz"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1031" text="JPEG &amp;minőség:"/>
+					<item id="1032" text="%"/>
+					<item id="1033" text="J&amp;BIG2 metód:"/>
+					<item id="1050" text="Általános"/>
+					<item id="1051" text="High color/szürkeárnyalatos képek"/>
+					<item id="1052" text="Indexelt képek"/>
+					<item id="1053" text="Egyszínű képek"/>
+					<item id="1171" text="A &amp;grafika tömörítése"/>
+					<item id="1172" text="&amp;ASCII formátum (nagy fájl)"/>
+					<item id="1173" text="&amp;Szöveg tömörítése"/>
+					<item id="1174" text="&amp;Tömöríítés a következővel:"/>
+					<item id="1177" text="Spin1"/>
+					<item id="1178" text="Tömöríítés a &amp;következővel:"/>
+					<item id="1180" text="Tö&amp;möríítés a következővel:"/>
+					<item id="1183" text="&amp;Alapértelmezett"/>
+				</dialog>
+				<dialog id="113" text="">
+					<item id="1030" text="képpont hüvelykenként"/>
+					<item id="1031" text="a fenti képekhez:"/>
+					<item id="1032" text="képpont hüvelykenként"/>
+					<item id="1033" text="képpont hüvelykenként"/>
+					<item id="1034" text="a fenti képekhez:"/>
+					<item id="1035" text="képpont hüvelykenként"/>
+					<item id="1036" text="képpont hüvelykenként"/>
+					<item id="1037" text="a fenti képekhez:"/>
+					<item id="1038" text="képpont hüvelykenként"/>
+					<item id="1039" text="Küszöbérték:"/>
+					<item id="1050" text="High color/szürkeárnyalatos képek"/>
+					<item id="1051" text="Indexelt képek"/>
+					<item id="1052" text="Egyszínű képek"/>
+					<item id="1194" text="Spin1"/>
+					<item id="1202" text="Képárnyalás használata"/>
+					<item id="1203" text="Képárnyalás használata"/>
+				</dialog>
+				<dialog id="114" text="">
+					<item id="1030" text="Elérhető &amp;betűtípusok:"/>
+					<item id="1031" text="%"/>
+					<item id="1183" text="&amp;Alapértelmezett"/>
+					<item id="1206" text="&amp;Az összes használt betűtípus beágyazása"/>
+					<item id="1207" text="A &amp;védett betűtípusok beágyazásának kényszerítése"/>
+					<item id="1208" text="Bővített betűtípus/karakter információ beágyazása"/>
+					<item id="1212" text=">>"/>
+					<item id="1213" text="&lt;&lt;"/>
+					<item id="1214" text="A betűtípusok mindenkori b&amp;eágyazása:"/>
+					<item id="1216" text=">>"/>
+					<item id="1217" text="&lt;&lt;"/>
+					<item id="1218" text="Soha &amp;nincs betűtípus beágyazás:"/>
+					<item id="1220" text="Csak a &amp;betűtípusok alkészletének bágyazása, ha a használt karakterek százalékaránya kisebb, mint:"/>
+				</dialog>
+				<dialog id="115" text="">
+					<item id="1031" text="Át&amp;fedés fájl:"/>
+					<item id="1032" text="Az átfedő oldalaknak új PDF-dokumentumhoz viszonyított igazítása:"/>
+					<item id="1033" text="&amp;Vízszintesen:"/>
+					<item id="1034" text="&amp;Függőlegesen:"/>
+					<item id="1035" text="A védett fájl megnyitásának &amp;jelszava:"/>
+					<item id="1051" text="Ismétlődési beállítások"/>
+					<item id="1052" text="Pozíciók"/>
+					<item id="1153" text="Az átfedő oldalaknak az újonnan létrehozott dokumentumoldalakhoz illesztése"/>
+					<item id="1221" text="Át&amp;fedés egy létező PDF-fájllal"/>
+					<item id="1223" text="T&amp;allózás..."/>
+					<item id="1225" text="Az átfedő fájl &amp;előtérbe helyezése"/>
+					<item id="1226" text="&amp;Nincs ismétlődés"/>
+					<item id="1227" text="A rövidebb átfedő fájl uto&amp;lsó oldalának ismétlése"/>
+					<item id="1228" text="A rövidebb átfedő fájl f&amp;olyamatos ismétlése"/>
+					<item id="1231" text="Méret&amp;arányok megtartása"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1031" text="Jelszó:"/>
+					<item id="1032" text="Jelszó:"/>
+					<item id="1033" text="&amp;Titkosítási szint:"/>
+					<item id="1050" text="A dokumentum jelszavai"/>
+					<item id="1051" text="A dokumentum engedélyei"/>
+					<item id="1052" text="Digitális aláírás"/>
+					<item id="1232" text="PDF-biztonság &amp;használata"/>
+					<item id="1233" text="A d&amp;okumentum megnyitásához jelszó szükséges:"/>
+					<item id="1235" text="Az engedélyek és/vagy a jelszó mó&amp;dosításához jelszó szükséges:"/>
+					<item id="1238" text="A dokumentum &amp;digitális aláírása"/>
+					<item id="1239" text="Beállítások..."/>
+					<item id="1240" text="Idő&amp;bélyeg-kiszolgáló használata:"/>
+					<item id="1242" text="Kezelés..."/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1243" text="A &amp;nyomtatás engedélyezése"/>
+					<item id="1244" text="A &amp;dokumentum módosításának engedélyezése"/>
+					<item id="1245" text="A tartalommásolás vagy -kinyerés, ill. a kisegítő lehetőségek engedélyezése"/>
+					<item id="1246" text="&amp;Megjegyzések és űrlapmezők hozzáadásának vagy módosításának engedélyezése"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1031" text="En&amp;gedélyezett módosítások:"/>
+					<item id="1032" text="A dokumentum ki&amp;nyomtatása:"/>
+					<item id="1247" text="A tartalomhoz v&amp;aló hozzáférés engedélyezése látássérülteknek"/>
+					<item id="1248" text="A &amp;tartalom másolásának és kinyerésének engedélyezése"/>
+					<item id="1250" text="A dokumentum &amp;metaadatainak titkosítása (Acrobat 6.0 vagy újabbal kompatibilis)"/>
+				</dialog>
+				<dialog id="119" text="">
+					<item id="1031" text="Szegély &amp;típusa:"/>
+					<item id="1032" text="Szegély &amp;stílusa:"/>
+					<item id="1033" text="Szegély s&amp;zélessége:"/>
+					<item id="1034" text="pont"/>
+					<item id="1035" text="Szegély szí&amp;ne:"/>
+					<item id="1036" text="Példa:"/>
+					<item id="1037" text="Webcímünk:"/>
+					<item id="1050" text="Hivatkozások beállításai"/>
+					<item id="1052" text="Helyi fájlok"/>
+					<item id="1122" text="Lenyomás a kijelöléshez"/>
+					<item id="1183" text="&amp;Alapértelmezett"/>
+					<item id="1251" text="&amp;Az URL-címek elemzése a kinyomtatott szövegben"/>
+					<item id="1252" text="A &amp;fájlnevek észlelése és átalakítása PDF-hivatkozásokká"/>
+					<item id="1253" text="A fájlok létezésének &amp;ellenőrzése a hivatkozáshoz"/>
+					<item id="1258" text="http://www.tracker-software.com/"/>
+					<item id="1259" text="A szöveg színének a &amp;szegély színével azonossá tétele"/>
+				</dialog>
+				<dialog id="120" text="Könyvjelzőlista">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1030" text="Sablon &amp;neve:"/>
+					<item id="1050" text="Sablonlista"/>
+					<item id="1100" text="&amp;Eltávolítás"/>
+				</dialog>
+				<dialog id="121" text="Személyre szabás ...">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1030" text="Bal oldali rész:"/>
+					<item id="1031" text="Középső rész:"/>
+					<item id="1032" text="Jobb oldali rész:"/>
+					<item id="1051" text="Fejléc"/>
+					<item id="1265" text="..."/>
+					<item id="1266" text="..."/>
+					<item id="1267" text="..."/>
+					<item id="1268" text="Szín"/>
+					<item id="1269" text="Szín"/>
+					<item id="1270" text="Szín"/>
+					<item id="1271" text="&amp;Makró"/>
+					<item id="1272" text="&amp;Makró"/>
+					<item id="1273" text="&amp;Makró"/>
+				</dialog>
+				<dialog id="122" text="">
+					<item id="1050" text="Elérhető nyelvek"/>
+					<item id="1275" text="A felhasználók te&amp;rületi beállításainak használata"/>
+					<item id="1276" text="Beállítás alapértelmezettként"/>
+				</dialog>
+				<dialog id="123" text="Vízjel hozzáadása/módosítása">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1030" text="A &amp;vízjel neve:"/>
+					<item id="1031" text="Típus:"/>
+					<item id="1032" text="Elfo&amp;rgatás:"/>
+					<item id="1033" text="Tömörsé&amp;g:"/>
+					<item id="1034" text="%"/>
+					<item id="1035" text="mettől"/>
+					<item id="1036" text="mettől"/>
+					<item id="1037" text="Vízszintes eltolás:"/>
+					<item id="1038" text="Függőleges eltolás:"/>
+					<item id="1039" text="&amp;Mértékegység:"/>
+					<item id="1040" text="(-90 - 90 fok)"/>
+					<item id="1050" text="Elhelyezés"/>
+					<item id="1051" text="Megjlelenés"/>
+				</dialog>
+				<dialog id="124" text="">
+					<item id="1030" text="&amp;Szöveg:"/>
+					<item id="1031" text="&amp;Betűtípus:"/>
+					<item id="1033" text="&amp;Szín:"/>
+					<item id="1034" text="&amp;Méret:"/>
+					<item id="1035" text="pt"/>
+					<item id="1050" text="Szöveg tulajdonságai"/>
+					<item id="1122" text="Lenyomás a kijelöléshez"/>
+					<item id="1290" text="&amp;Félkövér"/>
+					<item id="1291" text="&amp;Dőlt"/>
+					<item id="1292" text="Mint a kör&amp;vonalak"/>
+					<item id="1293" text="A&amp;utomatikus méret"/>
+				</dialog>
+				<dialog id="125" text="">
+					<item id="1031" text="&amp;Szélesség:"/>
+					<item id="1032" text="&amp;Magasság:"/>
+					<item id="1035" text="&amp;Fájl:"/>
+					<item id="1050" text="Képtulajdonságok"/>
+					<item id="1122" text="&amp;Lenyomás a kijelöléshez"/>
+					<item id="1153" text="&amp;Oldalhoz illesztés"/>
+					<item id="1223" text="&amp;..."/>
+					<item id="1285" text="&amp;Méretarányok megtartása"/>
+					<item id="1286" text="Á&amp;tlátszó szín"/>
+				</dialog>
+				<dialog id="126" text="">
+					<item id="1098" text="S&amp;zerkesztés..."/>
+					<item id="1100" text="&amp;Eltávolítás"/>
+					<item id="1109" text="Hozzá&amp;adás..."/>
+				</dialog>
+				<dialog id="127" text="Egyéni űrlap hozzáadása/módosítása">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1030" text="&amp;Szélesség:"/>
+					<item id="1031" text="&amp;Magasság:"/>
+					<item id="1050" text="Egyéni űrlap &amp;neve:"/>
+					<item id="1051" text="Egyéni űrlap méretei"/>
+					<item id="1052" text="&amp;Mértékegység"/>
+					<item id="1301" text="&amp;Hüvelyk"/>
+					<item id="1302" text="&amp;Milliméter"/>
+				</dialog>
+				<dialog id="128" text="">
+					<item id="1030" text="&amp;Feladatkezelés:"/>
+					<item id="1031" text="&amp;Elérési út:"/>
+					<item id="1032" text="&amp;Fájlnév:"/>
+					<item id="1033" text="Példa:"/>
+					<item id="1034" text="Ha &amp;létezik a fájl:"/>
+					<item id="1035" text="Kezdés &amp;innen:"/>
+					<item id="1036" text="Számje&amp;gyek:"/>
+					<item id="1037" text="Para&amp;méterek:"/>
+					<item id="1050" text="Beállítások mentése"/>
+					<item id="1223" text="T&amp;allózás..."/>
+					<item id="1303" text="A 'Mentés másként...' párbeszédpanel megjelenítése"/>
+					<item id="1305" text="&amp;Makró"/>
+					<item id="1306" text="Az elérési út kinyeSrése a dokumentum nevéből"/>
+					<item id="1312" text="Az alkalmazás futtatása &amp;nyomtatás után"/>
+					<item id="1313" text="A PDF-fájlok alapértelmezett &amp;alkalmazása"/>
+					<item id="1314" text="&amp;Alkalmazás:"/>
+					<item id="1316" text="T&amp;allózás..."/>
+				</dialog>
+				<dialog id="129" text="">
+					<item id="1031" text="&amp;Metódus:"/>
+					<item id="1032" text="&amp;Feladó:"/>
+					<item id="1033" text="Címze&amp;tt:"/>
+					<item id="1034" text="&amp;Másolat:"/>
+					<item id="1035" text="&amp;Titkos másolat:"/>
+					<item id="1036" text="&amp;Tárgy:"/>
+					<item id="1037" text="Tartal&amp;om:"/>
+					<item id="1038" text="Ki&amp;szolgáló:"/>
+					<item id="1051" text="E-mail tulajdonságai"/>
+					<item id="1052" text="SMTP tulajdonságai"/>
+					<item id="1098" text="S&amp;zerkesztés..."/>
+					<item id="1099" text="Ú&amp;j..."/>
+					<item id="1100" text="&amp;Eltávolítás..."/>
+					<item id="1318" text="A létrehozott dokumentum küldése e-mail &amp;mellékletként"/>
+					<item id="1322" text="..."/>
+					<item id="1326" text="A dokumentum küldése &amp;ZIP-archívumban"/>
+				</dialog>
+				<dialog id="130" text="Kimenő levelek kiszolgálója">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1031" text="&amp;Fióknév:"/>
+					<item id="1032" text="Jel&amp;szó:"/>
+					<item id="1034" text="Kapcsolat bizto&amp;nsága:"/>
+					<item id="1035" text="Né&amp;v:"/>
+					<item id="1036" text="P&amp;ort:"/>
+					<item id="1050" text="SMTP-kiszolgáló tulajdonságai"/>
+					<item id="1051" text="Bejelentkezési adatok"/>
+					<item id="1052" text="Biztonság"/>
+					<item id="1329" text="A kiszolgáló &amp;hitelesítést igényel"/>
+					<item id="1332" text="Bejelentkezés bizton&amp;ságos jelszóhitelesítéssel"/>
+				</dialog>
+				<dialog id="131" text="">
+					<item id="1100" text="&amp;Eltávolítás"/>
+					<item id="1109" text="Hozzá&amp;adás..."/>
+					<item id="1126" text="&amp;Felhasználás"/>
+					<item id="1334" text="&amp;Exportálás."/>
+					<item id="1335" text="&amp;Importálás..."/>
+				</dialog>
+				<dialog id="132" text="Profil hozzáadása">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1030" text="&amp;Név:"/>
+					<item id="1031" text="&amp;Megjegyzés:"/>
+					<item id="1050" text="Profiladatok"/>
+				</dialog>
+				<dialog id="133" text="Digitális aláírás">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1031" text="&amp;Aláíró:"/>
+					<item id="1032" text="Digitális azonosító fájlneve:"/>
+					<item id="1033" text="Digitális azonosító &amp;jelszava:"/>
+					<item id="1034" text="Az aláí&amp;rás oka:"/>
+					<item id="1035" text="He&amp;ly:"/>
+					<item id="1036" text="Kapcsolattartási &amp;adatok:"/>
+					<item id="1037" text="Oldal:"/>
+					<item id="1038" text="Ba&amp;lra:"/>
+					<item id="1039" text="Fen&amp;t:"/>
+					<item id="1040" text="&amp;Szélesség:"/>
+					<item id="1041" text="&amp;Magasság:"/>
+					<item id="1042" text="&amp;Mértékegység:"/>
+					<item id="1043" text="Grafika megjelenítése"/>
+					<item id="1044" text="Szöveg megjelenítése"/>
+					<item id="1050" text="Digitális azonosító"/>
+					<item id="1051" text="Részletek"/>
+					<item id="1052" text="Pozíció"/>
+					<item id="1053" text="Megjlelenés"/>
+					<item id="1337" text="A rend&amp;suerben tárolt tanúsítvány használata"/>
+					<item id="1338" text="Tanúsítvány használata &amp;fájlból"/>
+					<item id="1340" text="Frissítés"/>
+					<item id="1342" text="T&amp;allózás..."/>
+					<item id="1344" text="Tanúsít&amp;vány megtekintése..."/>
+					<item id="1345" text="Tanúsítvány e&amp;xportálása..."/>
+					<item id="1346" text="Tanúsítvány létrr&amp;ehozása..."/>
+					<item id="1352" text="Nincs grafika"/>
+					<item id="1353" text="Kép:"/>
+					<item id="1354" text="Név"/>
+					<item id="1356" text="Tallózás..."/>
+					<item id="1357" text="Név"/>
+					<item id="1358" text="Dátum"/>
+					<item id="1359" text="Hely"/>
+					<item id="1360" text="Ok"/>
+					<item id="1361" text="Megkülönböztető név"/>
+					<item id="1362" text="Címkék"/>
+				</dialog>
+				<dialog id="134" text="Önaláírt digitális azonosító létrehozása">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1030" text="Önaláírt digitális azonosító létrehozásával költségmentesen írhat alá egy PDF-dokumentumot. Lehet viszont, hogy harmadik fél érvényesítését megkövetelő helyzetekhez ez nem megfelelő."/>
+					<item id="1032" text="&amp;Név:"/>
+					<item id="1033" text="Szervezeti &amp;egység:"/>
+					<item id="1034" text="&amp;Szervezet neve:"/>
+					<item id="1035" text="&amp;E-mail cím:"/>
+					<item id="1036" text="&amp;Ország/terület:"/>
+					<item id="1037" text="Kulcs &amp;algoritmusa:"/>
+					<item id="1039" text="&amp;Jelszó:"/>
+					<item id="1040" text="Jel&amp;szó megerősítése:"/>
+					<item id="1042" text="ASCII"/>
+					<item id="1043" text="A digitális azonosítója a Windows tanúsítványtárolóban kerül tárolásra, ahol más Windows-alkalmazások számára is elérhető lesz. A digitális azonosítót az Ön Windows bejelentkezési neve védi."/>
+					<item id="1044" text="Új, jelszóval védett, a szabványos PKCS#12 formátumot használó digitális azonosítót hoz létre . A legtöbb biztonsági szoftveralkalmazás, beleértve a fontosabb webböngészőket, támogatja ezt a gyakori digitális azonosító fájlformátumot. A PKCS#12 fájloknak .pfx vagy .p12 a kiterjesztésük."/>
+					<item id="1051" text="Digitális azonosító tulajdonságai:"/>
+					<item id="1052" text="Hol szeretné tárolni az önaláírt digitális azonosítóját?"/>
+					<item id="1372" text="A &amp;Windows tanúsítványtárolóban"/>
+					<item id="1373" text="Új PKCS#&amp;12 digitális azonosító fájlban"/>
+					<item id="1375" text="Unicode"/>
+				</dialog>
+				<dialog id="135" text="Időbélyeg-kiszolgálók listája">
+					<item id="1" text="Bezárás"/>
+					<item id="1098" text="S&amp;zerkesztés..."/>
+					<item id="1100" text="&amp;Eltávolítás..."/>
+					<item id="1109" text="Hozzá&amp;adás..."/>
+				</dialog>
+				<dialog id="136" text="Időbélyeg-kiszolgáló">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1031" text="&amp;Fióknév:"/>
+					<item id="1032" text="&amp;Jelszó:"/>
+					<item id="1033" text="&amp;Név:"/>
+					<item id="1034" text="&amp;URL-cím:"/>
+					<item id="1050" text="Kiszolgáló tulajdonságai"/>
+					<item id="1051" text="Bejelentkezési adatok"/>
+					<item id="1329" text="A kiszolgáló &amp;hitelesítést igényel"/>
+				</dialog>
+				<dialog id="137" text="Regisztrációs adatok">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1030" text="&amp;Név:"/>
+					<item id="1031" text="&amp;Cég:"/>
+					<item id="1032" text="&amp;E-mail cím:"/>
+					<item id="1033" text="Sorozat&amp;szám:"/>
+					<item id="1050" text="Regisztrációs adatok"/>
+					<item id="1381" text="Online &amp;vásárlás"/>
+				</dialog>
+				<dialog id="138" text="Személyre szabás">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1030" text="Elérhető oldalak:"/>
+					<item id="1031" text="Jelenlegi oldalak:"/>
+					<item id="1093" text="&amp;Fel"/>
+					<item id="1094" text="&amp;Le"/>
+					<item id="1100" text="&lt;- &amp;Eltávolítás"/>
+					<item id="1109" text="Hozzá&amp;adás ->"/>
+					<item id="1387" text="&amp;Alaphelyzet"/>
+				</dialog>
+				<dialog id="139" text="">
+					<item id="1031" text="&amp;Fájl:"/>
+					<item id="1032" text="Jel&amp;szó:"/>
+					<item id="1033" text="&amp;Fájl:"/>
+					<item id="1034" text="&amp;Jelszó:"/>
+					<item id="1051" text="Dokumentum hozzáfűzése az elejéhez"/>
+					<item id="1052" text="Dokumentum hozzáfűzése a végéhez"/>
+					<item id="1388" text="A kimenet &amp;hozzáfűzése az elejéhez egy PDF-fájllal"/>
+					<item id="1390" text="T&amp;allózás..."/>
+					<item id="1392" text="&amp;A kiement hozzáfűzése a végéhez egy PDF-fájllal"/>
+					<item id="1394" text="T&amp;allózás..."/>
+				</dialog>
+				<dialog id="140" text="">
+					<item id="1030" text="&amp;Keverési művelet:"/>
+					<item id="1031" text="mbájt"/>
+					<item id="1032" text="&amp;De-tesszellációs metódus:"/>
+					<item id="1051" text="Adobe Acrobat hibák - megoldások"/>
+					<item id="1052" text="Speciális memóriakezelés"/>
+					<item id="1398" text="Á&amp;tlátszóság rajzolás használata"/>
+					<item id="1399" text="&amp;Maszkolt képek használata"/>
+					<item id="1400" text="&amp;Szürkeárnyalatos paletta írása RGB-színtartományba"/>
+					<item id="1401" text="Kép&amp;sorozatok optimalizálásának engedélyezése"/>
+					<item id="1402" text="Váltás &amp;lemezképekre, melyek nagyobbak, mint:"/>
+				</dialog>
+			</dialogs>
+			<strings count="401">
+				<item id="0" text="&amp;Alkalmazás neve"/>
+				<item id="1" text="Dokumentum &amp;neve"/>
+				<item id="2" text="Dokumentum &amp;elérési útja"/>
+				<item id="3" text="&amp;Dátum"/>
+				<item id="4" text="É&amp;v"/>
+				<item id="5" text="&amp;Hónap"/>
+				<item id="6" text="N&amp;ap"/>
+				<item id="7" text="&amp;Időpont"/>
+				<item id="8" text="Ó&amp;ra"/>
+				<item id="9" text="&amp;Perc"/>
+				<item id="10" text="Má&amp;sodperc"/>
+				<item id="11" text="Számítógépnév"/>
+				<item id="12" text="Felhasználónév"/>
+				<item id="13" text="Oldalszám"/>
+				<item id="14" text="Lapok &amp;száma"/>
+				<item id="15" text="Környezeti változó"/>
+				<item id="16" text="Papír"/>
+				<item id="17" text="Papírbeállítások"/>
+				<item id="18" text="Egyéni űrlapok"/>
+				<item id="19" text="Egyéni űrlapok beállításai"/>
+				<item id="20" text="Általános"/>
+				<item id="21" text="Általános beállítások"/>
+				<item id="22" text="Tömörítés"/>
+				<item id="23" text="Tömörítés beállításai"/>
+				<item id="24" text="Dokumentumra vonatkozó információk"/>
+				<item id="25" text="Dokumentumra vonatkozó információk"/>
+				<item id="26" text="Grafika"/>
+				<item id="27" text="Grafikai beállítások"/>
+				<item id="28" text="Betűtípusok"/>
+				<item id="29" text="Betűtípus-beágyazási beállítások"/>
+				<item id="30" text="Vízjelek"/>
+				<item id="31" text="Vízjelek beállításai"/>
+				<item id="32" text="Átfedések"/>
+				<item id="33" text="Átfedések beállításai"/>
+				<item id="34" text="Biztonság"/>
+				<item id="35" text="Dokumentum biztonsága"/>
+				<item id="36" text="Hivatkozások"/>
+				<item id="37" text="Hivatkozások beállításai"/>
+				<item id="38" text="Könyvjelzők"/>
+				<item id="39" text="Könyvjelzők beállításai"/>
+				<item id="40" text="Fej-/láblécek"/>
+				<item id="41" text="Fej- és láblécek beállításai"/>
+				<item id="42" text="Nyelvek"/>
+				<item id="43" text="Válassza ki a felület nyelvét"/>
+				<item id="44" text="Mentés"/>
+				<item id="45" text="Beállítások mentése"/>
+				<item id="46" text="E-mail"/>
+				<item id="47" text="E-mail beállításai"/>
+				<item id="48" text="cm"/>
+				<item id="49" text="centiméter"/>
+				<item id="50" text="centiméter"/>
+				<item id="51" text="hüv"/>
+				<item id="52" text="hüvelyk"/>
+				<item id="53" text="hüvelyk"/>
+				<item id="54" text="mm"/>
+				<item id="55" text="milliméter"/>
+				<item id="56" text="milliméter"/>
+				<item id="57" text="p"/>
+				<item id="58" text="pica"/>
+				<item id="59" text="pica"/>
+				<item id="60" text="pt"/>
+				<item id="61" text="pont"/>
+				<item id="62" text="pont"/>
+				<item id="63" text="Verziószám: %1.%2 build %3"/>
+				<item id="64" text="%1 x %2 %3"/>
+				<item id="65" text="Automatikus"/>
+				<item id="66" text="Egyéni"/>
+				<item id="67" text="Szokásos"/>
+				<item id="68" text="Laponként több oldal"/>
+				<item id="69" text="Füzet"/>
+				<item id="70" text="Brosúra"/>
+				<item id="71" text="Könyv"/>
+				<item id="72" text="Balról jobbra"/>
+				<item id="73" text="Jobbról balra"/>
+				<item id="74" text="Balról keresztben"/>
+				<item id="75" text="Balról lefelé"/>
+				<item id="76" text="Jobbról keresztben"/>
+				<item id="77" text="Jobbról lefelé"/>
+				<item id="78" text="1 oldal"/>
+				<item id="79" text="2 oldal"/>
+				<item id="80" text="4 oldal"/>
+				<item id="81" text="6 oldal"/>
+				<item id="82" text="8 oldal"/>
+				<item id="83" text="9 oldal"/>
+				<item id="84" text="16 oldal"/>
+				<item id="85" text="Automatikus"/>
+				<item id="86" text="Flate"/>
+				<item id="87" text="JPEG"/>
+				<item id="88" text="JPEG/ZIP"/>
+				<item id="89" text="JPEG 2000"/>
+				<item id="90" text="JPEG 2000/ZIP"/>
+				<item id="91" text="Futási hossz"/>
+				<item id="92" text="LZW"/>
+				<item id="93" text="CCITT Group 3"/>
+				<item id="94" text="CCITT Group 4"/>
+				<item id="95" text="JBIG 2"/>
+				<item id="96" text="Szokásos"/>
+				<item id="97" text="Szegélyek levágása"/>
+				<item id="98" text="Szimbólumtönörítés"/>
+				<item id="99" text="Nincs átalakítás"/>
+				<item id="100" text="Átalakítás szürkeárnyalatossá"/>
+				<item id="101" text="Átalakítás egyszínűvé"/>
+				<item id="102" text="Átalakítás fekete-fehérré"/>
+				<item id="103" text="Nincs méretcsökkentés"/>
+				<item id="104" text="Lineáris méretcsökkentés"/>
+				<item id="105" text="Bilineáris méretcsökkentés"/>
+				<item id="106" text="Bikubikus méretcsökkentés"/>
+				<item id="107" text="Termékazonosító:: %1"/>
+				<item id="108" text="Licenctípus: %1"/>
+				<item id="109" text="Bemutató verzió"/>
+				<item id="110" text="Egy felhasználó"/>
+				<item id="111" text="3 felhasználós csomag"/>
+				<item id="112" text="10 felhasználós licenc"/>
+				<item id="113" text="25 felhasználós licenc"/>
+				<item id="114" text="50 felhasználós licenc"/>
+				<item id="115" text="100 felhasználós licenc"/>
+				<item id="116" text="250 felhasználós licenc"/>
+				<item id="117" text="500 felhasználós licenc"/>
+				<item id="118" text="1000 felhasználós licenc"/>
+				<item id="119" text="Egy helyi licenc"/>
+				<item id="120" text="Országos licenc"/>
+				<item id="121" text="Világlicenc"/>
+				<item id="122" text="Egyetemi kampusz"/>
+				<item id="123" text="Fejlesztői kiadás"/>
+				<item id="124" text="Automatikus"/>
+				<item id="125" text="Verzió: 1.3 (Acrobat v3.0 és újabb)"/>
+				<item id="126" text="Verzió: 1.4 (Acrobat v5.0 és újabb)"/>
+				<item id="127" text="Verzió: 1.5 (Acrobat v6.0 és újabb)"/>
+				<item id="128" text="Verzió: 1.6 (Acrobat v7.0 és újabb)"/>
+				<item id="129" text="Verzió: 1.7 (Acrobat v8.0 és újabb)"/>
+				<item id="130" text="PDF/A-1a"/>
+				<item id="131" text="PDF/A-1b"/>
+				<item id="132" text="PDF/A-2a"/>
+				<item id="133" text="PDF/A-2b"/>
+				<item id="134" text="PDF/A-2u"/>
+				<item id="135" text="Megjelenítő alapértelmezése"/>
+				<item id="136" text="Egy oldal"/>
+				<item id="137" text="Egy hasáb"/>
+				<item id="138" text="Két oldal (fedőlap)"/>
+				<item id="139" text="Két oldal"/>
+				<item id="140" text="Két hasáb (fedőlap)"/>
+				<item id="141" text="Két hasáb"/>
+				<item id="142" text="Megjelenítő alapértelmezése"/>
+				<item id="143" text="Csak az oldalak megtekintése"/>
+				<item id="144" text="Könyvjelzők megjelenítése"/>
+				<item id="145" text="Miniatűrök megjelenítése"/>
+				<item id="146" text="Rétegek panel megjelenítése"/>
+				<item id="147" text="Teljes képernyő"/>
+				<item id="148" text="Alapértelmezett"/>
+				<item id="149" text="Tényleges méret"/>
+				<item id="150" text="Oldal illesztése"/>
+				<item id="151" text="Szélességhez illesztés"/>
+				<item id="152" text="Magassághoz illesztés"/>
+				<item id="153" text="Szint"/>
+				<item id="154" text="Egyik sem"/>
+				<item id="155" text="Csere"/>
+				<item id="156" text="Felosztás"/>
+				<item id="157" text="Rácsok"/>
+				<item id="158" text="Doboz"/>
+				<item id="159" text="Kitakarás"/>
+				<item id="160" text="Elosztás"/>
+				<item id="161" text="Csillogás"/>
+				<item id="162" text="Beúszás"/>
+				<item id="163" text="Kiúszás"/>
+				<item id="164" text="Tolás"/>
+				<item id="165" text="Behúzás"/>
+				<item id="166" text="Kihúzás"/>
+				<item id="167" text="Elhalványulás"/>
+				<item id="168" text="Véletlenszerű"/>
+				<item id="169" text="Vízszintesen befelé"/>
+				<item id="170" text="Vízszintesen kifelé"/>
+				<item id="171" text="Függőlegesen befelé"/>
+				<item id="172" text="Függőlegesen kifelé"/>
+				<item id="173" text="Vízszintes"/>
+				<item id="174" text="Függőleges"/>
+				<item id="175" text="Be"/>
+				<item id="176" text="Ki"/>
+				<item id="177" text="Jobbra"/>
+				<item id="178" text="Jobbra fel"/>
+				<item id="179" text="Fel"/>
+				<item id="180" text="Balra fel"/>
+				<item id="181" text="Balra"/>
+				<item id="182" text="Balra le"/>
+				<item id="183" text="Le"/>
+				<item id="184" text="Jobbra le"/>
+				<item id="185" text="Balra"/>
+				<item id="186" text="Középre"/>
+				<item id="187" text="Jobbra"/>
+				<item id="188" text="Fent"/>
+				<item id="189" text="Középen"/>
+				<item id="190" text="Lent"/>
+				<item id="191" text="PDF-dokumentumok (*.pdf)"/>
+				<item id="192" text="Átfedésfájl kiválasztása"/>
+				<item id="193" text="40 bites RC4 (Acrobat 3.0 és újabbal kompatibilis)"/>
+				<item id="194" text="128 bites RC4 (Acrobat 5.0 és újabbal kompatibilis)"/>
+				<item id="195" text="128 bites AES (Acrobat 7.0 és újabbal kompatibilis)"/>
+				<item id="196" text="256 bites AES (Acrobat 9.0 és újabbal kompatibilis)"/>
+				<item id="197" text="256 bites AES R6 (Acrobat X és újabbal kompatibilis)"/>
+				<item id="198" text="Egyik sem"/>
+				<item id="199" text="Csak dokumentum összeállítás"/>
+				<item id="200" text="Csak űrlapmező kitöltés vagy aláírás"/>
+				<item id="201" text="Megjegyzés szerzése, űrlapmező kitöltése vagy aláírása"/>
+				<item id="202" text="Általános szerkesztés, megjegyzés és űrlapmező tervezés"/>
+				<item id="203" text="Nem engedélyezett"/>
+				<item id="204" text="Alacsony felbontás"/>
+				<item id="205" text="Teljesen engedélyezett"/>
+				<item id="206" text="Vagy törölje 'A dokumentum megnyitásához jelszó szükséges' beállítást, vagy írja be a jelszót."/>
+				<item id="207" text="Vagy törölje 'Az engedélyek és/vagy a jelszó módosításához jelszó szükséges:' beállítást, vagy írja be a jelszót."/>
+				<item id="208" text="A dokumentum megnyitási és engedélyezési jelszava nem lehet azonos. Adjon meg eltérő jelszót az egyik jelszó mezőben."/>
+				<item id="209" text="Meg kell adni vagy a dokumentum megnyitási jelszót, vagy az engedélyezési jelszót."/>
+				<item id="210" text="Nincs szegély"/>
+				<item id="211" text="Aláhúzás"/>
+				<item id="212" text="Téglalap"/>
+				<item id="213" text="Kitöltött"/>
+				<item id="214" text="Szaggatott"/>
+				<item id="215" text="Pontozott"/>
+				<item id="216" text="Fekete"/>
+				<item id="217" text="Barna"/>
+				<item id="218" text="Sötét olajzöld"/>
+				<item id="219" text="Sötétzöld"/>
+				<item id="220" text="Sötét pávakék"/>
+				<item id="221" text="Sötétkék"/>
+				<item id="222" text="Indigókék"/>
+				<item id="223" text="Sötétszürke"/>
+				<item id="224" text="Sötétvörös"/>
+				<item id="225" text="Narancssárga"/>
+				<item id="226" text="Sötétsárga"/>
+				<item id="227" text="Zöld"/>
+				<item id="228" text="Pávakék"/>
+				<item id="229" text="Kék"/>
+				<item id="230" text="Kékesszürke"/>
+				<item id="231" text="Szürke - 40"/>
+				<item id="232" text="Vörös"/>
+				<item id="233" text="Világosnarancs"/>
+				<item id="234" text="Sárgászöld"/>
+				<item id="235" text="Tengerzöld"/>
+				<item id="236" text="Tengerkék"/>
+				<item id="237" text="Világoskék"/>
+				<item id="238" text="Lila"/>
+				<item id="239" text="Szürke - 50"/>
+				<item id="240" text="Rózsaszín"/>
+				<item id="241" text="Arany"/>
+				<item id="242" text="Sárga"/>
+				<item id="243" text="Élénkzöld"/>
+				<item id="244" text="Türkizkék"/>
+				<item id="245" text="Égkék"/>
+				<item id="246" text="Szilvakék"/>
+				<item id="247" text="Világosszürke"/>
+				<item id="248" text="Rózsa"/>
+				<item id="249" text="Sárgásbarna"/>
+				<item id="250" text="Világossárga"/>
+				<item id="251" text="Halványzöld"/>
+				<item id="252" text="Halvány türkiz"/>
+				<item id="253" text="Halványkék"/>
+				<item id="254" text="Levendula"/>
+				<item id="255" text="Fehér"/>
+				<item id="256" text="Automatikus"/>
+				<item id="257" text="Több szín..."/>
+				<item id="258" text="A megadott nevű elem már létezik Ki akarja cserélni a létező elemet?"/>
+				<item id="259" text="Valóban törölni akarja ezt az elemet?"/>
+				<item id="260" text="Valóban törölni akarja ezt a vízjelet?"/>
+				<item id="261" text="Meg kell adnia a vízjel szövegét."/>
+				<item id="262" text="Meg kell adnia a vízjel képfájljának nevét és elérési útját."/>
+				<item id="263" text="Nem lehet üres a vízjel címe!"/>
+				<item id="264" text="A vízjel címe ne tartalmazzon pontosvesszőt (;)."/>
+				<item id="265" text="Egyedinek kell lennie a vízjel címének!"/>
+				<item id="266" text="Valóban törölni akarja ez az egyéni űrlapot?"/>
+				<item id="267" text="Szöveg vízjele"/>
+				<item id="268" text="Kép vízjele"/>
+				<item id="269" text="&lt;Cím nélkül>"/>
+				<item id="270" text="Mind megnyitva"/>
+				<item id="271" text="Mind bezárva"/>
+				<item id="272" text="Elem által meghatározva"/>
+				<item id="273" text="Megnyitás csomópont szintre"/>
+				<item id="274" text="Normál"/>
+				<item id="275" text="Félkövér"/>
+				<item id="276" text="Dőlt"/>
+				<item id="277" text="Félkövér-dőlt"/>
+				<item id="278" text="%1. szint"/>
+				<item id="279" text="Fejléc"/>
+				<item id="280" text="Lábléc"/>
+				<item id="281" text="(nincs)"/>
+				<item id="282" text="%1. oldal"/>
+				<item id="283" text="%1. / %2 oldal"/>
+				<item id="284" text="Bizalmas"/>
+				<item id="285" text="Előkészítette: %1 %2"/>
+				<item id="286" text="Szokásos név"/>
+				<item id="287" text="Helyi név"/>
+				<item id="288" text="Nyelvazonosító"/>
+				<item id="289" text="Név"/>
+				<item id="290" text="Nyomtatás ide"/>
+				<item id="291" text="Háttérben"/>
+				<item id="292" text="Nézet"/>
+				<item id="293" text="Exportálás"/>
+				<item id="294" text="Nyomtatás"/>
+				<item id="295" text="Minden oldal"/>
+				<item id="296" text="Csak az első oldal"/>
+				<item id="297" text="Csak az utolsó oldal"/>
+				<item id="298" text="Páros oldalak"/>
+				<item id="299" text="Páratlan oldalak"/>
+				<item id="300" text="Űrlap neve"/>
+				<item id="301" text="Méret (mm)"/>
+				<item id="302" text="Méret (hüvelyk)"/>
+				<item id="303" text="Felhasználói űrlap"/>
+				<item id="304" text="Meg kell adnia az egyéni űrlap nevét."/>
+				<item id="305" text="Az egyéni űrlap nevének egyedinek kell lennie."/>
+				<item id="306" text="A feladatkezelés a pdfSaver™ használatával"/>
+				<item id="307" text="A jelenlegi feladat hozzáfűzése az utolsó aktív feladathoz"/>
+				<item id="308" text="A generált PDF-fájl mentése"/>
+				<item id="309" text="PDF generálása, küldés e-mailben majd törlés"/>
+				<item id="310" text="Figyelmeztető párbeszédpanel megjelenítése"/>
+				<item id="311" text="Mindig felülírja"/>
+				<item id="312" text="Automatikus számozás"/>
+				<item id="313" text="Egyesítés létezővel (Hozzáfűzés utána)"/>
+				<item id="314" text="Egyesítés létezővel (beszúrás elé)"/>
+				<item id="315" text="Új fájlnév kérése"/>
+				<item id="316" text="Válassza ki az eredményül kapott fájl(ok) tárolómappáját"/>
+				<item id="317" text="Alkalmazás kiválasztása"/>
+				<item id="318" text="Végrehajtható fájl (*.exe)"/>
+				<item id="319" text="Minden fájl"/>
+				<item id="320" text="Az alapértelmezett levelezőprogram indítása"/>
+				<item id="321" text="Küldés az alapértelmezett levelezőprogrammal"/>
+				<item id="322" text="Küldés közvetlenül SMTP-kiszolgálón keresztül"/>
+				<item id="323" text="Valóban el akarja távolítani a kiválasztott SMTP-kiszolgáló beállításait?"/>
+				<item id="324" text="Címzettek kiválasztása"/>
+				<item id="325" text="Egyik sem"/>
+				<item id="326" text="STARTTLS használata"/>
+				<item id="327" text="SSL/TLS használata"/>
+				<item id="328" text="Meg kell adni az SMTP-kiszolgáló nevét!"/>
+				<item id="329" text="1024 bites RSA"/>
+				<item id="330" text="2048 bites RSA"/>
+				<item id="331" text="Nem megfelelő a jelszó. A jelszónak legalább hat karakter hosszúnak kell lennie."/>
+				<item id="332" text="Nem egyeznek a jelszavak. Írja be újra a jelszót."/>
+				<item id="333" text="Önaláírt digitális azonosító létrehozásához szükség van egy névre."/>
+				<item id="334" text="Önaláírt digitális azonosító létrehozásához egy unicode névre van szükség."/>
+				<item id="335" text="Önaláírt digitális azonosító létrehozásához e-mail cím szükséges."/>
+				<item id="336" text="Megfelelő e-mail címet adjon meg (például: janos@level.hu)."/>
+				<item id="337" text="A(z) '%1' mező ASCII-karakterekre korlátozott. Csak a következő karakterek használata engedélyezett: szóköz a-z A-Z 0-9 ' ( ) + , - . / : = ?"/>
+				<item id="338" text="Személyes információcsere (*.pfx, *.p12)"/>
+				<item id="339" text="Tanúsítvány mentése"/>
+				<item id="340" text="Tanúsítványfájl kiválasztása"/>
+				<item id="341" text="&lt;Nincs>"/>
+				<item id="342" text="Én vagyok a dokumentum szerzője"/>
+				<item id="343" text="Egyetértek a dokumentum megadott részeivel"/>
+				<item id="344" text="Ellenőriztem a dokumentumot"/>
+				<item id="345" text="Jóváhagyom a dokumentumot"/>
+				<item id="346" text="Tanúsítom a dokumentum pontosságát és sértetlenségét"/>
+				<item id="347" text="Elfogadom az aláírásom ezen dokumentumon való elhelyezésével meghatározott feltételeket"/>
+				<item id="348" text="Nincs kiválasztva a digitális tanúsítvány, vagy rosszak a megadott paraméterek. Kívánja javítani az értékeket?"/>
+				<item id="349" text="Kiszolgáló URL-címe"/>
+				<item id="350" text="Kiszolgáló neve"/>
+				<item id="351" text="Valóban törölni akarja ezt a kiszolgáló-definíciót?"/>
+				<item id="352" text="&amp;Utoljára használt elérési út"/>
+				<item id="353" text="Asztal"/>
+				<item id="354" text="Dokumentumok"/>
+				<item id="355" text="Képek"/>
+				<item id="356" text="Kedvencek"/>
+				<item id="357" text="Ideiglenes mappa"/>
+				<item id="358" text="TMP mappa"/>
+				<item id="359" text="A termék súgója"/>
+				<item id="360" text="Honlap"/>
+				<item id="361" text="Támogató fórum"/>
+				<item id="362" text="Probléma bejelentése"/>
+				<item id="363" text="Profilok"/>
+				<item id="364" text="Profilok beállításai"/>
+				<item id="365" text="Név"/>
+				<item id="366" text="Megjegyzés"/>
+				<item id="367" text="Új profil"/>
+				<item id="368" text="Nem lehet üres a profil neve!"/>
+				<item id="369" text="Már létezik profil a megadott néven! Kívánja felülírni ezt a profilt?"/>
+				<item id="370" text="Valóban törölni akarja ezt a profilt?"/>
+				<item id="371" text="Nem távolíthatja el a jelenlegi profilt. Válasszon másik profilt alapértelmezettként a profil törlése előtt."/>
+				<item id="372" text="Már létezik '%1' nevű profil. Kívánja felülírni?"/>
+				<item id="373" text="Valóban fel kívánja használni a kiválasztott profilt?"/>
+				<item id="374" text="PDF-XChange 2013 profil (*.pp5)"/>
+				<item id="375" text="Profilfájl választása"/>
+				<item id="376" text="&amp;Személyre szabás..."/>
+				<item id="377" text="Súgó"/>
+				<item id="378" text="Riasztás"/>
+				<item id="379" text="Mivel az 'Általános' beállításlapon bejelölte a PDF/A formátum specifikációt, néhány beállítás letiltásra és/vagy beállításra került ezen a lapon a megfeleléshez.  Részletesebb információ a 'súgóban' található."/>
+				<item id="380" text="Alapértelmezett fájl hozzáfűzés"/>
+				<item id="381" text="További fájl hozzáfűzési/beszúrási beállítások"/>
+				<item id="382" text="Optimalizálás"/>
+				<item id="383" text="Optimalizálási beállítások"/>
+				<item id="384" text="Fájl választása"/>
+				<item id="385" text="Normál"/>
+				<item id="386" text="Többszörös"/>
+				<item id="387" text="Képernyő"/>
+				<item id="388" text="Átfedés"/>
+				<item id="389" text="Sötétítés"/>
+				<item id="390" text="Világosítás"/>
+				<item id="391" text="ColorDodge"/>
+				<item id="392" text="ColorBurn"/>
+				<item id="393" text="HardLight"/>
+				<item id="394" text="SoftLight"/>
+				<item id="395" text="Eltérés"/>
+				<item id="396" text="Kizárás"/>
+				<item id="397" text="Egyik sem"/>
+				<item id="398" text="Egyszerű"/>
+				<item id="399" text="Beállítások"/>
+				<item id="400" text="Névjegy"/>
+			</strings>
+		</module>
+		<module id="pdfSaver" name="pdfSaver">
+			<dialogs>
+				<dialog id="101" text="">
+					<item id="1" text="&amp;Elrejtés"/>
+					<item id="1030" text="&amp;Súgó"/>
+				</dialog>
+				<dialog id="102" text="Nyomtatási folyamat">
+					<item id="1036" text="Mégse"/>
+				</dialog>
+				<dialog id="103" text="">
+					<item id="2" text="Mégse"/>
+					<item id="6" text="Új prób&amp;a"/>
+					<item id="1037" text="Fájl&amp;név módosítása..."/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1001" text="&amp;Cím:"/>
+					<item id="1002" text="&amp;Tárgy:"/>
+					<item id="1003" text="&amp;Szerző:"/>
+					<item id="1004" text="&amp;Kulcsszavak:"/>
+					<item id="1005" text="&amp;Létrehozó:"/>
+					<item id="1020" text="PDF &amp;információk"/>
+					<item id="1038" text="További információk elhelyezése a &amp;dokumentumban"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1000" text="másodperc"/>
+					<item id="1001" text="A folyamatkijelző ablak tömörsége:"/>
+					<item id="1002" text="A &amp;feladatfájlok alapértelmezett mappája:"/>
+					<item id="1020" text="Egyéb beállítások"/>
+					<item id="1021" text="Feladatok beállításai"/>
+					<item id="1044" text="&amp;Ikon megjeleníése az értesítési területen"/>
+					<item id="1045" text="A pdfSaver &amp;futtatása a Windows indításakor"/>
+					<item id="1046" text="A &amp;nyomtatási folyamatkijelző ablak megjelenítése"/>
+					<item id="1047" text="A pdfSaver a&amp;utomatikus eltávolítása a memóriából, után:"/>
+					<item id="1050" text="Finomhangolások"/>
+					<item id="1051" text="Nincs ideiglenes fájl eltávolítás"/>
+					<item id="1052" text="Nem kerül törlésre az ideiglenes mappa a pdfSaver indításakor"/>
+					<item id="1053" text="A 'Finomhangolások' parancssori argumentum nélküli megjelenítése"/>
+					<item id="1095" text="T&amp;allózás..."/>
+					<item id="1096" text="A feladatok automatikus menté&amp;se"/>
+					<item id="1097" text="A &amp;létező feladatok automatikus betöltése indításkor"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1003" text="Copyright © 2001-16 by Tracker Software Products (Canada) Ltd. Minden jog fenntartva."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1000" text="Művelet:"/>
+					<item id="1001" text="A választott fájlnév létezik már. Adja meg a szükséges végrehajtandó műveletet:"/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1021" text="Lokalizációs beállítások"/>
+					<item id="1022" text="Elérhető nyelvek"/>
+					<item id="1057" text="A felhasználók te&amp;rületi beállításainak használata"/>
+					<item id="1060" text="Beállítás alapértelmezettként"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1020" text="Feladatcsoportok"/>
+					<item id="1021" text="Feladatok dokumentumok"/>
+					<item id="1059" text="Betö&amp;ltés..."/>
+					<item id="2006" text="Menté&amp;s"/>
+					<item id="2007" text="&amp;Eltávolítás..."/>
+					<item id="2008" text="&amp;Generálás"/>
+					<item id="2010" text="&amp;Fel"/>
+					<item id="2011" text="&amp;Le"/>
+					<item id="2012" text="Leválasztás"/>
+					<item id="2013" text="Eltávolítás"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1001" text="&amp;Metódus:"/>
+					<item id="1002" text="&amp;Feladó:"/>
+					<item id="1003" text="Címze&amp;tt:"/>
+					<item id="1004" text="&amp;Másolat:"/>
+					<item id="1005" text="&amp;Tárgy:"/>
+					<item id="1006" text="Tartal&amp;om:"/>
+					<item id="1007" text="Ki&amp;szolgáló:"/>
+					<item id="1008" text="&amp;Titkos másolat:"/>
+					<item id="1021" text="E-mail tulajdonságai"/>
+					<item id="1022" text="SMTP tulajdonságai"/>
+					<item id="1081" text="A létrehozott dokumentum küldése e-mail &amp;mellékletként"/>
+					<item id="1082" text="A dokumentum küldése &amp;ZIP-archívumban"/>
+					<item id="1090" text="S&amp;zerkesztés..."/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1000" text="&amp;Cím:"/>
+					<item id="1001" text="&amp;Tárgy:"/>
+					<item id="1002" text="&amp;Szerző:"/>
+					<item id="1003" text="&amp;Kulcsszavak:"/>
+					<item id="1004" text="&amp;Létrehozó:"/>
+					<item id="1005" text="&amp;Készítő:"/>
+					<item id="1006" text="PDF-verzió:"/>
+					<item id="1007" text="Lapok száma"/>
+					<item id="1008" text="Linearizálva:"/>
+					<item id="1020" text="PDF információk"/>
+					<item id="1021" text="Dokumentumra vonatkozó információk"/>
+					<item id="1038" text="További információk elhelyezése a &amp;dokumentumban"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1001" text="Jelszó:"/>
+					<item id="1002" text="Jelszó:"/>
+					<item id="1003" text="&amp;Titkosítási szint:"/>
+					<item id="1020" text="A dokumentum jelszavai"/>
+					<item id="1022" text="A dokumentum jelszavai"/>
+					<item id="1065" text="PDF-biztonság &amp;használata"/>
+					<item id="1066" text="A d&amp;okumentum megnyitásához jelszó szükséges:"/>
+					<item id="1067" text="Az engedélyek és/vagy a jelszó mó&amp;dosításához jelszó szükséges:"/>
+				</dialog>
+				<dialog id="113" text="Új dokumentum kezelése">
+					<item id="2" text="Mégse"/>
+					<item id="1020" text="Létező feladat&amp;csoportok"/>
+					<item id="2003" text="Ú&amp;j csoport létrehozása"/>
+					<item id="2004" text="Hozzáfűzés &amp;a kijelöltek végéhez"/>
+					<item id="2005" text="A PDF-dokumentum menté&amp;se"/>
+				</dialog>
+				<dialog id="114" text="Kimenő levelek kiszolgálója">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1001" text="&amp;Fióknév:"/>
+					<item id="1002" text="&amp;Jelszó:"/>
+					<item id="1003" text="Né&amp;v:"/>
+					<item id="1004" text="P&amp;ort:"/>
+					<item id="1020" text="SMTP-kiszolgáló tulajdonságai"/>
+					<item id="1021" text="Bejelentkezési adatok"/>
+					<item id="1094" text="A kiszolgáló &amp;hitelesítést igényel"/>
+					<item id="1097" text="Bejelentkezés bizton&amp;ságos jelszóhitelesítéssel"/>
+				</dialog>
+				<dialog id="115" text="Jelszó">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="1001" text="A dokumentum jelszóval védett módosítás ellen."/>
+					<item id="1002" text="Adja meg a dokumentum érvényes felhasználói vagy tulajdonosi jelszavát:"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1098" text="További tul&amp;ajdonságok..."/>
+					<item id="1099" text="A &amp;megjelenítő alkalmazás futtatása mentés után"/>
+					<item id="2000" text="A PDF küldése &amp;e-mailben a létrehozás után"/>
+					<item id="2001" text="Hozzáfűzés létező &amp;PDF végéhez"/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1001" text="En&amp;gedélyezett módosítások:"/>
+					<item id="1002" text="A dokumentum ki&amp;nyomtatása:"/>
+					<item id="1076" text="A tartalomhoz v&amp;aló hozzáférés engedélyezése látássérülteknek"/>
+					<item id="1077" text="A &amp;tartalom másolásának és kinyerésének engedélyezése"/>
+					<item id="1080" text="A dokumentum &amp;metaadatainak titkosítása (Acrobat 6.0 vagy újabbal kompatibilis)"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1072" text="A &amp;nyomtatás engedélyezése"/>
+					<item id="1073" text="A &amp;dokumentum módosításának engedélyezése"/>
+					<item id="1074" text="&amp;A tartalommásolás vagy -kinyerés, ill. a kisegítő lehetőségek engedélyezése"/>
+					<item id="1075" text="&amp;Megjegyzések és űrlapmezők hozzáadásának vagy módosításának engedélyezése"/>
+				</dialog>
+			</dialogs>
+			<strings count="75">
+				<item id="0" text="A(z) &quot;%1&quot; fájl a következő hiba miatt nem menthető:  %2  Mit kíván ezután tenni?"/>
+				<item id="1" text="Közvetlen felülírás"/>
+				<item id="2" text="Automatikus számozás"/>
+				<item id="3" text="Egyesítés létezővel (hozzáfűzés a végéez)"/>
+				<item id="4" text="Egyesítés létezővel (beszúrás elé)"/>
+				<item id="5" text="A feladat végrehajtásának megszakítása, és a feladat elhagyása"/>
+				<item id="6" text="Válasszon másik fájlt"/>
+				<item id="7" text="PDF-dokumentumok (*.pdf)"/>
+				<item id="8" text="Minden fájl"/>
+				<item id="9" text="%1%% kész"/>
+				<item id="10" text="Nyomtatási sor feldolgozása..."/>
+				<item id="11" text="%1. oldal"/>
+				<item id="12" text="Nem zárult be a pdfSaver. A pdfSaverből való kilépéshez a tálca menüjében válassza a Kilépés elemet."/>
+				<item id="13" text="Optimalizálás..."/>
+				<item id="14" text="PDF generálása..."/>
+				<item id="15" text="PDF mentése..."/>
+				<item id="16" text="PDF küldése"/>
+				<item id="17" text="Verziószám%1.%2 build %3"/>
+				<item id="18" text="Feladatok"/>
+				<item id="19" text="Nyelvek"/>
+				<item id="20" text="Beállítások"/>
+				<item id="21" text="Névjegy"/>
+				<item id="22" text="Küldés e-mailben"/>
+				<item id="23" text="Információ"/>
+				<item id="24" text="Biztonság"/>
+				<item id="25" text="További tulajdonságok"/>
+				<item id="26" text="&amp;PDF létrehozása"/>
+				<item id="27" text="PDF megtekintése"/>
+				<item id="28" text="Szokásos név"/>
+				<item id="29" text="Helyi név"/>
+				<item id="30" text="Nyelvazonosító"/>
+				<item id="31" text="Valóban törölni akarja a kiválasztott feladatcsoportokat?"/>
+				<item id="32" text="Valóban törölni akarja a kiválasztott dokumentumot?"/>
+				<item id="33" text="A megadott jelszó érvénytelen. Kíván új jelszót megadni?"/>
+				<item id="34" text="Meg kell adni az SMTP-kiszolgáló nevét!"/>
+				<item id="35" text="Vagy törölje 'A dokumentum megnyitásához jelszó szükséges' beállítást, vagy írja be a jelszót."/>
+				<item id="36" text="Vagy törölje 'Az engedélyek és/vagy a jelszó módosításához jelszó szükséges:' beállítást, vagy írja be a jelszót."/>
+				<item id="37" text="A dokumentum megnyitási és engedélyezési jelszava nem lehet azonos.Adjon meg eltérő jelszót az egyik jelszó mezőben."/>
+				<item id="38" text="Meg kell adni vagy a dokumentum megnyitási jelszót, vagy az engedélyezési jelszót."/>
+				<item id="39" text="Cím"/>
+				<item id="40" text="Dokumentumok száma"/>
+				<item id="41" text="Lapok száma"/>
+				<item id="42" text="Dokumentum"/>
+				<item id="43" text="Oldalak"/>
+				<item id="44" text="40 bites RC4 (Acrobat 3.0 és újabbal kompatibilis)"/>
+				<item id="45" text="128 bites RC4 (Acrobat 5.0 és újabbal kompatibilis)"/>
+				<item id="46" text="128 bites AES (Acrobat 7.0 és újabbal kompatibilis)"/>
+				<item id="47" text="256 bites AES (Acrobat 9.0 és újabbal kompatibilis)"/>
+				<item id="48" text="256 bites AES R6 (Acrobat X és újabbal kompatibilis)"/>
+				<item id="49" text="Egyik sem"/>
+				<item id="50" text="Csak dokumentum összeállítás"/>
+				<item id="51" text="Csak űrlapmező kitöltés vagy aláírás"/>
+				<item id="52" text="Megjegyzés szerzése, űrlapmező kitöltése vagy aláírása"/>
+				<item id="53" text="Általános szerkesztés, megjegyzés és űrlapmező tervezés"/>
+				<item id="54" text="Nem engedélyezett"/>
+				<item id="55" text="Alacsony felbontás"/>
+				<item id="56" text="Teljesen engedélyezett"/>
+				<item id="57" text="Verzió: 1.3 (Acrobat v3.0 és újabb)"/>
+				<item id="58" text="Verzió: 1.4 (Acrobat v5.0 és újabb)"/>
+				<item id="59" text="Verzió: 1.5 (Acrobat v6.0 és újabb)"/>
+				<item id="60" text="Verzió: 1.6 (Acrobat v7.0 és újabb)"/>
+				<item id="61" text="Verzió: 1.7 (Acrobat v8.0 és újabb)"/>
+				<item id="62" text="PDF/A-1a"/>
+				<item id="63" text="PDF/A-1b"/>
+				<item id="64" text="PDF/A-2a"/>
+				<item id="65" text="PDF/A-2b"/>
+				<item id="66" text="PDF/A-2u"/>
+				<item id="67" text="Nem"/>
+				<item id="68" text="Az alapértelmezett levelezőprogram indítása"/>
+				<item id="69" text="Küldés az alapértelmezett levelezőprogrammal"/>
+				<item id="70" text="Küldés közvetlenül SMTP-kiszolgálón keresztül"/>
+				<item id="71" text="A termék súgója"/>
+				<item id="72" text="Honlap"/>
+				<item id="73" text="Támogató fórum"/>
+				<item id="74" text="Probléma bejelentése"/>
+			</strings>
+		</module>
+		<module id="Kiegészítő" name="Office-kiegészítő">
+			<dialogs>
+				<dialog id="1" text="">
+					<item id="207" text="A könyvjelzők &amp;generálása az eredményül kapott PDF-fájlban"/>
+					<item id="212" text="Az összes kijelölése"/>
+					<item id="213" text="Az összes törlése"/>
+					<item id="233" text="Létező stílusok"/>
+					<item id="246" text="Az összes könyvjelző kibontása"/>
+				</dialog>
+				<dialog id="202" text="PDF-XChange 5.0">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+				</dialog>
+				<dialog id="203" text="">
+					<item id="222" text="Hivatkozások generálása az eredményül kapott PDF-fájlban"/>
+					<item id="223" text="Láb- és végjegyzet hivatkozások"/>
+					<item id="224" text="Dokumentumok közötti hivatkozások"/>
+					<item id="225" text="Internetes hivatkozások"/>
+					<item id="226" text="Kereszthivatkozások"/>
+					<item id="232" text="A céldokumentum címzése relatív elérési útnévvel"/>
+					<item id="233" text="MS Office-hivatkozások átalakítása"/>
+					<item id="234" text="Hivatkozások megjelenése"/>
+					<item id="235" text="Dokumentumok közötti hivatkozások"/>
+					<item id="236" text="Szegély &amp;típusa:"/>
+					<item id="237" text="Szegély &amp;stílusa:"/>
+					<item id="238" text="Szegély s&amp;zélessége:"/>
+					<item id="239" text="pont"/>
+					<item id="240" text="Szegély szí&amp;ne:"/>
+					<item id="241" text="A fájlkiterjesztés PDF-re módosítása"/>
+				</dialog>
+				<dialog id="205" text="Levélküldés beállításai">
+					<item id="1" text="OK"/>
+					<item id="2" text="Mégse"/>
+					<item id="236" text="Címzett:"/>
+					<item id="237" text="Másolat:"/>
+					<item id="238" text="Tárgy:"/>
+					<item id="239" text="Szöveg:"/>
+					<item id="240" text="Az elküldendő fájlnév:"/>
+				</dialog>
+				<dialog id="208" text="">
+					<item id="233" text="Speciális beállítások"/>
+					<item id="234" text="Actify SFO beállításai"/>
+					<item id="241" text="A PDF-fájlok alapé&amp;rtelmezett alkalmazásának futtatása átalakítás után"/>
+					<item id="242" text="A dokumentum menté&amp;se átalakítás előtt"/>
+					<item id="243" text="A &amp;PDF-fájl nevének kérése"/>
+					<item id="244" text="A PDF-fájl eltávolítása az e-m&amp;ailben elküldés után"/>
+					<item id="245" text="A &amp;dokumentumra vonatkozó információk átalakítása"/>
+					<item id="246" text="Az Actify 3D felismerés engedélyezése"/>
+					<item id="247" text="Az U3D-kimenet tömörítése (lassúbb)"/>
+					<item id="248" text="&amp;A dokumentum mentése az eredeti dokumentum mappájába"/>
+				</dialog>
+				<dialog id="209" text="PDF-XChange 5.0">
+					<item id="2" text="Mégse"/>
+				</dialog>
+				<dialog id="210" text="">
+					<item id="205" text="Az egyes diák elhelyezése könyvjelzőként"/>
+					<item id="246" text="Az áttűnés átalakítása"/>
+				</dialog>
+				<dialog id="236" text="">
+					<item id="249" text="A teljes munkalap nyomtatása"/>
+				</dialog>
+				<dialog id="237" text="Űrlapok">
+					<item id="246" text="Webűrlapok átalakítása"/>
+					<item id="247" text="Változatjelölések átalakítása"/>
+				</dialog>
+				<dialog id="238" text="">
+					<item id="250" text="&amp;Speciális..."/>
+				</dialog>
+				<dialog id="248" text="">
+					<item id="249" text="Az összes oldal kinyomtatása"/>
+				</dialog>
+			</dialogs>
+			<strings count="54">
+				<item id="0" text="Beállítások"/>
+				<item id="1" text="Hivatkozások"/>
+				<item id="2" text="Könyvjelzők"/>
+				<item id="3" text="PowerPoint beállításai"/>
+				<item id="4" text="Excel beállításai"/>
+				<item id="5" text="Visio beállításai"/>
+				<item id="6" text="Word beállításai"/>
+				<item id="7" text="Speciális"/>
+				<item id="8" text="PDF-XChange 2013"/>
+				<item id="9" text="PDF-XChange 2013"/>
+				<item id="10" text="PDF-XChange 2013"/>
+				<item id="11" text="Átalakítás PDF-fájllá"/>
+				<item id="12" text="&amp;Dokumentum átalakítása PDF-fájllá"/>
+				<item id="13" text="C"/>
+				<item id="14" text="PDF létrehozása és küldése e-mailben"/>
+				<item id="15" text="PDF-fájl létrehozása a jelenlegi dokumentumból, és küldése e-mailben"/>
+				<item id="16" text="E"/>
+				<item id="17" text="Beállítások"/>
+				<item id="18" text="A PDF létrehozási folyamat beállításainak konfigurálása"/>
+				<item id="19" text="S"/>
+				<item id="20" text="Me&amp;ntés PDF-fájlként"/>
+				<item id="21" text="A jelenlegi dokumentum mentése PDF-fájlként a PDF-XChange 2013 használatával"/>
+				<item id="22" text="A jelenlegi dokumentum mentése PDF-fájlként a PDF-XChange 2013 használatával"/>
+				<item id="23" text="C"/>
+				<item id="24" text="PDF létrehozása és küldése e-mailben"/>
+				<item id="25" text="PDF-fájl létrehozása a jelenlegi dokumentumból, és küldése e-mailben a PDF-XChange 2013 használatával"/>
+				<item id="26" text="PDF-fájl létrehozása a jelenlegi dokumentumból, és küldése e-mailben a PDF-XChange 2013 használatával"/>
+				<item id="27" text="E"/>
+				<item id="28" text="Hiba"/>
+				<item id="29" text="A PDF-XChange nyomtató illesztőprogram nem található, vagy nem lehet betölteni.Telepítse újra."/>
+				<item id="30" text="PDF-XChange 5.0 beállításai"/>
+				<item id="31" text="%1: %2%% kész"/>
+				<item id="32" text="Lábjegyzet feldolgozása"/>
+				<item id="33" text="Végjegyzet feldolgozása"/>
+				<item id="34" text="Hiperhivatkozások feldolgozása"/>
+				<item id="35" text="Belső hivatkozások feldolgozása"/>
+				<item id="36" text="Címsorok feldolgozása"/>
+				<item id="37" text="Átmenetek feldolgozása"/>
+				<item id="38" text="Webűrlapok feldolgozása"/>
+				<item id="39" text="U3D Actify objektumok feldolgozása"/>
+				<item id="40" text="Nincs szegély"/>
+				<item id="41" text="Aláhúzás"/>
+				<item id="42" text="Téglalap"/>
+				<item id="43" text="Kitöltött"/>
+				<item id="44" text="Szaggatott"/>
+				<item id="45" text="Pontozott"/>
+				<item id="46" text="Stílus"/>
+				<item id="47" text="Típus"/>
+				<item id="48" text="Szint"/>
+				<item id="49" text="Egyéni"/>
+				<item id="50" text="Szokásos"/>
+				<item id="51" text="PDF-XChange 2013 AcroPlot"/>
+				<item id="52" text="PDF-XChange 2013 AcroPlot"/>
+				<item id="53" text="PDF-XChange 2013 AcroPlot"/>
+			</strings>
+		</module>
+		<module id="Office2PDF" name="Office2PDF">
+			<dialogs>
+				<dialog id="100" text="Névjegy">
+					<item id="1003" text="Copyright © 2001-16 by Tracker Software Products (Canada) Ltd. Minden jog fenntartva."/>
+					<item id="1004" text="Az alkalmazás a PDF-XChange 2012 illesztőprogrammal alakít át PDF-formátumba Office-dokumentumokat. Az alkalmazás használatához telepíteni kell az illesztőprogramot."/>
+				</dialog>
+				<dialog id="129" text="OFFice2PDF 2013">
+					<item id="1" text="Ugrás"/>
+					<item id="2" text="Kilépés"/>
+					<item id="1020" text="Listaműveletek"/>
+					<item id="1030" text="Hozzáadás"/>
+					<item id="1031" text="Törlés"/>
+					<item id="1032" text="Az összes törlése"/>
+					<item id="1033" text="Az alkalmazás grafikus felhasználói felületének megjelenítése"/>
+					<item id="1034" text="Mappa"/>
+					<item id="1035" text="A fájlok automatikus feldolgozása az épp hozzáadott 'figyelt' mappából"/>
+					<item id="1044" text="Az átalakított dokumentumok tárolása az eredeti mappáikban"/>
+				</dialog>
+			</dialogs>
+			<strings count="28">
+				<item id="0" text="A PDF-XChange nyomtató illesztőprogram nem található, vagy nem lehet betölteni. Telepítse újra."/>
+				<item id="1" text="Nem regisztrált"/>
+				<item id="2" text="Termékazonosító:"/>
+				<item id="3" text="Licenctípus:"/>
+				<item id="4" text="PDF-XChange 2013 beállításai"/>
+				<item id="5" text="Várjon..."/>
+				<item id="6" text="Ugrás"/>
+				<item id="7" text="Verziószám: %1.%2 build %3"/>
+				<item id="8" text="Szeretné a(z) '%s' mappát figyeltként hozzáadni?"/>
+				<item id="9" text="A(z) '%s' mappa olyan fájlokat tartalmaz, melyeket fel lehet dolgozni. Szeretné most feldolgozni őket?"/>
+				<item id="10" text="Nem található a súgófájl."/>
+				<item id="11" text="Nincs telepítve az MS Word alkalmazás. A megfelelő dokumentumok nem kerülnek feldolgozásra."/>
+				<item id="12" text="Nincs telepítve az MS Excel alkalmazás. A megfelelő dokumentumok nem kerülnek feldolgozásra."/>
+				<item id="13" text="Nincs telepítve az Internet Explorer alkalmazás. A megfelelő dokumentumok nem kerülnek feldolgozásra."/>
+				<item id="14" text="Microsoft Word"/>
+				<item id="15" text="Microsoft Excel"/>
+				<item id="16" text="Internet Explorer"/>
+				<item id="17" text="Word-dokumentumok"/>
+				<item id="18" text="Excel-dokumentumok"/>
+				<item id="19" text="IE-dokumentumok"/>
+				<item id="20" text="Minden támogatott formátum"/>
+				<item id="21" text="Figyelt könyvtárak"/>
+				<item id="22" text="Beállítások"/>
+				<item id="23" text="Információ"/>
+				<item id="24" text="Beállítások..."/>
+				<item id="25" text="Kilépés"/>
+				<item id="26" text="Súgó..."/>
+				<item id="27" text="Névjegy..."/>
+			</strings>
+		</module>
+	</modules>
+</Localization>

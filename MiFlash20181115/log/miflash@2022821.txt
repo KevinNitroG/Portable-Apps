@@ -1,0 +1,15 @@
+[9:52:37 SA]:open RegistryKey Software\XiaoMi\MiFlash\
+[9:52:37 SA]:create RegistryKey Software\XiaoMi\MiFlash\
+[9:52:38 SA]:install driver D:\Portable Apps\MiFlash20181115\Source\ThirdParty\Google\Driver\android_winusb.inf to ,result False,GetLastWin32Error Unknown error (0xe000024b)
+[9:52:38 SA]:mkdir "C:\Users\Admin\.android"
+[9:52:38 SA]:output:
+[9:52:38 SA]: echo 0x2717 >>"C:\Users\Admin\.android\adb_usb.ini"
+[9:52:38 SA]:output:
+[9:52:38 SA]:open RegistryKey Software\XiaoMi\MiFlash\
+[9:52:38 SA]:install driver D:\Portable Apps\MiFlash20181115\Source\ThirdParty\Nvidia\Driver\NvidiaUsb.inf to ,result False,GetLastWin32Error Unknown error (0xe000022f)
+[9:52:38 SA]:open RegistryKey Software\XiaoMi\MiFlash\
+[9:52:38 SA]:install driver D:\Portable Apps\MiFlash20181115\Source\ThirdParty\Microsoft\Driver\tetherxp.inf to ,result False,GetLastWin32Error Unknown error (0xe000022f)
+[9:52:38 SA]:open RegistryKey Software\XiaoMi\MiFlash\
+[9:52:39 SA]:install driver D:\Portable Apps\MiFlash20181115\Source\ThirdParty\Microsoft\Driver\wpdmtphw.inf to ,result False,GetLastWin32Error Unknown error (0xe000022f)
+[9:52:39 SA]:open RegistryKey Software\XiaoMi\MiFlash\
+[9:52:39 SA]:install driver D:\Portable Apps\MiFlash20181115\Source\ThirdParty\Qualcomm\Driver\qcser.inf to ,result False,GetLastWin32Error Unknown error (0xe000024b)

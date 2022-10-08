@@ -1,0 +1,1364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="PDFXPrinter" version="1.0" productVersion="5.0.0256.0000"/>
+	<language eName="Japanese" lName="日本語" lcid="0x0411" prefFont="ＭＳ Ｐゴシック"/>
+	<modules>
+		<module id="driver" name="Driver">
+			<dialogs>
+				<dialog id="101" text="PDF-XChange Printer について">
+					<item id="1033" text="ライセンス情報 :"/>
+					<item id="1040" text="Copyright © 2011-17 by Tracker Software Products (Canada) Ltd. All Rights Reserved"/>
+					<item id="1143" text="ユーザー登録(&amp;R) ..."/>
+					<item id="1144" text="ヘルプ(&amp;H) ..."/>
+				</dialog>
+				<dialog id="102" text="設定"/>
+				<dialog id="103" text="">
+					<item id="1001" text="標準(&amp;S) :"/>
+					<item id="1002" text="カスタム(&amp;C) :"/>
+					<item id="1006" text="回転1"/>
+					<item id="1008" text="回転2"/>
+					<item id="1011" text="回転1"/>
+					<item id="1014" text="回転1"/>
+					<item id="1017" text="縦向き(&amp;P)"/>
+					<item id="1018" text="横向き(&amp;L)"/>
+					<item id="1026" text="X軸で反転"/>
+					<item id="1027" text="Y軸で反転"/>
+					<item id="1030" text="x"/>
+					<item id="1031" text="マージン(&amp;M) :"/>
+					<item id="1032" text="解像度(&amp;R) :"/>
+					<item id="1033" text="スケール(&amp;A) :"/>
+					<item id="1034" text="用紙の向き :"/>
+					<item id="1035" text="タイプ :"/>
+					<item id="1036" text="用紙サイズ :"/>
+					<item id="1037" text="サイズ :"/>
+					<item id="1038" text="x"/>
+					<item id="1050" text="ページサイズ"/>
+					<item id="1051" text="画像"/>
+					<item id="1052" text="レイアウト"/>
+					<item id="1053" text="高度な印刷オプション"/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1030" text="PDFのヴァージョン(&amp;S) :"/>
+					<item id="1031" text="PDFドキュメントを開くとき"/>
+					<item id="1032" text="ページレイアウト(&amp;L) :"/>
+					<item id="1033" text="ページモード(&amp;M) :"/>
+					<item id="1034" text="フルスクリーン時のモード(&amp;F) :"/>
+					<item id="1035" text="倍率(&amp;G) :"/>
+					<item id="1036" text="%"/>
+					<item id="1037" text="初期表示するページ(&amp;O) :"/>
+					<item id="1038" text="切り替え方法 :"/>
+					<item id="1039" text="ページの表示時間 :"/>
+					<item id="1040" text="秒"/>
+					<item id="1041" text="切り替えモード :"/>
+					<item id="1042" text="切り替え時間 :"/>
+					<item id="1043" text="秒"/>
+					<item id="1044" text="ビューアの設定"/>
+					<item id="1050" text="PDFの種類"/>
+					<item id="1051" text="ページの切り替え"/>
+					<item id="1076" text="ツールバーを隠す(&amp;T)"/>
+					<item id="1077" text="メニューバーを隠す(&amp;E)"/>
+					<item id="1078" text="ウィンドウを中央に配置(&amp;W)"/>
+					<item id="1079" text="ウィンドウを最初のページのサイズに合わせる(&amp;F)"/>
+					<item id="1080" text="ウィンドウのUI要素を非表示にする(&amp;U)"/>
+					<item id="1081" text="タイトルバーにドキュメントのタイトルを表示する(&amp;O)"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1050" text="透かしのリスト"/>
+					<item id="1090" text="透かしの印刷を有効にする(&amp;P)"/>
+					<item id="1096" text="すべてクリア(&amp;C)"/>
+					<item id="1097" text="すべて選択(&amp;S)"/>
+					<item id="1098" text="編集(&amp;E)..."/>
+					<item id="1099" text="新規(&amp;N)..."/>
+					<item id="1100" text="削除(&amp;R)..."/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1030" text="表示方法(&amp;D) :"/>
+					<item id="1031" text="レベル(&amp;L) :"/>
+					<item id="1032" text="±"/>
+					<item id="1033" text="pt."/>
+					<item id="1034" text="スタイル :"/>
+					<item id="1035" text="色 :"/>
+					<item id="1036" text="状態 :"/>
+					<item id="1050" text="テンプレート(&amp;T)"/>
+					<item id="1051" text="検出オプション"/>
+					<item id="1052" text="表示オプション"/>
+					<item id="1100" text="削除(&amp;R)"/>
+					<item id="1101" text="自動的にブックマークを検出(&amp;E)"/>
+					<item id="1102" text="複数行のブックマークを許可する(&amp;A)"/>
+					<item id="1103" text="ブックマークのルートとしてドキュメントタイトルを使用する(&amp;U)"/>
+					<item id="1104" text="レベルに関係なくノードをマッチさせる(&amp;M)"/>
+					<item id="1109" text="追加(&amp;A)"/>
+					<item id="1110" text="フォント(&amp;F) :"/>
+					<item id="1112" text="スタイル(&amp;S) :"/>
+					<item id="1114" text="サイズ(&amp;Z) :"/>
+					<item id="1119" text="色(&amp;C) :"/>
+					<item id="1120" text="色の選択"/>
+					<item id="1122" text="色の選択"/>
+					<item id="1123" text="開いた状態で表示する"/>
+					<item id="1124" text="保存(&amp;V)..."/>
+					<item id="1125" text="読み込み(&amp;L)..."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1030" text="ヘッダ(&amp;H) :"/>
+					<item id="1031" text="フッタ(&amp;F) :"/>
+					<item id="1032" text="最初のページ番号(&amp;N) :"/>
+					<item id="1033" text="左(&amp;L) :"/>
+					<item id="1034" text="上(&amp;T) :"/>
+					<item id="1035" text="右(&amp;R) :"/>
+					<item id="1036" text="下(&amp;B) :"/>
+					<item id="1037" text="単位(&amp;U) :"/>
+					<item id="1051" text="ヘッダとフッタ"/>
+					<item id="1052" text="オプション"/>
+					<item id="1053" text="余白の設定"/>
+					<item id="1126" text="ヘッダとフッタを追加する(&amp;A)"/>
+					<item id="1130" text="カスタマイズ..."/>
+					<item id="1132" text="カスタマイズ..."/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1030" text="位置 :"/>
+					<item id="1031" text="サイズ :"/>
+					<item id="1032" text="倍率 :"/>
+					<item id="1146" text="中央揃え"/>
+					<item id="1153" text="用紙に合わせる"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1030" text="1枚あたりのページ数(&amp;H) :"/>
+					<item id="1033" text="ページ順(&amp;O) :"/>
+					<item id="1156" text="ページの境界を印刷する"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1030" text="冊子の種類 :"/>
+					<item id="1031" text="署名シート :"/>
+					<item id="1032" text="余白サイズ :"/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1031" text="タイトル(&amp;T) :"/>
+					<item id="1032" text="サブタイトル(&amp;S) :"/>
+					<item id="1033" text="著作者(&amp;U) :"/>
+					<item id="1034" text="キーワード(&amp;K) :"/>
+					<item id="1035" text="作成者(&amp;C) :"/>
+					<item id="1036" text="作成ツール(&amp;P) :"/>
+					<item id="1050" text="PDF情報(&amp;I)"/>
+					<item id="1162" text="ドキュメントに追加情報を埋め込む(&amp;D)"/>
+					<item id="1163" text="印刷開始時にドキュメント情報を尋ねる(&amp;A)"/>
+					<item id="1164" text="ドキュメントにXMPメタデータを追加する(&amp;M)"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1031" text="JPEG品質(&amp;Q) :"/>
+					<item id="1032" text="%"/>
+					<item id="1033" text="JBIG2方式(&amp;B) :"/>
+					<item id="1050" text="一般設定"/>
+					<item id="1051" text="カラー／グレースケール画像"/>
+					<item id="1052" text="インデックス画像"/>
+					<item id="1053" text="モノクロ画像"/>
+					<item id="1171" text="画像を圧縮する(&amp;G)"/>
+					<item id="1172" text="ASCIIフォーマット（ファイルサイズが大きくなります）(&amp;A)"/>
+					<item id="1173" text="テキストを圧縮する(&amp;T)"/>
+					<item id="1174" text="圧縮方法(&amp;C) :"/>
+					<item id="1177" text="回転1"/>
+					<item id="1178" text="圧縮方法(&amp;U) :"/>
+					<item id="1180" text="圧縮方法(&amp;M) :"/>
+					<item id="1183" text="デフォルト(&amp;D)"/>
+				</dialog>
+				<dialog id="113" text="">
+					<item id="1030" text="ppi"/>
+					<item id="1031" text="次の解像度以上の画像に適用 :"/>
+					<item id="1032" text="ppi"/>
+					<item id="1033" text="ppi"/>
+					<item id="1034" text="次の解像度以上の画像に適用 :"/>
+					<item id="1035" text="ppi"/>
+					<item id="1036" text="ppi"/>
+					<item id="1037" text="次の解像度以上の画像に適用 :"/>
+					<item id="1038" text="ppi"/>
+					<item id="1039" text="しきい値 :"/>
+					<item id="1050" text="カラー／グレースケール画像"/>
+					<item id="1051" text="インデックス画像"/>
+					<item id="1052" text="モノクロ画像"/>
+					<item id="1194" text="回転1"/>
+					<item id="1202" text="ディザリングを使用"/>
+					<item id="1203" text="ディザリングを使用"/>
+				</dialog>
+				<dialog id="114" text="">
+					<item id="1030" text="利用可能なフォント(&amp;F) :"/>
+					<item id="1031" text="%"/>
+					<item id="1183" text="デフォルト(&amp;D)"/>
+					<item id="1206" text="すべてのユーザーフォントを埋め込む(&amp;A)"/>
+					<item id="1207" text="保護されたフォントを強制的に埋め込む(&amp;P)"/>
+					<item id="1208" text="拡張フォント／文字情報を埋め込む"/>
+					<item id="1212" text="&gt;&gt;"/>
+					<item id="1213" text="&lt;&lt;"/>
+					<item id="1214" text="常に埋め込むフォント(&amp;E) :"/>
+					<item id="1216" text="&gt;&gt;"/>
+					<item id="1217" text="&lt;&lt;"/>
+					<item id="1218" text="常に埋め込まないフォント(&amp;N) :"/>
+					<item id="1220" text="使用率が次の割合以下の場合、サブセットのみ埋め込む(&amp;B) : "/>
+				</dialog>
+				<dialog id="115" text="">
+					<item id="1031" text="ファイル(&amp;Y) :"/>
+					<item id="1032" text="重ね合わせるページを新しいPDFドキュメントのページに揃える :"/>
+					<item id="1033" text="水平方向(&amp;H) :"/>
+					<item id="1034" text="垂直方向(&amp;V) :"/>
+					<item id="1035" text="保護されたファイルを開くためのパスワード(&amp;P) :"/>
+					<item id="1051" text="繰り返しオプション"/>
+					<item id="1052" text="位置"/>
+					<item id="1153" text="重ね合わせるページを新しいPDFドキュメントのページに合わせる"/>
+					<item id="1221" text="既存のファイルで重ね合わせる(&amp;O)"/>
+					<item id="1223" text="参照(&amp;W)..."/>
+					<item id="1225" text="重ね合わせるファイルを前面に配置する(G) "/>
+					<item id="1226" text="繰り返しなし(&amp;N)"/>
+					<item id="1227" text="重ね合わせるファイルの最後のページを繰り返す(&amp;L)"/>
+					<item id="1228" text="重ね合わせるファイルを繰り返す(C)"/>
+					<item id="1231" text="アスペクト比を保持"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1031" text="パスワード :"/>
+					<item id="1032" text="パスワード :"/>
+					<item id="1033" text="暗号化レベル(&amp;L) :"/>
+					<item id="1050" text="ドキュメントパスワード"/>
+					<item id="1051" text="ドキュメントの権限"/>
+					<item id="1052" text="デジタル署名"/>
+					<item id="1232" text="PDFのセキュリティを使用する(&amp;U)"/>
+					<item id="1233" text="ドキュメントを開くときにパスワードを要求する(&amp;O) :"/>
+					<item id="1235" text="権限やパスワードを変更するときにパスワードを要求する(C) :"/>
+					<item id="1238" text="デジタル署名を使用する(&amp;D)"/>
+					<item id="1239" text="設定..."/>
+					<item id="1240" text="タイムスタンプサーバーを使用 :"/>
+					<item id="1242" text="管理..."/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1243" text="印刷を許可(&amp;P)"/>
+					<item id="1244" text="ドキュメントの変更を許可(&amp;D)"/>
+					<item id="1245" text="コピー、抽出、アクセシビリティの有効化を許可"/>
+					<item id="1246" text="コメント、フォームの追加、変更を許可"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1031" text="許可する変更権限(&amp;H) :"/>
+					<item id="1032" text="ドキュメントの印刷(&amp;P) :"/>
+					<item id="1247" text="視覚障害者向けのコンテンツアクセスを有効にする"/>
+					<item id="1248" text="コンテンツのコピー、抽出を許可する(&amp;C)"/>
+					<item id="1250" text="ドキュメントとメタデータを暗号化（Acrobat 6.0 以上互換）"/>
+				</dialog>
+				<dialog id="119" text="">
+					<item id="1031" text="線の種類(&amp;T) :"/>
+					<item id="1032" text="線のタイプ(&amp;S) :"/>
+					<item id="1033" text="線の太さ(&amp;W) :"/>
+					<item id="1034" text="ポイント"/>
+					<item id="1035" text="線の色(&amp;C) :"/>
+					<item id="1036" text="例 :"/>
+					<item id="1037" text="ウェブサイトアドレス :"/>
+					<item id="1050" text="リンクオプション"/>
+					<item id="1052" text="ローカルファイル"/>
+					<item id="1122" text="色を選択"/>
+					<item id="1183" text="デフォルト(&amp;D)"/>
+					<item id="1251" text="テキストのURLを解析する(&amp;A)"/>
+					<item id="1252" text="ファイル名を検出してPDFリンクに変換する(&amp;F)"/>
+					<item id="1253" text="ファイルの存在をチェックする(&amp;E)"/>
+					<item id="1258" text="http://www.tracker-software.com/"/>
+					<item id="1259" text="テキストと線を同じ色にする(&amp;M)"/>
+				</dialog>
+				<dialog id="120" text="ブックマークリスト">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1030" text="テンプレート(&amp;N) :"/>
+					<item id="1050" text="テンプレートリスト"/>
+					<item id="1100" text="削除(&amp;R)"/>
+				</dialog>
+				<dialog id="121" text="詳細設定">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1030" text="左セクション :"/>
+					<item id="1031" text="中央セクション :"/>
+					<item id="1032" text="右セクション :"/>
+					<item id="1051" text="ヘッダ"/>
+					<item id="1265" text="..."/>
+					<item id="1266" text="..."/>
+					<item id="1267" text="..."/>
+					<item id="1268" text="色"/>
+					<item id="1269" text="色"/>
+					<item id="1270" text="色"/>
+					<item id="1271" text="マクロ(&amp;M)"/>
+					<item id="1272" text="マクロ(&amp;M)"/>
+					<item id="1273" text="マクロ(&amp;M)"/>
+				</dialog>
+				<dialog id="122" text="">
+					<item id="1050" text="利用可能な言語"/>
+					<item id="1275" text="OSの地域の設定を使用する(&amp;R)"/>
+					<item id="1276" text="デフォルトに設定"/>
+				</dialog>
+				<dialog id="123" text="透かしの追加／編集">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1030" text="名称(&amp;W) :"/>
+					<item id="1031" text="タイプ :"/>
+					<item id="1032" text="回転(&amp;R) :"/>
+					<item id="1033" text="透過率(&amp;O) :"/>
+					<item id="1034" text="%"/>
+					<item id="1035" text="から"/>
+					<item id="1036" text="から"/>
+					<item id="1037" text="オフセット（X） :"/>
+					<item id="1038" text="オフセット（Y） :"/>
+					<item id="1039" text="単位(&amp;U) :"/>
+					<item id="1040" text="(-90°～90°)"/>
+					<item id="1050" text="位置"/>
+					<item id="1051" text="表示"/>
+				</dialog>
+				<dialog id="124" text="">
+					<item id="1030" text="テキスト(&amp;T) :"/>
+					<item id="1031" text="フォント(&amp;F) :"/>
+					<item id="1033" text="色(&amp;C) :"/>
+					<item id="1034" text="サイズ(&amp;S) :"/>
+					<item id="1035" text="pt"/>
+					<item id="1050" text="テキストのプロパティ"/>
+					<item id="1122" text="色を選択"/>
+					<item id="1290" text="太字(&amp;B)"/>
+					<item id="1291" text="斜体(&amp;I)"/>
+					<item id="1292" text="アウトライン(&amp;O)"/>
+					<item id="1293" text="自動的に調整(&amp;A)"/>
+				</dialog>
+				<dialog id="125" text="">
+					<item id="1031" text="横(&amp;W) :"/>
+					<item id="1032" text="縦(&amp;H) :"/>
+					<item id="1035" text="ファイル(&amp;F) :"/>
+					<item id="1050" text="画像のプロパティ"/>
+					<item id="1122" text="色を選択(&amp;S)"/>
+					<item id="1153" text="ページに合わせる(&amp;P)"/>
+					<item id="1223" text="..."/>
+					<item id="1285" text="アスペクト比を保持(&amp;K)"/>
+					<item id="1286" text="透過色を指定(&amp;T)"/>
+				</dialog>
+				<dialog id="126" text="">
+					<item id="1098" text="編集(&amp;E)..."/>
+					<item id="1100" text="削除(&amp;R)"/>
+					<item id="1109" text="追加(&amp;A)..."/>
+				</dialog>
+				<dialog id="127" text="フォームを追加／編集">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1030" text="横(&amp;W) :"/>
+					<item id="1031" text="縦(&amp;H) :"/>
+					<item id="1050" text="カスタムフォームの名称(&amp;N) :"/>
+					<item id="1051" text="カスタムフォームのサイズ"/>
+					<item id="1052" text="単位(&amp;U)"/>
+					<item id="1301" text="インチ(&amp;I)"/>
+					<item id="1302" text="ミリメートル(&amp;M)"/>
+				</dialog>
+				<dialog id="128" text="">
+					<item id="1030" text="ジョブ管理(&amp;J) :"/>
+					<item id="1031" text="パス(&amp;P) :"/>
+					<item id="1032" text="ファイル(&amp;N) :"/>
+					<item id="1033" text="例 :"/>
+					<item id="1034" text="ファイルの上書き(&amp;W) :"/>
+					<item id="1035" text="開始位置(&amp;F) :"/>
+					<item id="1036" text="番号(&amp;I) :"/>
+					<item id="1037" text="パラメータ(&amp;M) :"/>
+					<item id="1050" text="保存オプション"/>
+					<item id="1223" text="参照(&amp;B)..."/>
+					<item id="1303" text="「名前をつけて保存」ダイアログを表示する(&amp;S)"/>
+					<item id="1305" text="マクロ(&amp;A)"/>
+					<item id="1306" text="ドキュメント名からパスを削除する(&amp;T)"/>
+					<item id="1312" text="印刷後アプリケーションを実行する(&amp;R)"/>
+					<item id="1313" text="PDFのデフォルトアプリケーションで開く(&amp;D)"/>
+					<item id="1314" text="指定(&amp;A) :"/>
+					<item id="1316" text="参照(&amp;O)..."/>
+				</dialog>
+				<dialog id="129" text="">
+					<item id="1031" text="送信方法(&amp;M) :"/>
+					<item id="1032" text="&amp;From :"/>
+					<item id="1033" text="&amp;To :"/>
+					<item id="1034" text="&amp;Cc :"/>
+					<item id="1035" text="&amp;Bcc :"/>
+					<item id="1036" text="タイトル(&amp;U) :"/>
+					<item id="1037" text="本文(&amp;O) :"/>
+					<item id="1038" text="サーバー(&amp;S) :"/>
+					<item id="1051" text="メールのプロパティ"/>
+					<item id="1052" text="SMTP設定"/>
+					<item id="1098" text="編集(&amp;E)..."/>
+					<item id="1099" text="新規(&amp;N)..."/>
+					<item id="1100" text="削除(&amp;R)..."/>
+					<item id="1318" text="作成したドキュメントをメールに添付して送信する(&amp;A)"/>
+					<item id="1322" text="..."/>
+					<item id="1326" text="ZIPファイルに圧縮して送信する(&amp;Z)"/>
+				</dialog>
+				<dialog id="130" text="メールサーバーの設定">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1031" text="アカウント(&amp;C) :"/>
+					<item id="1032" text="パスワード(&amp;S) :"/>
+					<item id="1034" text="接続のセキュリティ(&amp;N) :"/>
+					<item id="1035" text="サーバー名(&amp;M) :"/>
+					<item id="1036" text="ポート(O) :"/>
+					<item id="1050" text="SMTPサーバー設定"/>
+					<item id="1051" text="ログイン情報"/>
+					<item id="1052" text="セキュリティ"/>
+					<item id="1329" text="認証が必要(&amp;A)"/>
+					<item id="1332" text="セキュアなパスワード認証を使ってログインする(&amp;S)"/>
+				</dialog>
+				<dialog id="131" text="">
+					<item id="1100" text="削除(&amp;R)"/>
+					<item id="1109" text="追加(&amp;A)..."/>
+					<item id="1126" text="選択(&amp;U)"/>
+					<item id="1334" text="エクスポート(&amp;E)"/>
+					<item id="1335" text="インポート(&amp;I)"/>
+				</dialog>
+				<dialog id="132" text="プロファイルの追加">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1030" text="名称(&amp;N) :"/>
+					<item id="1031" text="コメント(&amp;C) :"/>
+					<item id="1050" text="プロファイル情報"/>
+				</dialog>
+				<dialog id="133" text="デジタル署名">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1031" text="証明書発行機関(&amp;B) :"/>
+					<item id="1032" text="ファイル名 :"/>
+					<item id="1033" text="パスワード(&amp;P) :"/>
+					<item id="1034" text="署名の理由(&amp;R) :"/>
+					<item id="1035" text="所在地(&amp;O) :"/>
+					<item id="1036" text="コンタクト情報(&amp;I) :"/>
+					<item id="1037" text="ページ :"/>
+					<item id="1038" text="左(&amp;L) :"/>
+					<item id="1039" text="上(&amp;T) :"/>
+					<item id="1040" text="幅(&amp;W) :"/>
+					<item id="1041" text="高さ(&amp;H) :"/>
+					<item id="1042" text="単位(&amp;U) :"/>
+					<item id="1043" text="画像の表示"/>
+					<item id="1044" text="テキストの表示"/>
+					<item id="1050" text="デジタルID"/>
+					<item id="1051" text="詳細"/>
+					<item id="1052" text="位置"/>
+					<item id="1053" text="表示"/>
+					<item id="1337" text="システムの証明書ストアを使用(&amp;S)"/>
+					<item id="1338" text="ファイルの証明書を使用(&amp;F)"/>
+					<item id="1340" text="更新"/>
+					<item id="1342" text="参照(&amp;B)..."/>
+					<item id="1344" text="証明書を表示(&amp;V)..."/>
+					<item id="1345" text="エクスポート(&amp;X)..."/>
+					<item id="1346" text="証明書を作成(&amp;E)..."/>
+					<item id="1352" text="しない"/>
+					<item id="1353" text="ファイル :"/>
+					<item id="1354" text="氏名"/>
+					<item id="1356" text="参照..."/>
+					<item id="1357" text="氏名"/>
+					<item id="1358" text="日付"/>
+					<item id="1359" text="所在地"/>
+					<item id="1360" text="署名の理由"/>
+					<item id="1361" text="識別名"/>
+					<item id="1362" text="ラベル"/>
+				</dialog>
+				<dialog id="134" text="自己署名デジタルIDの作成">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1030" text="自己署名デジタルIDを作成することによって、無料でデジタル署名を付与したPDFドキュメントを作成することができますが、第三者機関による証明が要求される状況には適さない可能性があります。"/>
+					<item id="1032" text="氏名(&amp;N) :"/>
+					<item id="1033" text="組織単位(&amp;U) :"/>
+					<item id="1034" text="組織名(&amp;O) :"/>
+					<item id="1035" text="メールアドレス(&amp;E) :"/>
+					<item id="1036" text="国／地域(&amp;C) :"/>
+					<item id="1037" text="キーアルゴリズム(&amp;A) :"/>
+					<item id="1039" text="パスワード(&amp;P) :"/>
+					<item id="1040" text="パスワード（確認）(&amp;F) :"/>
+					<item id="1042" text="文字列"/>
+					<item id="1043" text="デジタルIDはWindowsの証明書ストアに保存され、他のWindowsアプリケーションからも利用することができます。デジタルIDはWindowsログオンによって保護されます。"/>
+					<item id="1044" text="パスワードで保護されたデジタルIDファイルをPKCS#12フォーマットで作成します。このデジタルIDフォーマットは主要なWebブラウザを含むセキュリティを必要とするほとんどのアプリケーションでサポートされています。PKCS#12ファイルの拡張子は「.pfx」または「.p12」です。"/>
+					<item id="1051" text="デジタル署名のプロパティ"/>
+					<item id="1052" text="自己署名デジタルIDの出力先"/>
+					<item id="1372" text="Windowsの証明書ストア(&amp;W)"/>
+					<item id="1373" text="新しいPKCS#12デジタルIDファイル(&amp;1)"/>
+					<item id="1375" text="ユニコード"/>
+				</dialog>
+				<dialog id="135" text="タイムスタンプサーバーのリスト">
+					<item id="1" text="閉じる"/>
+					<item id="1098" text="編集(&amp;E)..."/>
+					<item id="1100" text="削除(&amp;R)..."/>
+					<item id="1109" text="追加(&amp;A)..."/>
+				</dialog>
+				<dialog id="136" text="タイムスタンプサーバー">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1031" text="アカウント(&amp;C) :"/>
+					<item id="1032" text="パスワード(&amp;P) :"/>
+					<item id="1033" text="サーバー名(&amp;M) :"/>
+					<item id="1034" text="&amp;URL :"/>
+					<item id="1050" text="サーバーの設定"/>
+					<item id="1051" text="ログイン情報"/>
+					<item id="1329" text="認証が必要(&amp;A)"/>
+				</dialog>
+				<dialog id="137" text="ユーザー登録情報">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1030" text="名前(&amp;N) :"/>
+					<item id="1031" text="会社名(&amp;C) :"/>
+					<item id="1032" text="メールアドレス(&amp;E) :"/>
+					<item id="1033" text="シリアルキー(&amp;K) :"/>
+					<item id="1050" text="登録情報"/>
+					<item id="1381" text="オンラインで購入(&amp;B)"/>
+				</dialog>
+				<dialog id="138" text="カスタマイズ">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1030" text="利用可能なページ :"/>
+					<item id="1031" text="現在のページ :"/>
+					<item id="1093" text="上に移動(&amp;U)"/>
+					<item id="1094" text="下に移動(&amp;D)"/>
+					<item id="1100" text="削除（&amp;E）"/>
+					<item id="1109" text="追加（&amp;A）"/>
+					<item id="1387" text="リセット(&amp;R)"/>
+				</dialog>
+				<dialog id="139" text="">
+					<item id="1031" text="ファイル(&amp;F) :"/>
+					<item id="1032" text="パスワード(&amp;S) :"/>
+					<item id="1033" text="ファイル(&amp;I) :"/>
+					<item id="1034" text="パスワード(&amp;W) :"/>
+					<item id="1051" text="挿入するドキュメント"/>
+					<item id="1052" text="挿入するドキュメント"/>
+					<item id="1388" text="PDFファイルを先頭に挿入する(&amp;P)"/>
+					<item id="1390" text="参照..."/>
+					<item id="1392" text="PDFファイルを末尾に挿入する(&amp;A)"/>
+					<item id="1394" text="参照..."/>
+				</dialog>
+				<dialog id="140" text="">
+					<item id="1030" text="ブレンド操作(&amp;B) :"/>
+					<item id="1031" text="MB"/>
+					<item id="1032" text="テッセレーション方法(&amp;D) :"/>
+					<item id="1051" text="Adobe Acrobat バグ対応"/>
+					<item id="1052" text="高度なメモリ管理"/>
+					<item id="1398" text="透過描画を使用(&amp;T)"/>
+					<item id="1399" text="マスクイメージを使用(&amp;M)"/>
+					<item id="1400" text="RGBカラースペースにグレースケールパレットで描画(&amp;G)"/>
+					<item id="1401" text="画像の並び順の最適化を有効にする(&amp;S)"/>
+					<item id="1402" text="次のサイズより大きな画像をディスクにスワップ(&amp;L) :"/>
+				</dialog>
+			</dialogs>
+			<strings count="1031">
+				<item id="0" text="アプリケーション名(&amp;A)"/>
+				<item id="1" text="ドキュメント名(&amp;N)"/>
+				<item id="2" text="ドキュメントのパス(&amp;P)"/>
+				<item id="3" text="日付(&amp;D)"/>
+				<item id="4" text="年(&amp;Y)"/>
+				<item id="5" text="月(&amp;M)"/>
+				<item id="6" text="日(&amp;A)"/>
+				<item id="7" text="時間(&amp;T)"/>
+				<item id="8" text="時(&amp;H)"/>
+				<item id="9" text="分(&amp;I)"/>
+				<item id="10" text="秒(&amp;S)"/>
+				<item id="11" text="コンピュータ名"/>
+				<item id="12" text="ユーザー名"/>
+				<item id="13" text="ページ番号"/>
+				<item id="14" text="ページカウント(&amp;C)"/>
+				<item id="15" text="環境変数"/>
+				<item id="16" text="用紙"/>
+				<item id="17" text="用紙の設定"/>
+				<item id="18" text="カスタムフォーム"/>
+				<item id="19" text="カスタムフォームの設定"/>
+				<item id="20" text="一般"/>
+				<item id="21" text="一般設定"/>
+				<item id="22" text="圧縮"/>
+				<item id="23" text="圧縮の設定"/>
+				<item id="24" text="ドキュメント"/>
+				<item id="25" text="ドキュメント情報"/>
+				<item id="26" text="画像"/>
+				<item id="27" text="画像の設定"/>
+				<item id="28" text="フォント"/>
+				<item id="29" text="フォントの埋め込みオプション"/>
+				<item id="30" text="透かし"/>
+				<item id="31" text="透かしの設定"/>
+				<item id="32" text="オーバーレイ"/>
+				<item id="33" text="オーバーレイ設定"/>
+				<item id="34" text="セキュリティ"/>
+				<item id="35" text="セキュリティの設定"/>
+				<item id="36" text="リンク"/>
+				<item id="37" text="リンクの設定"/>
+				<item id="38" text="ブックマーク"/>
+				<item id="39" text="ブックマークの設定"/>
+				<item id="40" text="ヘッダ/フッタ"/>
+				<item id="41" text="ヘッダとフッタの設定"/>
+				<item id="42" text="言語"/>
+				<item id="43" text="表示言語の選択"/>
+				<item id="44" text="保存"/>
+				<item id="45" text="保存の設定"/>
+				<item id="46" text="メール"/>
+				<item id="47" text="メールの設定"/>
+				<item id="48" text="cm"/>
+				<item id="49" text="センチメートル"/>
+				<item id="50" text="センチメートル"/>
+				<item id="51" text="in"/>
+				<item id="52" text="インチ"/>
+				<item id="53" text="インチ"/>
+				<item id="54" text="mm"/>
+				<item id="55" text="ミリメートル"/>
+				<item id="56" text="ミリメートル"/>
+				<item id="57" text="p"/>
+				<item id="58" text="pica"/>
+				<item id="59" text="pica"/>
+				<item id="60" text="pt"/>
+				<item id="61" text="ポイント"/>
+				<item id="62" text="ポイント"/>
+				<item id="63" text="ヴァージョン : %1.%2 ビルド %3"/>
+				<item id="64" text="%1 x %2 %3"/>
+				<item id="65" text="自動"/>
+				<item id="66" text="カスタム"/>
+				<item id="67" text="標準"/>
+				<item id="68" text="シートあたりのページ数"/>
+				<item id="69" text="冊子"/>
+				<item id="70" text="パンフレット"/>
+				<item id="71" text="ブック"/>
+				<item id="72" text="左から右"/>
+				<item id="73" text="右から左"/>
+				<item id="74" text="左下から右上"/>
+				<item id="75" text="左上から右下"/>
+				<item id="76" text="右下から左上"/>
+				<item id="77" text="右上から左下"/>
+				<item id="78" text="1ページ"/>
+				<item id="79" text="2ページ"/>
+				<item id="80" text="4ページ"/>
+				<item id="81" text="6ページ"/>
+				<item id="82" text="8ページ"/>
+				<item id="83" text="9ページ"/>
+				<item id="84" text="16ページ"/>
+				<item id="85" text="自動"/>
+				<item id="86" text="Flate"/>
+				<item id="87" text="JPEG"/>
+				<item id="88" text="JPEG/ZIP"/>
+				<item id="89" text="JPEG 2000"/>
+				<item id="90" text="JPEG 2000/ZIP"/>
+				<item id="91" text="Run Length"/>
+				<item id="92" text="LZW"/>
+				<item id="93" text="CCITT Group 3"/>
+				<item id="94" text="CCITT Group 4"/>
+				<item id="95" text="JBIG 2"/>
+				<item id="96" text="標準"/>
+				<item id="97" text="枠線の削除"/>
+				<item id="98" text="シンボルの圧縮"/>
+				<item id="99" text="変換なし"/>
+				<item id="100" text="グレースケールに変換"/>
+				<item id="101" text="モノクロに変換"/>
+				<item id="102" text="白黒に変換"/>
+				<item id="103" text="ダウンサンプリングなし"/>
+				<item id="104" text="リニアダウンサンプリング"/>
+				<item id="105" text="バイリニアダウンサンプリング"/>
+				<item id="106" text="バイキュービックダウンサンプリング"/>
+				<item id="107" text="プロダクトID : %1"/>
+				<item id="108" text="ライセンスの種類 : %1"/>
+				<item id="109" text="試用版"/>
+				<item id="110" text="シングルユーザー"/>
+				<item id="111" text="3 ユーザーパック"/>
+				<item id="112" text="10 ユーザーライセンス"/>
+				<item id="113" text="25 ユーザーライセンス"/>
+				<item id="114" text="50 ユーザーライセンス"/>
+				<item id="115" text="100 ユーザーライセンス"/>
+				<item id="116" text="250 ユーザーライセンス"/>
+				<item id="117" text="500 ユーザーライセンス"/>
+				<item id="118" text="1000 ユーザーライセンス"/>
+				<item id="119" text="シングルサイトライセンス"/>
+				<item id="120" text="カントリーライセンス"/>
+				<item id="121" text="ワールドワイドライセンス"/>
+				<item id="122" text="アカデミックライセンス"/>
+				<item id="123" text="開発者エディション"/>
+				<item id="124" text="自動"/>
+				<item id="125" text="Version 1.3 (Acrobat v3.0 以上)"/>
+				<item id="126" text="Version 1.4 (Acrobat v5.0 以上)"/>
+				<item id="127" text="Version 1.5 (Acrobat v6.0 以上)"/>
+				<item id="128" text="Version 1.6 (Acrobat v7.0 以上)"/>
+				<item id="129" text="Version 1.7 (Acrobat v8.0 以上)"/>
+				<item id="130" text="PDF/A-1a"/>
+				<item id="131" text="PDF/A-1b"/>
+				<item id="132" text="PDF/A-2a"/>
+				<item id="133" text="PDF/A-2b"/>
+				<item id="134" text="PDF/A-2u"/>
+				<item id="135" text="ビューアのデフォルト設定"/>
+				<item id="136" text="単一ページ"/>
+				<item id="137" text="連続"/>
+				<item id="138" text="見開きページ（カバーページ）"/>
+				<item id="139" text="見開きページ"/>
+				<item id="140" text="見開き－連続（カバーページ）"/>
+				<item id="141" text="見開き－連続"/>
+				<item id="142" text="ビューアのデフォルト設定"/>
+				<item id="143" text="ページ表示のみ"/>
+				<item id="144" text="ブックマークを表示"/>
+				<item id="145" text="サムネイルを表示"/>
+				<item id="146" text="レイヤパネルを表示"/>
+				<item id="147" text="フルスクリーン表示"/>
+				<item id="148" text="デフォルト"/>
+				<item id="149" text="実際のサイズ"/>
+				<item id="150" text="ページに合わせる"/>
+				<item id="151" text="幅に合わせる"/>
+				<item id="152" text="高さに合わせる"/>
+				<item id="153" text="倍率を指定"/>
+				<item id="154" text="なし"/>
+				<item id="155" text="置換"/>
+				<item id="156" text="分割"/>
+				<item id="157" text="ブラインド"/>
+				<item id="158" text="ボックス"/>
+				<item id="159" text="ワイプ"/>
+				<item id="160" text="ディゾルブ"/>
+				<item id="161" text="グリッター"/>
+				<item id="162" text="フライイン"/>
+				<item id="163" text="フライアウト"/>
+				<item id="164" text="プッシュ"/>
+				<item id="165" text="カバー"/>
+				<item id="166" text="アンカバー"/>
+				<item id="167" text="フェイド"/>
+				<item id="168" text="ランダム"/>
+				<item id="169" text="上下から中央へ"/>
+				<item id="170" text="中央から上下へ"/>
+				<item id="171" text="左右から中央へ"/>
+				<item id="172" text="中央から左右へ"/>
+				<item id="173" text="水平"/>
+				<item id="174" text="垂直"/>
+				<item id="175" text="イン"/>
+				<item id="176" text="アウト"/>
+				<item id="177" text="右"/>
+				<item id="178" text="右上"/>
+				<item id="179" text="上"/>
+				<item id="180" text="左上"/>
+				<item id="181" text="左"/>
+				<item id="182" text="左下"/>
+				<item id="183" text="下"/>
+				<item id="184" text="右下"/>
+				<item id="185" text="左"/>
+				<item id="186" text="中央"/>
+				<item id="187" text="右"/>
+				<item id="188" text="上"/>
+				<item id="189" text="中央"/>
+				<item id="190" text="下"/>
+				<item id="191" text="PDFドキュメント（*.pdf）"/>
+				<item id="192" text="オーバーレイファイルを選択"/>
+				<item id="193" text="40ビット RC4（Acrobat 3.0以上互換）"/>
+				<item id="194" text="128ビット RC4（Acrobat 5.0以上互換）"/>
+				<item id="195" text="128ビット AES（Acrobat 7.0以上互換）"/>
+				<item id="196" text="256ビット AES（Acrobat 9.0以上互換）"/>
+				<item id="197" text="256ビット AES R6（Acrobat X以上互換）"/>
+				<item id="198" text="なし"/>
+				<item id="199" text="文書アセンブリのみ"/>
+				<item id="200" text="フォームフィールドへの記入または署名のみ"/>
+				<item id="201" text="コメントの編集、フォームフィールドへの記入または署名"/>
+				<item id="202" text="一般的な編集、コメントの編集およびフォームフィールドの編集"/>
+				<item id="203" text="禁止"/>
+				<item id="204" text="低い解像度"/>
+				<item id="205" text="すべて許可"/>
+				<item id="206" text="「ドキュメントを開くときにパスワードを要求する」オプションをはずすか、パスワードを入力してください。"/>
+				<item id="207" text="「権限やパスワードを変更するときにパスワードを要求する」オプションをはずすか、パスワードを入力してください。"/>
+				<item id="208" text="ドキュメントを開くパスワードと権限を変更するパスワードに同一のものを設定することはできません。どちらか一方のパスワードフィールドに異なるパスワードを設定してください。"/>
+				<item id="209" text="ドキュメントを開くパスワードか権限を変更するパスワードのいずれかを入力する必要があります。"/>
+				<item id="210" text="なし"/>
+				<item id="211" text="下線"/>
+				<item id="212" text="矩形"/>
+				<item id="213" text="立体"/>
+				<item id="214" text="破線"/>
+				<item id="215" text="点線"/>
+				<item id="216" text="Black"/>
+				<item id="217" text="Brown"/>
+				<item id="218" text="Dark Olive Green"/>
+				<item id="219" text="Dark Green"/>
+				<item id="220" text="Dark Teal"/>
+				<item id="221" text="Dark Blue"/>
+				<item id="222" text="Indigo"/>
+				<item id="223" text="Dark Gray"/>
+				<item id="224" text="Dark Red"/>
+				<item id="225" text="Orange"/>
+				<item id="226" text="Dark Yellow"/>
+				<item id="227" text="Green"/>
+				<item id="228" text="Teal"/>
+				<item id="229" text="Blue"/>
+				<item id="230" text="Blue-Gray"/>
+				<item id="231" text="Gray - 40"/>
+				<item id="232" text="Red"/>
+				<item id="233" text="Light Orange"/>
+				<item id="234" text="Lime"/>
+				<item id="235" text="Sea Green"/>
+				<item id="236" text="Aqua"/>
+				<item id="237" text="Light Blue"/>
+				<item id="238" text="Violet"/>
+				<item id="239" text="Gray - 50"/>
+				<item id="240" text="Pink"/>
+				<item id="241" text="Gold"/>
+				<item id="242" text="Yellow"/>
+				<item id="243" text="Bright Green"/>
+				<item id="244" text="Turquoise"/>
+				<item id="245" text="Skyblue"/>
+				<item id="246" text="Plum"/>
+				<item id="247" text="Light Gray"/>
+				<item id="248" text="Rose"/>
+				<item id="249" text="Tan"/>
+				<item id="250" text="Light Yellow"/>
+				<item id="251" text="Pale Green"/>
+				<item id="252" text="Pale Turquoise"/>
+				<item id="253" text="Pale Blue"/>
+				<item id="254" text="Lavender"/>
+				<item id="255" text="White"/>
+				<item id="256" text="自動"/>
+				<item id="257" text="その他の色..."/>
+				<item id="258" text="設定した名称はすでに使用されています。既存のアイテムを置き換えますか？"/>
+				<item id="259" text="本当にこのアイテムを削除しますか？"/>
+				<item id="260" text="本当にこの透かしを削除しますか？"/>
+				<item id="261" text="透かしに対するテキストを入力してください。"/>
+				<item id="262" text="透かしに対する画像ファイルパスとファイル名を入力してください。"/>
+				<item id="263" text="透かしのタイトルは必須入力です。"/>
+				<item id="264" text="透かしのタイトルにセミコロン（;）を含めることはできません。"/>
+				<item id="265" text="透かしのタイトルは重複しない名称が必要です。"/>
+				<item id="266" text="本当にこのフォームを削除しますか？"/>
+				<item id="267" text="テキスト透かし"/>
+				<item id="268" text="イメージ透かし"/>
+				<item id="269" text="&lt;タイトルなし&gt;"/>
+				<item id="270" text="すべてオープン"/>
+				<item id="271" text="すべてクローズ"/>
+				<item id="272" text="アイテムで定義"/>
+				<item id="273" text="ノード レベルへ開く"/>
+				<item id="274" text="標準"/>
+				<item id="275" text="太字"/>
+				<item id="276" text="斜体"/>
+				<item id="277" text="太字斜体"/>
+				<item id="278" text="レベル %1"/>
+				<item id="279" text="ヘッダ"/>
+				<item id="280" text="フッタ"/>
+				<item id="281" text="（なし）"/>
+				<item id="282" text="%1 ページ"/>
+				<item id="283" text="%2 ページ中 %1 ページ"/>
+				<item id="284" text="秘"/>
+				<item id="285" text="提供者 %1 %2"/>
+				<item id="286" text="標準名"/>
+				<item id="287" text="ローカル名"/>
+				<item id="288" text="言語ID"/>
+				<item id="289" text="名称"/>
+				<item id="290" text="前面に印刷"/>
+				<item id="291" text="背景として印刷"/>
+				<item id="292" text="表示"/>
+				<item id="293" text="エクスポート"/>
+				<item id="294" text="印刷"/>
+				<item id="295" text="すべてのページ"/>
+				<item id="296" text="最初のページのみ"/>
+				<item id="297" text="最後のページのみ"/>
+				<item id="298" text="偶数ページ"/>
+				<item id="299" text="奇数ページ"/>
+				<item id="300" text="フォーム名"/>
+				<item id="301" text="サイズ（mm）"/>
+				<item id="302" text="サイズ（インチ）"/>
+				<item id="303" text="ユーザーフォーム"/>
+				<item id="304" text="カスタムフォームに対する名称を入力してください。"/>
+				<item id="305" text="カスタムフォームの名称は重複しない名称が必要です。"/>
+				<item id="306" text="ジョブ管理に pdfSaver を使用"/>
+				<item id="307" text="現在のジョブを最後のジョブの後に追加"/>
+				<item id="308" text="生成したPDFファイルを保存"/>
+				<item id="309" text="PDFを生成し、メール後に削除"/>
+				<item id="310" text="警告ダイアログを表示"/>
+				<item id="311" text="常に上書きする"/>
+				<item id="312" text="自動採番する"/>
+				<item id="313" text="マージする (追記する)"/>
+				<item id="314" text="マージする (先頭に挿入する)"/>
+				<item id="315" text="新しいファイル名の入力を促す"/>
+				<item id="316" text="ファイルの保存先を選択"/>
+				<item id="317" text="アプリケーションを選択"/>
+				<item id="318" text="実行可能ファイル（*.exe）"/>
+				<item id="319" text="すべてのファイル"/>
+				<item id="320" text="デフォルトのメールクライアントを起動"/>
+				<item id="321" text="デフォルトのメールクライアントで送信"/>
+				<item id="322" text="直接SMTPサーバーに送信"/>
+				<item id="323" text="本当に選択したSMTPサーバーの設定を削除しますか？"/>
+				<item id="324" text="受取人を選択"/>
+				<item id="325" text="なし"/>
+				<item id="326" text="STARTTLSを使用"/>
+				<item id="327" text="SSL/TLSを使用"/>
+				<item id="328" text="SMTPサーバー名は必須入力です。"/>
+				<item id="329" text="1024ビット RSA"/>
+				<item id="330" text="2048ビット RSA"/>
+				<item id="331" text="不十分なパスワードです。 パスワードは6文字以上の文字数が必要です。"/>
+				<item id="332" text="パスワードが一致しません。 再度入力してください。"/>
+				<item id="333" text="自己署名デジタルIDを作成するにあたって、氏名は必須入力です。"/>
+				<item id="334" text="自己署名デジタルIDを作成するにあたって、ユニコードの氏名は必須入力です。"/>
+				<item id="335" text="自己署名デジタルIDを作成するにあたって、メールアドレスは必須入力です。"/>
+				<item id="336" text="正しいメールアドレスを入力してください。（例：john@mail.com）"/>
+				<item id="337" text="'%1' フィールドはASCIIコードに限定されています。
+次の文字が利用可能です : スペース a-z A-Z 0-9 ' ( ) + , - . / : = ?"/>
+				<item id="338" text="PKCS #12 （*.pfx, *.p12）"/>
+				<item id="339" text="証明書を選択"/>
+				<item id="340" text="証明書ファイルを選択"/>
+				<item id="341" text="&lt;なし&gt;"/>
+				<item id="342" text="私はこのドキュメントの著作者です"/>
+				<item id="343" text="私はこのドキュメントの当該箇所に同意します"/>
+				<item id="344" text="私はこのドキュメントをレビューしました"/>
+				<item id="345" text="私はこのドキュメントを承認します"/>
+				<item id="346" text="私はこのドキュメントの正確性と完全性を証明します"/>
+				<item id="347" text="私はこのドキュメントにおける署名のプレースメントで定義された諸条件に同意します"/>
+				<item id="348" text="デジタル署名が選択されていないか、間違ったパラメータが設定されています。
+正しい値に修正しますか？"/>
+				<item id="349" text="サーバーのURL"/>
+				<item id="350" text="サーバー名"/>
+				<item id="351" text="本当にこのサーバー設定を削除しますか？"/>
+				<item id="352" text="最後に使用したパス（&amp;U）"/>
+				<item id="353" text="デスクトップ"/>
+				<item id="354" text="マイドキュメント"/>
+				<item id="355" text="マイピクチャー"/>
+				<item id="356" text="お気に入り"/>
+				<item id="357" text="一時フォルダ"/>
+				<item id="358" text="一時フォルダ"/>
+				<item id="359" text="製品ヘルプ"/>
+				<item id="360" text="ホームページ"/>
+				<item id="361" text="サポートフォーラム"/>
+				<item id="362" text="問題を報告"/>
+				<item id="363" text="プロファイル"/>
+				<item id="364" text="プロファイルの設定"/>
+				<item id="365" text="名称"/>
+				<item id="366" text="コメント"/>
+				<item id="367" text="新しいプロファイル"/>
+				<item id="368" text="プロファイル名が入力されていません。"/>
+				<item id="369" text="入力したプロファイル名は既に存在します。このプロファイルで上書きしますか？"/>
+				<item id="370" text="本当にこのプロファイルを削除しますか？"/>
+				<item id="371" text="現在のプロファイルを削除することはできません。別のプロファイルを選択してからこのプロファイルを削除してください。"/>
+				<item id="372" text="'%1' というプロファイル名は既に存在します。上書きしますか？"/>
+				<item id="373" text="本当に選択したプロファイルを適用しますか？"/>
+				<item id="374" text="PDF-XChange 2012 プロファイル（*.pp5）"/>
+				<item id="375" text="プロファイルファイルを選択"/>
+				<item id="376" text="カスタマイズ（&amp;C）..."/>
+				<item id="377" text="ヘルプ"/>
+				<item id="378" text="警告"/>
+				<item id="379" text="「一般」設定ページで PDF/A フォーマットが選択されているため、
+いくつかのオプションが無効またはプリセットされています。
+
+より詳細な情報はヘルプを参照してください。"/>
+				<item id="380" text="ファイル追加"/>
+				<item id="381" text="ファイル追加・挿入のオプション"/>
+				<item id="382" text="最適化"/>
+				<item id="383" text="最適化の設定"/>
+				<item id="384" text="ファイルを選択"/>
+				<item id="385" text="標準"/>
+				<item id="386" text="乗算"/>
+				<item id="387" text="スクリーン"/>
+				<item id="388" text="オーバーレイ"/>
+				<item id="389" text="暗く"/>
+				<item id="390" text="明るく"/>
+				<item id="391" text="覆い焼き"/>
+				<item id="392" text="焼き込み"/>
+				<item id="393" text="輪郭を強調"/>
+				<item id="394" text="輪郭をやわらかく"/>
+				<item id="395" text="差異"/>
+				<item id="396" text="除外"/>
+				<item id="397" text="なし"/>
+				<item id="398" text="シンプル"/>
+				<item id="399" text="設定"/>
+				<item id="400" text="PDF-XChange 2012 について"/>
+				<item id="1030" text="ヘルプ(&amp;H)"/>
+			</strings>
+		</module>
+		<module id="pdfSaver" name="pdfSaver">
+			<dialogs>
+				<dialog id="101" text="">
+					<item id="1" text="非表示(&amp;H)"/>
+					<item id="1030" text="ヘルプ(&amp;H)"/>
+				</dialog>
+				<dialog id="102" text="印刷の進行状況">
+					<item id="1036" text="キャンセル"/>
+				</dialog>
+				<dialog id="103" text="">
+					<item id="2" text="キャンセル"/>
+					<item id="6" text="再試行(&amp;A)"/>
+					<item id="1037" text="ファイル名を変更(&amp;N)..."/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1001" text="タイトル(&amp;T) :"/>
+					<item id="1002" text="サブタイトル(&amp;S) :"/>
+					<item id="1003" text="著作者(&amp;U) :"/>
+					<item id="1004" text="キーワード(&amp;K) :"/>
+					<item id="1005" text="作成者(&amp;C) :"/>
+					<item id="1020" text="PDF情報(&amp;I)"/>
+					<item id="1038" text="ドキュメントに追加情報を埋め込む(&amp;D)"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1000" text="秒"/>
+					<item id="1001" text="進行状況ウィンドウの透過度 :"/>
+					<item id="1002" text="ジョブファイルの既定のフォルダ(&amp;F) :"/>
+					<item id="1020" text="その他の設定"/>
+					<item id="1021" text="ジョブオプション"/>
+					<item id="1022" text="詳細設定"/>
+					<item id="1044" text="システムトレイにアイコンを表示(&amp;I)"/>
+					<item id="1045" text="Windowsスタートアップ時にpdfSaverを実行(&amp;R)"/>
+					<item id="1046" text="印刷の進行状況ウィンドウを表示(&amp;P)"/>
+					<item id="1047" text="指定時間後にpdfSaverを自動アンロード(&amp;U) :"/>
+					<item id="1051" text="テンポラリーファイルを削除しない"/>
+					<item id="1052" text="pdfSaver起動時にテンポラリーフォルダを削除しない"/>
+					<item id="1053" text="コマンドライン引数による指定がなければ詳細設定を表示しない"/>
+					<item id="1095" text="参照(&amp;B)..."/>
+					<item id="1096" text="自動保存ジョブ(&amp;S)"/>
+					<item id="1097" text="起動時の自動読み込みジョブ(&amp;L)"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1003" text="Copyright © 2011-17 by Tracker Software Products (Canada) Ltd.
+All Rights Reserved"/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1000" text="処理方法 :"/>
+					<item id="1001" text="選択したファイル名はすでに存在しています。処理方法を選択してください。"/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1021" text="言語の設定"/>
+					<item id="1022" text="利用可能な言語"/>
+					<item id="1057" text="ユーザーの地域の設定を使用する"/>
+					<item id="1060" text="デフォルトに設定"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1020" text="ジョブグループ"/>
+					<item id="1021" text="ジョブドキュメント"/>
+					<item id="1059" text="読み込み(&amp;L)..."/>
+					<item id="2006" text="保存(&amp;S)"/>
+					<item id="2007" text="削除(&amp;R)..."/>
+					<item id="2008" text="作成(&amp;G)"/>
+					<item id="2010" text="上に移動"/>
+					<item id="2011" text="下に移動"/>
+					<item id="2012" text="消去"/>
+					<item id="2013" text="削除"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1001" text="方法(&amp;M) :"/>
+					<item id="1002" text="&amp;From :"/>
+					<item id="1003" text="&amp;To :"/>
+					<item id="1004" text="&amp;Cc :"/>
+					<item id="1005" text="タイトル(&amp;U) :"/>
+					<item id="1006" text="本文(&amp;O) :"/>
+					<item id="1007" text="サーバー(&amp;S) :"/>
+					<item id="1008" text="&amp;Bcc :"/>
+					<item id="1021" text="メールのプロパティ"/>
+					<item id="1022" text="SMTPの設定"/>
+					<item id="1081" text="作成したドキュメントをメールの添付ファイルとして送信(&amp;A)"/>
+					<item id="1082" text="ZIP書庫でドキュメントを送信(&amp;Z)"/>
+					<item id="1090" text="編集(&amp;E)..."/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1000" text="タイトル(&amp;T) :"/>
+					<item id="1001" text="サブタイトル(&amp;S) :"/>
+					<item id="1002" text="著作者(&amp;U) :"/>
+					<item id="1003" text="キーワード(&amp;K) :"/>
+					<item id="1004" text="作成者(&amp;C) :"/>
+					<item id="1005" text="作成ツール(&amp;P) :"/>
+					<item id="1006" text="PDFのヴァージョン :"/>
+					<item id="1007" text="ページ数 :"/>
+					<item id="1008" text="最適化 :"/>
+					<item id="1020" text="PDF情報"/>
+					<item id="1021" text="ドキュメント情報"/>
+					<item id="1038" text="ドキュメントに追加情報を埋め込む(&amp;D)"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1001" text="パスワード :"/>
+					<item id="1002" text="パスワード :"/>
+					<item id="1003" text="暗号化レベル(&amp;L) :"/>
+					<item id="1020" text="ドキュメントパスワード"/>
+					<item id="1022" text="ドキュメントパスワード"/>
+					<item id="1065" text="PDFのセキュリティを使用する(&amp;U)"/>
+					<item id="1066" text="ドキュメントを開くときパスワード入力が必要(&amp;O)"/>
+					<item id="1067" text="権限やパスワードを変更するときにパスワード入力が必要(&amp;C)"/>
+				</dialog>
+				<dialog id="113" text="新規ドキュメントの管理">
+					<item id="2" text="キャンセル"/>
+					<item id="1020" text="利用可能なジョブグループ(&amp;G)"/>
+					<item id="2003" text="新規作成(&amp;N)"/>
+					<item id="2004" text="選択グループに追加(&amp;A)"/>
+					<item id="2005" text="ドキュメントの保存(&amp;S)"/>
+				</dialog>
+				<dialog id="114" text="メールサーバーへの送信">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1001" text="アカウント名(&amp;C) :"/>
+					<item id="1002" text="パスワード(&amp;P) :"/>
+					<item id="1003" text="サーバー名(&amp;M) :"/>
+					<item id="1004" text="ポート(&amp;O) :"/>
+					<item id="1020" text="SMTPサーバーの設定"/>
+					<item id="1021" text="ログオン情報"/>
+					<item id="1094" text="認証が必要(&amp;A)"/>
+					<item id="1097" text="セキュアなパスワード認証を使用(&amp;S)"/>
+				</dialog>
+				<dialog id="115" text="パスワード">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="1001" text="ドキュメント修正に対して、パスワードによって保護します。"/>
+					<item id="1002" text="このドキュメントの正しいユーザーまたは所有者のパスワードを入力してください :"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1098" text="プロパティの追加(&amp;A)..."/>
+					<item id="1099" text="保存した後にビューアで表示する(&amp;V)"/>
+					<item id="2000" text="作成後にPDFをメール送信する(&amp;E)"/>
+					<item id="2001" text="既存のPDFに追記する(&amp;P)"/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1001" text="許可する変更(&amp;H) :"/>
+					<item id="1002" text="ドキュメントの印刷(&amp;P) :"/>
+					<item id="1076" text="視覚弱者のためのコンテンツアクセスを有効にする(&amp;A)"/>
+					<item id="1077" text="コンテンツのコピーや抽出を許可する(&amp;C)"/>
+					<item id="1080" text="ドキュメントのメタデータを暗号化（Acrobat 6.0以降互換）(&amp;M)"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1072" text="印刷を許可(&amp;P)"/>
+					<item id="1073" text="ドキュメントの変更を許可(&amp;D)"/>
+					<item id="1074" text="コンテンツのコピー、抽出、アクセシビリティの有効化を許可(&amp;N)"/>
+					<item id="1075" text="コメント、フォームの追加、変更を許可"/>
+				</dialog>
+			</dialogs>
+			<strings count="75">
+				<item id="0" text="ファイル &quot;&amp;1&quot; は次の理由により保存できません :
+
+%2
+
+次に行う操作を指定してください。"/>
+				<item id="1" text="直接上書き"/>
+				<item id="2" text="自動採番"/>
+				<item id="3" text="マージする (追記する)"/>
+				<item id="4" text="マージする (先頭に挿入する)"/>
+				<item id="5" text="ジョブ操作をキャンセルし、ジョブを削除する"/>
+				<item id="6" text="別のファイルを選択"/>
+				<item id="7" text="PDFドキュメント（*.pdf）"/>
+				<item id="8" text="すべてのファイル"/>
+				<item id="9" text="%1%% 完了"/>
+				<item id="10" text="スプール中..."/>
+				<item id="11" text="%1 ページ"/>
+				<item id="12" text="pdfSaver は終了していません。
+pdfSaver を終了するにはトレイメニューで終了を選択してください。"/>
+				<item id="13" text="最適化中..."/>
+				<item id="14" text="PDFを生成中..."/>
+				<item id="15" text="PDFを保存中..."/>
+				<item id="16" text="PDFを送信中..."/>
+				<item id="17" text="ヴァージョン : %1.%2 ビルド %3"/>
+				<item id="18" text="ジョブ"/>
+				<item id="19" text="言語"/>
+				<item id="20" text="設定"/>
+				<item id="21" text="PDF-XChange 2012 について"/>
+				<item id="22" text="メール"/>
+				<item id="23" text="情報"/>
+				<item id="24" text="セキュリティ"/>
+				<item id="25" text="追加のプロパティ"/>
+				<item id="26" text="PDFを作成（&amp;C）"/>
+				<item id="27" text="PDFを表示"/>
+				<item id="28" text="標準名"/>
+				<item id="29" text="ローカル名"/>
+				<item id="30" text="言語ID"/>
+				<item id="31" text="本当に選択したジョブグループを削除しますか？"/>
+				<item id="32" text="本当に選択したドキュメントを削除しますか？"/>
+				<item id="33" text="パスワードが正しくありません。
+もう一度パスワードを入力しますか？"/>
+				<item id="34" text="SMTPサーバー名は必須入力です。"/>
+				<item id="35" text="「ドキュメントを開くときにパスワードを要求する」オプションを無効にするか、パスワードを入力してください。"/>
+				<item id="36" text="「権限やパスワードを変更するときにパスワードを要求する」オプションを無効にするか、パスワードを入力してください。"/>
+				<item id="37" text="ドキュメントを開くパスワードと権限を変更するパスワードに同一のものを設定することはできません。どちらか一方のパスワードフィールドに異なるパスワードを設定してください。"/>
+				<item id="38" text="ドキュメントを開くパスワードか権限を変更するパスワードのいずれかを入力する必要があります。"/>
+				<item id="39" text="タイトル"/>
+				<item id="40" text="ドキュメント数"/>
+				<item id="41" text="ページ数"/>
+				<item id="42" text="ドキュメント"/>
+				<item id="43" text="ページ"/>
+				<item id="44" text="40ビット RC4（Acrobat 3.0以上互換）"/>
+				<item id="45" text="128ビット RC4（Acrobat 5.0以上互換）"/>
+				<item id="46" text="128ビット AES（Acrobat 7.0以上互換）"/>
+				<item id="47" text="256ビット AES（Acrobat 9.0以上互換）"/>
+				<item id="48" text="256ビット AES R6（Acrobat X以上互換）"/>
+				<item id="49" text="なし"/>
+				<item id="50" text="文書アセンブリのみ"/>
+				<item id="51" text="フォームフィールドへの記入または署名のみ"/>
+				<item id="52" text="コメントの編集、フォームフィールドへの記入または署名"/>
+				<item id="53" text="一般的な編集、コメントの編集およびフォームフィールドの編集"/>
+				<item id="54" text="禁止"/>
+				<item id="55" text="低い解像度"/>
+				<item id="56" text="すべて許可"/>
+				<item id="57" text="Version 1.3 (Acrobat v3.0 以上)"/>
+				<item id="58" text="Version 1.4 (Acrobat v5.0 以上)"/>
+				<item id="59" text="Version 1.5 (Acrobat v6.0 以上)"/>
+				<item id="60" text="Version 1.6 (Acrobat v7.0 以上)"/>
+				<item id="61" text="Version 1.7 (Acrobat v8.0 以上)"/>
+				<item id="62" text="PDF/A-1a"/>
+				<item id="63" text="PDF/A-1b"/>
+				<item id="64" text="PDF/A-2a"/>
+				<item id="65" text="PDF/A-2b"/>
+				<item id="66" text="PDF/A-2u"/>
+				<item id="67" text="なし"/>
+				<item id="68" text="デフォルトのメールクライアントを起動"/>
+				<item id="69" text="デフォルトのメールクライアントで送信"/>
+				<item id="70" text="直接SMTPサーバーに送信"/>
+				<item id="71" text="製品ヘルプ"/>
+				<item id="72" text="ホームページ"/>
+				<item id="73" text="サポートフォーラム"/>
+				<item id="74" text="問題を報告"/>
+			</strings>
+		</module>
+		<module id="Addin" name="Office Addin">
+			<dialogs>
+				<dialog id="1" text="">
+					<item id="207" text="作成するPDFファイルにブックマークを生成する(&amp;G)"/>
+					<item id="212" text="すべて選択"/>
+					<item id="213" text="すべてクリア"/>
+					<item id="233" text="利用可能なスタイル"/>
+					<item id="246" text="すべてのブックマークを展開する"/>
+				</dialog>
+				<dialog id="202" text="PDF-XChange 5.0">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+				</dialog>
+				<dialog id="203" text="">
+					<item id="222" text="作成するPDFファイルにリンクを生成する"/>
+					<item id="223" text="脚注と引用文献"/>
+					<item id="224" text="クロスドキュメント"/>
+					<item id="225" text="インターネット"/>
+					<item id="226" text="クロスリファレンス"/>
+					<item id="232" text="相対パスで対象ドキュメントを指定する"/>
+					<item id="233" text="Microsoft Office リンクの変換"/>
+					<item id="234" text="リンクの表示方法"/>
+					<item id="235" text="クロスドキュメントのリンク"/>
+					<item id="236" text="種類(&amp;T) :"/>
+					<item id="237" text="スタイル(&amp;S) :"/>
+					<item id="238" text="線の太さ(&amp;W) :"/>
+					<item id="239" text="ポイント"/>
+					<item id="240" text="線の色(&amp;C) :"/>
+					<item id="241" text="ファイルの拡張子をPDFに変換する"/>
+				</dialog>
+				<dialog id="205" text="メール送信のオプション">
+					<item id="1" text="OK"/>
+					<item id="2" text="キャンセル"/>
+					<item id="236" text="To :"/>
+					<item id="237" text="Cc :"/>
+					<item id="238" text="タイトル :"/>
+					<item id="239" text="本文 :"/>
+					<item id="240" text="送信するファイル :"/>
+				</dialog>
+				<dialog id="208" text="">
+					<item id="233" text="高度なオプション"/>
+					<item id="234" text="Actify SFO オプション"/>
+					<item id="241" text="変換後にPDFのデフォルトアプリケーションを実行する(&amp;R)"/>
+					<item id="242" text="変換する前にドキュメントを保存する(&amp;S)"/>
+					<item id="243" text="PDFファイル名を入力する(&amp;P)"/>
+					<item id="244" text="メール送信後にPDFファイルを削除する(&amp;A)"/>
+					<item id="245" text="ドキュメント情報を変換する(&amp;I)"/>
+					<item id="246" text="Actify 3D 認識を許可する"/>
+					<item id="247" text="U3D出力を圧縮する（時間がかかります）"/>
+					<item id="248" text="元のドキュメントフォルダに保存する(&amp;A)"/>
+				</dialog>
+				<dialog id="209" text="PDF-XChange 5.0">
+					<item id="2" text="キャンセル"/>
+				</dialog>
+				<dialog id="210" text="">
+					<item id="205" text="ブックマークとしてそれぞれのスライドを配置する"/>
+					<item id="246" text="スライドの特殊効果を変換する"/>
+				</dialog>
+				<dialog id="236" text="">
+					<item id="249" text="ブック全体を印刷する"/>
+				</dialog>
+				<dialog id="237" text="フォーム">
+					<item id="246" text="Webフォームに変換する"/>
+					<item id="247" text="変更履歴タグを変換する"/>
+				</dialog>
+				<dialog id="238" text="">
+					<item id="250" text="詳細(&amp;A)..."/>
+				</dialog>
+				<dialog id="248" text="">
+					<item id="249" text="すべてのページを印刷する"/>
+				</dialog>
+			</dialogs>
+			<strings count="54">
+				<item id="0" text="設定"/>
+				<item id="1" text="リンク"/>
+				<item id="2" text="ブックマーク"/>
+				<item id="3" text="PowerPoint オプション"/>
+				<item id="4" text="Excel オプション"/>
+				<item id="5" text="Visio オプション"/>
+				<item id="6" text="Word オプション"/>
+				<item id="7" text="詳細"/>
+				<item id="8" text="PDF-XChange 2012"/>
+				<item id="9" text="PDF-XChange 2012"/>
+				<item id="10" text="PDF-XChange 2012"/>
+				<item id="11" text="PDFに変換"/>
+				<item id="12" text="ドキュメントをPDFに変換(&amp;C)"/>
+				<item id="13" text="C"/>
+				<item id="14" text="PDFを作成してメール送信"/>
+				<item id="15" text="現在のドキュメントからPDFファイルを作成してメール送信します"/>
+				<item id="16" text="E"/>
+				<item id="17" text="設定"/>
+				<item id="18" text="PDF作成時の設定を行います"/>
+				<item id="19" text="S"/>
+				<item id="20" text="PDFファイルとして保存(&amp;S)"/>
+				<item id="21" text="現在のドキュメントを PDF-XChange 2012を使用してPDFファイルとして保存します"/>
+				<item id="22" text="現在のドキュメントを PDF-XChange 2012を使用してPDFファイルとして保存します"/>
+				<item id="23" text="C"/>
+				<item id="24" text="PDFを作成してメール送信"/>
+				<item id="25" text="PDF-XChange 2012で現在のドキュメントからPDFファイルを作成してメール送信します"/>
+				<item id="26" text="PDF-XChange 2012で現在のドキュメントからPDFファイルを作成してメール送信します"/>
+				<item id="27" text="E"/>
+				<item id="28" text="エラー"/>
+				<item id="29" text="PDF-XChange プリンタドライバが見つからないか、ロードできません。再インストールしてください。"/>
+				<item id="30" text="PDF-XChange 5.0 オプション"/>
+				<item id="31" text="%1 : %2%% 完了"/>
+				<item id="32" text="脚注を処理中"/>
+				<item id="33" text="引用文献を処理中"/>
+				<item id="34" text="ハイパーリンクを処理中"/>
+				<item id="35" text="内部参照を処理中"/>
+				<item id="36" text="ヘッダを処理中"/>
+				<item id="37" text="特殊効果を処理中"/>
+				<item id="38" text="Webフォームを処理中"/>
+				<item id="39" text="U3D Actify オブジェクトを処理中"/>
+				<item id="40" text="なし"/>
+				<item id="41" text="下線"/>
+				<item id="42" text="矩形"/>
+				<item id="43" text="立体"/>
+				<item id="44" text="破線"/>
+				<item id="45" text="点線"/>
+				<item id="46" text="スタイル"/>
+				<item id="47" text="種類"/>
+				<item id="48" text="レベル"/>
+				<item id="49" text="カスタム"/>
+				<item id="50" text="標準"/>
+				<item id="51" text="PDF-XChange 2012 AcroPlot"/>
+				<item id="52" text="PDF-XChange 2012 AcroPlot"/>
+				<item id="53" text="PDF-XChange 2012 AcroPlot"/>
+			</strings>
+		</module>
+		<module id="Office2PDF" name="Office2PDF">
+			<dialogs>
+				<dialog id="100" text="Office2PDFについて">
+					<item id="1003" text="Copyright © 2011-17 by Tracker Software Products (Canada) Ltd.
+All Rights Reserved"/>
+					<item id="1004" text="このアプリケーションは PDF-XChange 2012 ドライバーを使用して OfficeドキュメントをPDF形式に変換します。
+アプリケーションを使用するにはドライバーのインストールが必要です。"/>
+				</dialog>
+				<dialog id="129" text="Office2PDF 2012">
+					<item id="1" text="実行"/>
+					<item id="2" text="終了"/>
+					<item id="1020" text="リスト操作"/>
+					<item id="1030" text="追加"/>
+					<item id="1031" text="削除"/>
+					<item id="1032" text="すべて削除"/>
+					<item id="1033" text="アプリケーションの GUI を表示する"/>
+					<item id="1034" text="フォルダ"/>
+					<item id="1035" text="追加した監視フォルダ内のファイルを自動的に処理する"/>
+					<item id="1044" text="変換したドキュメントを元のフォルダに保存する"/>
+				</dialog>
+			</dialogs>
+			<strings count="28">
+				<item id="0" text="PDF-XChange プリンタドライバが見つからないか、ロードできません。再インストールしてください。"/>
+				<item id="1" text="未登録"/>
+				<item id="2" text="プロダクトID :"/>
+				<item id="3" text="ライセンスの種類 :"/>
+				<item id="4" text="PDF-XChange 2012 オプション"/>
+				<item id="5" text="お待ちください..."/>
+				<item id="6" text="実行"/>
+				<item id="7" text="ヴァージョン : %1.%2 ビルド %3"/>
+				<item id="8" text="'&amp;s' フォルダを監視フォルダとして追加しますか？"/>
+				<item id="9" text="'%s' フォルダには処理済みのファイルが含まれています。処理を行いますか？"/>
+				<item id="10" text="ヘルプファイルが見つかりません。"/>
+				<item id="11" text="Microsoft Word がインストールされていません。ドキュメントは正確に処理されない可能性があります。"/>
+				<item id="12" text="Microsoft Excel がインストールされていません。ドキュメントは正確に処理されない可能性があります。"/>
+				<item id="13" text="Microsoft Internet Explorer がインストールされていません。ドキュメントは正確に処理されない可能性があります。"/>
+				<item id="14" text="Microsoft Word"/>
+				<item id="15" text="Microsoft Excel"/>
+				<item id="16" text="Internet Explorer"/>
+				<item id="17" text="Word 文書"/>
+				<item id="18" text="Excel 文書"/>
+				<item id="19" text="IE ドキュメント"/>
+				<item id="20" text="すべてのサポートされたフォーマット"/>
+				<item id="21" text="監視ディレクトリ"/>
+				<item id="22" text="オプション"/>
+				<item id="23" text="情報"/>
+				<item id="24" text="設定..."/>
+				<item id="25" text="終了"/>
+				<item id="26" text="ヘルプ..."/>
+				<item id="27" text="製品情報"/>
+			</strings>
+		</module>
+	</modules>
+</Localization>

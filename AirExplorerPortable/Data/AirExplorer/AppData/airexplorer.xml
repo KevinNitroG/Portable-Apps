@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<AirExplorer version="0.1">
+  <properties>
+    <property key="SearchListColumnWidth-2" value="131" type="int" />
+    <property key="leftPanelPages-aliases" type="string[]">
+      <entry>Thái Bình 56 Trần Nguyễn</entry>
+    </property>
+    <property key="TasksListColumnWidth-2" value="219" type="int" />
+    <property key="ClearCompleted" value="1" type="int" />
+    <property key="ScheduledTasksListColumnPosition-2" value="2" type="int" />
+    <property key="ShowHiddenFiles" value="False" type="bool" />
+    <property key="SearchListColumnPosition-5" value="5" type="int" />
+    <property key="WindowWidth" value="1257" type="int" />
+    <property key="SaveLogs" value="False" type="bool" />
+    <property key="FilesListColumnWidth-0" value="841" type="int" />
+    <property key="SearchListColumnPosition-1" value="1" type="int" />
+    <property key="TasksListColumnWidth-3" value="105" type="int" />
+    <property key="WindowLocationX" value="224" type="int" />
+    <property key="WindowLocationY" value="224" type="int" />
+    <property key="leftPanelPages-providers" type="string[]">
+      <entry>GoogleDrive</entry>
+    </property>
+    <property key="ScheduledTasksListColumnPosition-0" value="0" type="int" />
+    <property key="StartupPassword" value="" type="string" />
+    <property key="ScheduledTasksListColumnPosition-4" value="4" type="int" />
+    <property key="TasksListColumnPosition-5" value="5" type="int" />
+    <property key="email.password" value="" type="string" />
+    <property key="LogToNewFile" value="False" type="bool" />
+    <property key="FilesListColumnWidth-2" value="131" type="int" />
+    <property key="DefailtProxyAuth" value="True" type="bool" />
+    <property key="SearchListColumnPosition-3" value="3" type="int" />
+    <property key="leftPanelPages-path" type="string[]">
+      <entry>Drive [[Con Ngoan] - Mirror Drive - Hash Hacker]/Nope.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG[TGx]</entry>
+    </property>
+    <property key="email.enablessl" value="True" type="bool" />
+    <property key="FilesListColumnPosition-3" value="3" type="int" />
+    <property key="FilesListColumnPosition-2" value="2" type="int" />
+    <property key="FilesListColumnPosition-1" value="1" type="int" />
+    <property key="StartMaximized" value="True" type="bool" />
+    <property key="email.port" value="465" type="string" />
+    <property key="email.prefix" value="[Air Explorer] " type="string" />
+    <property key="TasksListColumnWidth-5" value="133" type="int" />
+    <property key="EnableUploadSpeedLimit" value="False" type="bool" />
+    <property key="ScheduledTasksListColumnWidth-1" value="92" type="int" />
+    <property key="ScheduledTasksListColumnWidth-0" value="183" type="int" />
+    <property key="ScheduledTasksListColumnWidth-3" value="142" type="int" />
+    <property key="ScheduledTasksListColumnWidth-2" value="368" type="int" />
+    <property key="ScheduledTasksListColumnWidth-4" value="143" type="int" />
+    <property key="email.prefixenable" value="True" type="bool" />
+    <property key="EnableParallelChunks" value="False" type="bool" />
+    <property key="email.from" value="" type="string" />
+    <property key="Theme" value="Auto" type="string" />
+    <property key="TasksListColumnWidth-7" value="99" type="int" />
+    <property key="TasksListColumnPosition-6" value="6" type="int" />
+    <property key="TasksListColumnPosition-7" value="7" type="int" />
+    <property key="TasksListColumnPosition-4" value="4" type="int" />
+    <property key="SimultaneousDownloads" value="100" type="int" />
+    <property key="TasksListColumnPosition-2" value="2" type="int" />
+    <property key="TasksListColumnPosition-3" value="3" type="int" />
+    <property key="ScheduledTasksListColumnPosition-3" value="3" type="int" />
+    <property key="TasksListColumnPosition-1" value="1" type="int" />
+    <property key="SearchListColumnPosition-4" value="4" type="int" />
+    <property key="MinimizeToTray" value="False" type="bool" />
+    <property key="FilesListColumnWidth-1" value="124" type="int" />
+    <property key="OnePanel" value="True" type="bool" />
+    <property key="SearchListColumnPosition-0" value="0" type="int" />
+    <property key="ProxyUser" value="" type="string" />
+    <property key="email.destination" value="" type="string" />
+    <property key="rightPanelPages-path" type="string[]" />
+    <property key="DownloadSpeedLimit" value="700" type="int" />
+    <property key="ScheduledTasksListColumnPosition-1" value="1" type="int" />
+    <property key="LogFolder" value="C:\Users\Admin\AppData\Roaming\AirExplorer\" type="string" />
+    <property key="CommandLinePassword" value="" type="string" />
+    <property key="TasksListColumnWidth-1" value="221" type="int" />
+    <property key="WindowHeight" value="683" type="int" />
+    <property key="email.server" value="" type="string" />
+    <property key="FilesListColumnWidth-3" value="131" type="int" />
+    <property key="SimultaneousUploads" value="100" type="int" />
+    <property key="SearchListColumnPosition-2" value="2" type="int" />
+    <property key="LogFileSize" value="100" type="int" />
+    <property key="rightPanelPages-providers" type="string[]" />
+    <property key="TasksListColumnPosition-0" value="0" type="int" />
+    <property key="EnableCommandLine" value="False" type="bool" />
+    <property key="UploadSpeedLimit" value="700" type="int" />
+    <property key="leftPanelPages-accounts" type="string[]">
+      <entry>Thái Bình 56 Trần Nguyễn</entry>
+    </property>
+    <property key="rightPanelPages-aliases" type="string[]" />
+    <property key="Language" value="en-US" type="string" />
+    <property key="Retries" value="6" type="int" />
+    <property key="DeleteNoBin" value="False" type="bool" />
+    <property key="EnableDownloadSpeedLimit" value="False" type="bool" />
+    <property key="rightPanelPages-accounts" type="string[]" />
+    <property key="EnableBandwidthScheduller" value="False" type="bool" />
+    <property key="email.fromname" value="" type="string" />
+    <property key="FilesListColumnPosition-0" value="0" type="int" />
+    <property key="SearchListColumnWidth-4" value="131" type="int" />
+    <property key="TasksListColumnWidth-6" value="95" type="int" />
+    <property key="TasksListColumnWidth-4" value="102" type="int" />
+    <property key="TasksListColumnWidth-0" value="124" type="int" />
+    <property key="DetailedLog" value="False" type="bool" />
+    <property key="email.user" value="" type="string" />
+    <property key="SearchListColumnWidth-5" value="131" type="int" />
+    <property key="EnablePassword" value="False" type="bool" />
+    <property key="ProxyPass" value="" type="string" />
+    <property key="SearchListColumnWidth-1" value="124" type="int" />
+    <property key="SearchListColumnWidth-0" value="169" type="int" />
+    <property key="SearchListColumnWidth-3" value="131" type="int" />
+  </properties>
+</AirExplorer>

@@ -1,0 +1,1804 @@
+﻿<case>
+	<case>
+		<condition or="true">
+			<match name="helpMode" match="online"/>
+		</condition>
+		<case name="shell" match="HF">
+			<case>
+				<condition or="true">
+					<match name="topic" match="HotFolder/MainWindow"/>
+					<match name="pageType" match="toc"/>
+					<match name="topic" match="HotFolder/HotFolderWizard"/>
+				</condition>
+				<param name="topic" value="Content/hotfolder.htm"/>
+				<break/>
+			</case>
+		</case>
+		<case>
+			<condition or="true">
+				<match name="shell" match="Finereader"/>
+				<match name="shell" match="SSR"/>
+                <match name="shell" match="PDFT"/>
+                <match name="shell" match="Comparator"/>
+			</condition>
+			<case>
+			<!-- PDFT-->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDC_FI_CS_GENERAL_HOW_TO_DEFAULT_LINK"/>
+						<match name="topic" match="HowToMakeDefaultApp"/>
+					</condition>
+					<param name="topic" value="Content/howtomakedefaultapp.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="PdfCopyTextImages">
+					<param name="topic" value="Content/pdf_copy.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="AcroformEditor">
+					<param name="topic" value="workwithforms"/>
+					<break/>
+				</case>
+				<case name="topic" match="FileSplit">
+					<param name="topic" value="splitdocument_firstpage"/>
+					<break/>
+				</case>
+				<case name="topic" match="PDFT/MainWindow">
+					<param name="topic" value="Content/workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_TR_PREPROCESS_OPTIONS"/>
+						<match name="topic" match="IDD_TR_ASK_DIALOG"/>
+						<match name="topic" match="IDD_TR_ATTACH_NAME_EDITOR"/>
+						<match name="topic" match="IDD_TR_AUTHOR_EDIT_DLG"/>
+						<match name="topic" match="IDD_TR_CHECK_IN_DLG"/>
+						<match name="topic" match="IDD_TR_PROGRESS_DLG"/>
+						<match name="topic" match="IDD_TR_TWO_PANE_DIALOG"/>
+						<match name="topic" match="IDD_TR_OPEN_FILES"/>
+						<match name="topic" match="IDD_TR_CONVERTATION_SAVE_DIALOG"/>
+						<match name="topic" match="IDD_TR_START_*"/>
+						<match name="topic" match="IDD_TR_CREATE_PDF"/>
+						<match name="topic" match="IDD_TR_CUSTOMIZE_CONVERT_TARGETS"/>
+						<match name="topic" match="IDD_TR_INSERT_OPTIONS_PANE"/>
+						<match name="topic" match="IDD_TR_PAGE_SET_PANE"/>
+					</condition>
+					<param name="topic" value="Content/workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_ANNOTATION_*">
+					<param name="topic" value="Content/view_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="SelectColor">
+					<param name="topic" value="Content/textmarkup.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Print">
+					<param name="topic" value="Content/printpdf.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_TR_BATES_*"/>
+						<match name="topic" match="IDD_TR_RUNNING_TITLE_EDITOR"/>
+					</condition>
+					<param name="topic" value="Content/batesstamping.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="FAQ/DatesInStamps">
+					<param name="topic" value="Content/datesinstamps.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_MASS_PROCESSING_*">
+					<param name="topic" value="Content/quick_topdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SIGNATURE_*">
+					<param name="topic" value="Content/signature_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_TEXT_SIGNATURE_DLG">
+					<param name="topic" value="Content/textsignature.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_TR_EMAIL_PDF_DIALOG"/>
+						<match name="topic" match="IDD_TR_EMAIL_PDF_DIALOG_*"/>
+					</condition>
+					<param name="topic" value="Content/emailpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="TaskAutomation/CreateCustomScenarios">
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_FWATERMARK_EDITOR">
+					<param name="topic" value="Content/watermarks.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SEARCH_DLG">
+					<param name="topic" value="Content/workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SEARCH_DLG_*">
+					<param name="topic" value="Content/workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_PRINT_*">
+					<param name="topic" value="Content/printpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SETTINGS_IMAGE_*">
+					<param name="topic" value="Content/createpdf_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_METADATA_*">
+					<param name="topic" value="Content/add_metadata.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_LANGUAGE_PANE">
+					<param name="topic" value="Content/supportedlanguages.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_DELETE_HIDDEN_OBJECT_DLG">
+					<param name="topic" value="Content/redaction.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_DELETING_COMMENTS_AND_ANNOTATION">
+					<param name="topic" value="Content/redaction.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_EBOOK_TITLE">
+					<param name="topic" value="Content/workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_EQUAL_PASSWORDS">
+					<param name="topic" value="Content/pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SAVE_PDF_DOCUMENT">
+					<param name="topic" value="Content/savingpdf_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SAVE_AS_FROM_INTEGRATION">
+					<param name="topic" value="Content/createpdf_print.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_STAMP_EDITOR">
+					<param name="topic" value="Content/stamps.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_TEXT_STAMP_DLG">
+					<param name="topic" value="Content/stamps.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_IMAGE_SIGNATURE_DLG">
+					<param name="topic" value="Content/picturesignature.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_IMAGE_STAMP_DLG">
+					<param name="topic" value="Content/stamps.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_MULTIPLE_PDF_CREATION_OPTIONS_PANE">
+					<param name="topic" value="Content/createpdf_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_PDF_PASSWORD_CONFIRMATION">
+					<param name="topic" value="Content/pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_PDFA_SAVE_NOTE">
+					<param name="topic" value="Content/savepdf_a.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_RESET_SETTINGS_DIALOG">
+					<param name="topic" value="Content/workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_RESTRICTIONS_NOTE">
+					<param name="topic" value="Content/pdf_security.htm"/>
+					<break/>
+				</case>
+				<!-- Comparator-->
+				<case name="topic" match="Comparator/MainWindow">
+					<param name="topic" value="Content/overview_compare.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FILE_DIALOG_OPEN_IMAGES"/>
+						<match name="topic" match="IDD_OPTIONS_DIALOG"/>
+						<match name="topic" match="IDD_PDF_PASSWORD_DIALOG"/>
+						<match name="topic" match="IDD_UPDATE_DOWNLOAD_PANE"/>
+						<match name="topic" match="IDD_UPDATE_READY_TO_DOWNLOAD_PANE"/>
+						<match name="topic" match="IDD_UPDATE_READY_TO_INSTALL_PANE"/>
+					</condition>
+					<param name="topic" value="Content/comparedocuments.htm"/>
+					<break/>
+				</case>
+			<!-- стартовое окно-->
+				<case name="topic" match="StartWindow/MainWindow">
+					<param name="topic" value="Content/startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_SW_CONVERT_PDF_PREPROCESS">
+					<param name="topic" value="Content/startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+			<!-- главное окно FR дефолтная страница-->
+				<case name="topic" match="OCR/MainWindow">
+					<param name="topic" value="Content/workwithocr.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_PAGE_PROPERTIES">
+					<param name="topic" value="Content/workwithocr.htm"/>
+					<break/>
+				</case>
+				<!-- Диалоги открытия, сохранения -->
+				<case name="topic" match="OpenImageDialog">
+					<param name="topic" value="Content/openimage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="OpenBatchDialog">
+					<param name="topic" value="Content/batchwork.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="SaveImageDialog">
+					<param name="topic" value="Content/saveimage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="SaveBatchDialog">
+					<param name="topic" value="Content/batchwork.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="SaveTextDialog">
+					<param name="topic" value="Content/stepsave.htm"/>
+					<break/>
+				</case>
+				<!-- диалоги из которых не понятно, что вызывать, но кажется что лучше стартовое окно  -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_APPLY_OPTIONS_CHANGES"/>
+						<match name="topic" match="IDD_SH_TWO_PANE_DIALOG"/>
+						<match name="topic" match="IDD_SH_QT_PANE_TEMPLATE"/>
+						<match name="topic" match="Work/QTHelp"/>
+					</condition>
+					<param name="topic" value="Content/startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<!-- диалоги из которых не понятно, что вызывать, но кажется что лучше про Главное окно  -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_BLACK_WHITE_MODE_PANE"/>
+						<match name="topic" match="IDD_SH_LANGAUGE_PANE"/>
+						<match name="topic" match="IDD_SH_PAGE_NUMBER"/>
+						<match name="topic" match="IDD_SH_UPDATE_DOWNLOADING_PANE"/>
+						<match name="topic" match="IDD_SH_UPDATE_READY_TO_DOWNLOAD_PANE"/>
+						<match name="topic" match="IDD_SH_UPDATE_READY_TO_INSTALL_PANE"/>
+					</condition>
+					<param name="topic" value="Content/startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<!-- диалоги из которых не понятно, что вызывать, но кажется что лучше про FR  -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_BUY_METHOD"/>
+						<match name="topic" match="IDD_LIC_EULA"/>
+						<match name="topic" match="IDD_LIC_FINE_COPYRIGHT"/>
+						<match name="topic" match="IDD_LIC_NEW_LANGS"/>
+						<match name="topic" match="IDD_LIC_NEW_OS"/>
+						<match name="topic" match="IDD_AUTHORS"/>
+						<match name="topic" match="IDD_CREDITS"/>
+						<match name="topic" match="IDD_RATE_US_DIALOG"/>
+						<match name="topic" match="IDD_RATE_US_THANKS_DIALOG"/>
+						<match name="topic" match="IDD_SH_ABOUTBOX"/>
+						<match name="topic" match="IDD_SH_AUTHORS"/>
+					</condition>
+					<param name="topic" value="Content/overview.htm"/>
+					<break/>
+				</case>
+				<!-- сссылки на хелп из программы -->
+				<case name="pageType" match="toc">
+					<param name="topic" value="Content/overview.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="TECHNICAL_SUPPORT">
+					<param name="topic" value="Content/techsupport.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Scanning/ScanWork">
+					<param name="topic" value="Content/scanoptions.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Recognition/RecOptions">
+					<param name="topic" value="Content/recoptions.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Recognition/RecOrnateType">
+					<param name="topic" value="Content/ornatetype.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Work/StepByStep">
+					<param name="topic" value="Content/startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_FILE_SAVE_BATCH">
+					<param name="topic" value="Content/batchwork.htm#batchsave"/>
+					<break/>
+				</case>
+				<case name="topic" match="OCR/PdfTextLayer">
+					<param name="topic" value="Content/recoptions.htm"/>
+					<break/>
+				</case>				
+				<!-- ShellLicensing*.rc -->
+				<case name="topic" match="IDD_LIC_COMMON_DIALOG">
+					<param name="topic" value="Content/act.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_LIC_COMMON_PROGRESS_DIALOG">
+					<param name="topic" value="Content/registration.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_DEBUG_PAGE">
+					<param name="topic" value="Content/act.htm"/>
+					<break/>
+				</case>	
+				<!-- OptionsDlg*.rc -->
+				<case name="topic" match="IDD_SH_CONFIG_*">
+					<param name="topic" value="Content/options_window.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDC_FI_CS_GENERAL_WHICH_LINK">
+					<param name="topic" value="Content/scangeneral.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDC_FI_CS_RECOGNITION_MODE_LINK">
+					<param name="topic" value="Content/recoptions.htm#recognitionmode"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDC_FI_CS_READ_TRAINING_LINK">
+					<param name="topic" value="Content/recoptions.htm#training"/>
+					<break/>
+				</case>
+				<!-- Progress*.rc -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_PROGRESS_*"/>
+						<match name="topic" match="IDD_SH_PROGRESS_WARNING_*"/>
+						<match name="topic" match="IDD_SH_PROGRESS_WARNINGS_PANE"/>
+					</condition>
+					<param name="topic" value="Content/startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_SHAREPOINT_FOLDER_DIALOG">
+					<param name="topic" value="Content/savesharepoint.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_SEND_TO_KINDLE">
+					<param name="topic" value="Content/sendtokindle.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_EMAIL_IMAGES"/>
+						<match name="topic" match="IDD_SH_SEND_AS_MAIL"/>
+					</condition>
+					<param name="topic" value="Content/saveandemail.htm"/>
+					<break/>
+				</case>
+				<!-- QT*.rc -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_QT_12_BOTTOM_PANE"/>
+						<match name="topic" match="IDD_SH_QT_12_CAPTION_PANE"/>
+					</condition>
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_QT_12_EXCEL_OPTIONS_PANE">
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_QT_12_PDF_OPTIONS_PANE">
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_QT_12_WORD_OPTIONS_PANE">
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<!-- TAResource*.rc -->
+				<case>
+					<condition or="false">
+						<match name="topic" match="IDD_SH_TA_*"/>
+						<match name="topic" notmatch="IDD_TA_*"/>
+						<match name="topic" notmatch="IDD_TA_"/>
+					</condition>
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TA_MANAGER">
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="TaskAutomation/TaskAutomationManager">
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<!-- Shell*.rc -->
+				<case name="topic" match="IDD_SH_VIEW_DICTIONARIES">
+					<param name="topic" value="Content/addwordtodictionary.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_SCAN_DIALOG"/>
+						<match name="topic" match="IDD_SH_SCAN_SETTINGS_PANE"/>
+						<match name="topic" match="IDD_SH_SELECT_SCANNER"/>
+					</condition>
+					<param name="topic" value="Content/scangeneral.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_SAVE_NOT_RECOGNIZED_PDF">
+					<param name="topic" value="Content/stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_PAGE_RENUMBER">
+					<param name="topic" value="Content/batchwork.htm#pagereorder"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_DOCUMENT_SPLITTING">
+					<param name="topic" value="Content/batchwork.htm#batchsplit"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_RUN_IMAGE_PREPROCESSING">
+					<param name="topic" value="Content/scanoptions.htm#autopreprocessing"/>
+					<break/>
+				</case>
+				<case name="topic" match="PreprocessImage/WhyPreprocess">
+					<param name="topic" value="Content/scanoptions.htm#autopreprocessing"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_ENABLE_IMAGE_PREPROCESSING">
+					<param name="topic" value="Content/scanoptions.htm#autopreprocessing"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_CUSTOOLBAR">
+					<param name="topic" value="Content/taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_CUSTOMACCELS">
+					<param name="topic" value="Content/hotkeys.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_CUSTOM_PAPER_SIZE_DIALOG">
+					<param name="topic" value="Content/scangeneral.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_CORRECT_IMAGE_RESOLUTION">
+					<param name="topic" value="Content/scangeneral.htm#resolution"/>
+					<break/>
+				</case>
+				<!-- Itegration*.rc -->
+				<case name="topic" match="IDD_SH_INTEGRATION_*">
+					<param name="topic" value="Content/storagefirstpage.htm"/>
+					<break/>
+				</case>
+				<!-- FileDialog*.rc -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_FILE_DIALOG_BATCH_DIALOG"/>
+						<match name="topic" match="IDD_SH_FILE_DIALOG_SAVE_BATCH_DIALOG"/>
+					</condition>
+					<param name="topic" value="Content/batchwork.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_FILE_DIALOG_EXPORT_DIALOG"/>
+						<match name="topic" match="IDD_SH_FILE_DIALOG_SAVE_TEXT"/>
+						<match name="topic" match="IDD_SH_FILE_DIALOG_SAVE_SHARE_DIALOG"/>
+						<match name="topic" match="IDD_SH_FILE_DIALOG_NEW_FOLDER_DIALOG"/>
+					</condition>
+					<param name="topic" value="Content/stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_FILE_DIALOG_OPEN_IMAGES">
+					<param name="topic" value="Content/openimage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_FILE_DIALOG_SAVE_IMAGE">
+					<param name="topic" value="Content/saveimage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_FILE_DIALOG_LOAD_BLOCKS">
+					<param name="topic" value="Content/workwithtemplates.htm"/>
+					<break/>
+				</case>
+				<!-- ImageEditor*.rc -->
+				<case name="topic" match="IDC_SH_IMAGE_EDIT_*">
+					<param name="topic" value="Content/adjustimage.htm"/>
+					<break/>
+				</case>
+				<!-- FineUI*.rc -->
+				<case name="topic" match="IDD_FI_USER_PATTERNS">
+					<param name="topic" value="Content/ornatetype.htm#editpattern"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_USER_PATTERN_NAME">
+					<param name="topic" value="Content/ornatetype.htm#newpattern"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_SPELLER"/>
+						<match name="topic" match="IDD_FI_SPELLER_TEXT_FORMATTING"/>
+					</condition>
+					<param name="topic" value="Content/checkingtext.htm#verificationwindow"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_PROCESS_PANE"/>
+						<match name="topic" match="IDD_FI_PROCESS_TREE_PANE"/>
+						<match name="topic" match="IDD_FI_ABOUTBOX"/>
+						<match name="topic" match="IDD_FI_AUTHORS"/>
+						<match name="topic" match="IDD_FI_COPYRIGHT"/>
+						<match name="topic" match="IDD_FI_CREDITS"/>
+						<match name="topic" match="IDD_FI_EULA"/>
+						<match name="topic" match="IDD_FI_SCANNER_*"/>
+						<match name="topic" match="IDD_FI_FILE_DIALOG_*"/>
+						<match name="topic" match="IDD_FI_SELECT_*"/>
+						<match name="topic" match="IDD_FI_WORD_PARADIGM"/>
+						<match name="topic" match="IDD_FI_SCAN_OR_FINISH"/>
+						<match name="topic" match="IDD_FI_FR_OPEN_FILE_DIALOG"/>
+						<match name="topic" match="IDD_FI_PAGE_NUMBER"/>
+					</condition>
+					<param name="topic" value="Content/startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_QUICK_SCAN">
+					<param name="topic" value="Content/scan_paper.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_PDF_PASSWORD">
+					<param name="topic" value="Content/pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_PAGE_NEW_NUMBER">
+					<param name="topic" value="Content/batchwork.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_LANGUAGE_CUSTOM_AUTO_LANGUAGE"/>
+						<match name="topic" match="IDD_FI_LANGUAGE_EDITOR_EX"/>
+						<match name="topic" match="IDD_FI_SELECT_LANGUAGE"/>
+						<match name="topic" match="IDD_FI_SYMBOLS"/>
+					</condition>
+					<param name="topic" value="Content/sourceimage.htm#lang"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_LANG_NEW"/>
+						<match name="topic" match="IDD_FI_LANG_SIMPLE_*"/>
+					</condition>
+					<param name="topic" value="Content/createcustlang.htm#newlang"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_LANG_GROUP_*">
+					<param name="topic" value="Content/createcustlang.htm#newlanggroup"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_IMAGE_PROPERTIES">
+					<param name="topic" value="Content/adjustimage.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_FIND"/>
+						<match name="topic" match="IDD_FI_INSERT_SYMBOL"/>
+						<match name="topic" match="IDD_FI_PARAGRAPH_PROPERTIES"/>
+						<match name="topic" match="IDD_FI_REPLACE"/>
+					</condition>
+					<param name="topic" value="Content/stepchecking.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FONT_MATCHING">
+					<param name="topic" value="Content/langfonts.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_FONT_STYLE_EDITOR"/>
+						<match name="topic" match="IDD_FI_SELECT_FONT_STYLE_TO_REPLACE"/>
+					</condition>
+					<param name="topic" value="Content/editstyle.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_EDIT_HYPERLINK">
+					<param name="topic" value="Content/edithyperlinks.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_DICTIONARY_EDIT_DIALOG">
+					<param name="topic" value="Content/addwordtodictionary.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_CHAR_PROPERTIES">
+					<param name="topic" value="Content/stepchecking.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_NOBLOCK"/>
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_STD"/>
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_TABLE"/>
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_TEXT"/>
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_BARCODE"/>
+					</condition>
+					<param name="topic" value="Content/pageanalysis.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_COMMON_SETTINGS">
+					<param name="topic" value="Content/options_window.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_COMMON_SETTINGS_*">
+					<param name="topic" value="Content/options_window.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_PREPROCESS_IMAGE_SETTINGS">
+					<param name="topic" value="Content/options_window.htm"/>
+					<break/>
+				</case>
+				<!-- Formats*.rc -->
+				<case name="topic" match="IDD_FI_FORMAT_PROPERTY_PAGE">
+					<param name="topic" value="Content/stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_XL">
+					<param name="topic" value="Content/saveinxls.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_PDF_ENCRYPTION_PROPERTIES"/>
+						<match name="topic" match="IDD_FI_PDF_OWNER_PASSWORD"/>
+						<match name="topic" match="IDD_FI_PDF_USER_PASSWORD"/>
+						<match name="topic" match="SavingResults/PDF_Security"/>
+					</condition>
+					<param name="topic" value="Content/pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_PRINT_RESTRICTIONS_NOTE">
+					<param name="topic" value="Content/printpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_RESTRICTIONS_NOTE">
+					<param name="topic" value="Content/printpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_SECURITY_SETTINGS">
+					<param name="topic" value="Content/protection_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_EQUAL_PASSWORDS">
+					<param name="topic" value="Content/pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_CUSTOM_PAPER_SIZE">
+					<param name="topic" value="Content/improveresults.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_PDF_DELETE_DATA">
+					<param name="topic" value="Content/redaction.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_XML">
+					<param name="topic" value="Content/stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_XPS">
+					<param name="topic" value="Content/stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_TEXT">
+					<param name="topic" value="Content/savetoedit.htm#txt"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_RTF">
+					<param name="topic" value="Content/savetoedit.htm#docx"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_PPT">
+					<param name="topic" value="Content/savetoedit.htm#pptx"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_PDFA">
+					<param name="topic" value="Content/savepdf_a.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_PDF">
+					<param name="topic" value="Content/savetopdf.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_AUTHOR_EDIT_DLG"/>
+						<match name="topic" match="IDD_FI_FORMAT_EBOOK"/>
+					</condition>
+					<param name="topic" value="Content/saveebook.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_HTML">
+					<param name="topic" value="Content/savehtml.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_DJVU">
+					<param name="topic" value="Content/saveebook.htm#djvu"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_CSV">
+					<param name="topic" value="Content/saveinxls.htm#csv"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_CUSTOM_PICTURE">
+					<param name="topic" value="Content/stepsave.htm"/>
+					<break/>
+				</case>
+				<!-- TrainingUI\Resources.rc -->
+				<case name="topic" match="REC_IDD_USER_PATTERN_EDIT">
+					<param name="topic" value="Content/ornatetype.htm#editpattern"/>
+					<break/>
+				</case>
+				<case name="topic" match="REC_IDD_USER_PATTERN_TRAIN">
+					<param name="topic" value="Content/ornatetype.htm#newpattern"/>
+					<break/>
+				</case>
+				<case name="topic" match="REC_IDD_USER_PATTERN_PROPERTIES">
+					<param name="topic" value="Content/ornatetype.htm#editpattern"/>
+					<break/>
+				</case>
+				<case name="topic" match="REC_IDD_INSERT_SYMBOL">
+					<param name="topic" value="Content/ornatetype.htm"/>
+					<break/>
+				</case>
+				<!-- HotFolder -->
+				<case name="topic" match="Recognition/RecOptions">
+					<param name="topic" value="Content/recoptions.htm#recognitionmode"/>
+					<break/>
+				</case>
+				<case name="topic" match="Recognition/RecOrnateType">
+					<param name="topic" value="Content/recoptions.htm#training"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDC_HF_CS_RECOGNITION_MODE_LINK">
+					<param name="topic" value="Content/recoptions.htm#recognitionmode"/>
+					<break/>
+				</case>
+        <case name="topic" match="IDC_HF_CS_READ_TRAINING_LINK">
+          <param name="topic" value="Content/recoptions.htm#training"/>
+          <break/>
+        </case>
+				<!-- регистрация -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_REMAINDER_REGISTRATION"/>
+						<match name="topic" match="IDD_LIC_SSR_REGISTER"/>
+					</condition>
+					<param name="topic" value="Content/registration.htm"/>
+					<break/>
+				</case>
+				<!-- Protection.dll -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_REGISTER_*"/>
+						<match name="topic" match="IDD_LIC_ENTER_REGISTRATION_INFO_FOR_TEMPLATE"/>
+						<match name="topic" match="IDD_LIC_REGISTRATION_FORM"/>
+						<match name="topic" match="IDD_LIC_TRIAL_*"/>
+						<match name="topic" match="IDD_LIC_SKIP_REGISTRATION"/>
+						<match name="topic" match="IDD_LIC_REGISTRATION_CONNECTION_TYPE"/>
+						<match name="topic" match="Registration/Benefits"/>
+					</condition>
+					<param name="topic" value="Content/registration.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_ACTIVATE_*"/>
+						<match name="topic" match="IDD_LIC_DEACTIVATE_*"/>
+						<match name="topic" match="IDD_LIC_ACTIVATION_CONNECTION_TYPE"/>
+						<match name="topic" match="IDD_LIC_APPLY_STATUS_FILE"/>
+						<match name="topic" match="IDD_LIC_ENTER_*" notmatch="IDD_LIC_ENTER_REGISTRATION_INFO_FOR_TEMPLATE"/>
+						<match name="topic" match="IDD_LIC_UPDATE_*"/>
+						<match name="topic" match="IDD_LIC_STATUS_*"/>
+						<match name="topic" match="IDD_LIC_RESULT"/>
+						<match name="topic" match="IDD_LIC_RENEW_SELECT_LICENSE"/>
+						<match name="topic" match="IDD_LIC_REMOTE_LICENSE_INSTALL"/>
+						<match name="topic" match="IDD_LIC_PROGRESS"/>
+						<match name="topic" match="IDD_LIC_PROCESS_BY_INTERNET_FOR_TEMPLATE"/>
+						<match name="topic" match="IDD_LIC_OPERATION_RESULT_FOR_TEMPLATE"/>
+						<match name="topic" match="IDD_LIC_LICENSES_DIALOG"/>
+					</condition>
+					<param name="topic" value="Content/act.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="Activation/PrivacyPolicy"/>
+						<match name="topic" match="Registration/PrivacyPolicy"/>
+						<match name="topic" match="TemplateLicense/PrivacyPolicy"/>
+						<match name="topic" match="PrivacyPolicy"/>
+					</condition>
+					<param name="topic" value="Content/privacypolicy.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="Statistic/Send"/>
+					</condition>
+					<param name="topic" value="Content/improvment.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="Support/Contacts"/>
+					</condition>
+					<param name="topic" value="Content/techsupport.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_SELECT_LICENSE_SERVER"/>
+						<match name="topic" match="IDD_LIC_SERVER_RECONNECT"/>
+					</condition>
+					<param name="topic" value="Content/installandrun.htm"/>
+					<break/>
+				</case>
+				<!-- активация -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_EXPIRED_*"/>
+						<match name="topic" match="IDD_LIC_EXPORT_*"/>
+						<match name="topic" match="IDD_LIC_STARTUP_*"/>
+					</condition>
+					<param name="topic" value="Content/act.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_LIC_REMAINDER_*" notmatch="IDD_LIC_REMAINDER_REGISTRATION">
+					<param name="topic" value="Content/act.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_MAIN_WINDOW"/>
+						<match name="topic" match="IDD_PROCESS"/>
+						<match name="topic" match="IDD_SAVE_DIALOG"/>
+						<match name="topic" match="IDD_SSR_ABOUTBOX"/>
+						<match name="topic" match="SSR/MainWindow"/>
+					</condition>
+					<param name="topic" value="Content/screenshotreader.htm"/>
+					<break/>
+				</case>
+			</case>
+		</case>
+		<!-- сюда попадем если из прошлого по break не вышли-->
+		<case>
+			<!-- пустую страницу и все ненайденные на страницу учета ошибок справки -->
+			<param name="convertError" value=""/>
+			<break/>
+		</case>
+	</case>
+	<case>
+		<condition or="true">
+			<match name="helpMode" match="chm"/>
+		</condition>
+		<case name="shell" match="HF">
+			<case>
+				<condition or="true">
+					<match name="topic" match="HotFolder/MainWindow"/>
+					<match name="pageType" match="toc"/>
+					<match name="topic" match="HotFolder/HotFolderWizard"/>
+				</condition>
+				<param name="topic" value="hotfolder.htm"/>
+				<break/>
+			</case>
+		</case>
+		<case>
+			<condition or="true">
+				<match name="shell" match="Finereader"/>
+				<match name="shell" match="SSR"/>
+                <match name="shell" match="PDFT"/>
+                <match name="shell" match="Comparator"/>
+			</condition>
+			<case>
+			<!-- PDFT-->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDC_FI_CS_GENERAL_HOW_TO_DEFAULT_LINK"/>
+						<match name="topic" match="HowToMakeDefaultApp"/>
+					</condition>
+					<param name="topic" value="howtomakedefaultapp.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="PdfCopyTextImages">
+					<param name="topic" value="pdf_copy.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="AcroformEditor">
+					<param name="topic" value="workwithforms"/>
+					<break/>
+				</case>
+				<case name="topic" match="FileSplit">
+					<param name="topic" value="splitdocument_firstpage"/>
+					<break/>
+				</case>
+				<case name="topic" match="PDFT/MainWindow">
+					<param name="topic" value="workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_TR_PREPROCESS_OPTIONS"/>
+						<match name="topic" match="IDD_TR_ASK_DIALOG"/>
+						<match name="topic" match="IDD_TR_ATTACH_NAME_EDITOR"/>
+						<match name="topic" match="IDD_TR_AUTHOR_EDIT_DLG"/>
+						<match name="topic" match="IDD_TR_CHECK_IN_DLG"/>
+						<match name="topic" match="IDD_TR_PROGRESS_DLG"/>
+						<match name="topic" match="IDD_TR_TWO_PANE_DIALOG"/>
+						<match name="topic" match="IDD_TR_OPEN_FILES"/>
+						<match name="topic" match="IDD_TR_CONVERTATION_SAVE_DIALOG"/>
+						<match name="topic" match="IDD_TR_START_*"/>
+						<match name="topic" match="IDD_TR_CREATE_PDF"/>
+						<match name="topic" match="IDD_TR_CUSTOMIZE_CONVERT_TARGETS"/>
+						<match name="topic" match="IDD_TR_INSERT_OPTIONS_PANE"/>
+						<match name="topic" match="IDD_TR_PAGE_SET_PANE"/>
+					</condition>
+					<param name="topic" value="workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_ANNOTATION_*">
+					<param name="topic" value="view_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="SelectColor">
+					<param name="topic" value="textmarkup.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Print">
+					<param name="topic" value="printpdf.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_TR_BATES_*"/>
+						<match name="topic" match="IDD_TR_RUNNING_TITLE_EDITOR"/>
+					</condition>
+					<param name="topic" value="batesstamping.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="FAQ/DatesInStamps">
+					<param name="topic" value="datesinstamps.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_MASS_PROCESSING_*">
+					<param name="topic" value="quick_topdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SIGNATURE_*">
+					<param name="topic" value="signature_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_TEXT_SIGNATURE_DLG">
+					<param name="topic" value="signature_firstpage.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_TR_EMAIL_PDF_DIALOG"/>
+						<match name="topic" match="IDD_TR_EMAIL_PDF_DIALOG_*"/>
+					</condition>
+					<param name="topic" value="emailpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="TaskAutomation/CreateCustomScenarios">
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_FWATERMARK_EDITOR">
+					<param name="topic" value="watermarks.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SEARCH_DLG">
+					<param name="topic" value="workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SEARCH_DLG_*">
+					<param name="topic" value="workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_PRINT_*">
+					<param name="topic" value="printpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SETTINGS_IMAGE_*">
+					<param name="topic" value="createpdf_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_METADATA_*">
+					<param name="topic" value="add_metadata.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_LANGUAGE_PANE">
+					<param name="topic" value="supportedlanguages.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_DELETE_HIDDEN_OBJECT_DLG">
+					<param name="topic" value="redaction.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_DELETING_COMMENTS_AND_ANNOTATION">
+					<param name="topic" value="redaction.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_EBOOK_TITLE">
+					<param name="topic" value="workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_EQUAL_PASSWORDS">
+					<param name="topic" value="pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SAVE_PDF_DOCUMENT">
+					<param name="topic" value="savingpdf_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_SAVE_AS_FROM_INTEGRATION">
+					<param name="topic" value="createpdf_print.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_STAMP_EDITOR">
+					<param name="topic" value="stamps.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_TEXT_STAMP_DLG">
+					<param name="topic" value="textsignature.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_IMAGE_SIGNATURE_DLG">
+					<param name="topic" value="picturesignature.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_IMAGE_STAMP_DLG">
+					<param name="topic" value="picturesignature.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_MULTIPLE_PDF_CREATION_OPTIONS_PANE">
+					<param name="topic" value="createpdf_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_PDF_PASSWORD_CONFIRMATION">
+					<param name="topic" value="pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_PDFA_SAVE_NOTE">
+					<param name="topic" value="savepdf_a.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_RESET_SETTINGS_DIALOG">
+					<param name="topic" value="workwithpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TR_RESTRICTIONS_NOTE">
+					<param name="topic" value="pdf_security.htm"/>
+					<break/>
+				</case>
+				<!-- Comparator-->
+				<case name="topic" match="Comparator/MainWindow">
+					<param name="topic" value="overview_compare.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FILE_DIALOG_OPEN_IMAGES"/>
+						<match name="topic" match="IDD_OPTIONS_DIALOG"/>
+						<match name="topic" match="IDD_PDF_PASSWORD_DIALOG"/>
+						<match name="topic" match="IDD_UPDATE_DOWNLOAD_PANE"/>
+						<match name="topic" match="IDD_UPDATE_READY_TO_DOWNLOAD_PANE"/>
+						<match name="topic" match="IDD_UPDATE_READY_TO_INSTALL_PANE"/>
+					</condition>
+					<param name="topic" value="comparedocuments.htm"/>
+					<break/>
+				</case>
+			<!-- стартовое окно-->
+				<case name="topic" match="StartWindow/MainWindow">
+					<param name="topic" value="startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_SW_CONVERT_PDF_PREPROCESS">
+					<param name="topic" value="startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+			<!-- главное окно FR дефолтная страница-->
+				<case name="topic" match="OCR/MainWindow">
+					<param name="topic" value="workwithocr.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_PAGE_PROPERTIES">
+					<param name="topic" value="workwithocr.htm"/>
+					<break/>
+				</case>
+				<!-- Диалоги открытия, сохранения -->
+				<case name="topic" match="OpenImageDialog">
+					<param name="topic" value="openimage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="OpenBatchDialog">
+					<param name="topic" value="batchwork.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="SaveImageDialog">
+					<param name="topic" value="saveimage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="SaveBatchDialog">
+					<param name="topic" value="batchwork.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="SaveTextDialog">
+					<param name="topic" value="stepsave.htm"/>
+					<break/>
+				</case>
+				<!-- диалоги из которых не понятно, что вызывать, но кажется что лучше стартовое окно  -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_APPLY_OPTIONS_CHANGES"/>
+						<match name="topic" match="IDD_SH_TWO_PANE_DIALOG"/>
+						<match name="topic" match="IDD_SH_QT_PANE_TEMPLATE"/>
+						<match name="topic" match="Work/QTHelp"/>
+					</condition>
+					<param name="topic" value="startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<!-- диалоги из которых не понятно, что вызывать, но кажется что лучше про Главное окно  -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_BLACK_WHITE_MODE_PANE"/>
+						<match name="topic" match="IDD_SH_LANGAUGE_PANE"/>
+						<match name="topic" match="IDD_SH_PAGE_NUMBER"/>
+						<match name="topic" match="IDD_SH_UPDATE_DOWNLOADING_PANE"/>
+						<match name="topic" match="IDD_SH_UPDATE_READY_TO_DOWNLOAD_PANE"/>
+						<match name="topic" match="IDD_SH_UPDATE_READY_TO_INSTALL_PANE"/>
+					</condition>
+					<param name="topic" value="startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<!-- диалоги из которых не понятно, что вызывать, но кажется что лучше про FR  -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_BUY_METHOD"/>
+						<match name="topic" match="IDD_LIC_EULA"/>
+						<match name="topic" match="IDD_LIC_FINE_COPYRIGHT"/>
+						<match name="topic" match="IDD_LIC_NEW_LANGS"/>
+						<match name="topic" match="IDD_LIC_NEW_OS"/>
+						<match name="topic" match="IDD_AUTHORS"/>
+						<match name="topic" match="IDD_CREDITS"/>
+						<match name="topic" match="IDD_RATE_US_DIALOG"/>
+						<match name="topic" match="IDD_RATE_US_THANKS_DIALOG"/>
+						<match name="topic" match="IDD_SH_ABOUTBOX"/>
+						<match name="topic" match="IDD_SH_AUTHORS"/>
+					</condition>
+					<param name="topic" value="overview.htm"/>
+					<break/>
+				</case>
+				<!-- сссылки на хелп из программы -->
+				<case name="pageType" match="toc">
+					<param name="topic" value="overview.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="TECHNICAL_SUPPORT">
+					<param name="topic" value="techsupport.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Scanning/ScanWork">
+					<param name="topic" value="scanoptions.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Recognition/RecOptions">
+					<param name="topic" value="recoptions.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Recognition/RecOrnateType">
+					<param name="topic" value="ornatetype.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="Work/StepByStep">
+					<param name="topic" value="startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_FILE_SAVE_BATCH">
+					<param name="topic" value="batchwork.htm#batchsave"/>
+					<break/>
+				</case>
+				<case name="topic" match="OCR/PdfTextLayer">
+					<param name="topic" value="recoptions.htm"/>
+					<break/>
+				</case>				
+				<!-- ShellLicensing*.rc -->
+				<case name="topic" match="IDD_LIC_COMMON_DIALOG">
+					<param name="topic" value="act.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_LIC_COMMON_PROGRESS_DIALOG">
+					<param name="topic" value="registration.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_DEBUG_PAGE">
+					<param name="topic" value="act.htm"/>
+					<break/>
+				</case>	
+				<!-- OptionsDlg*.rc -->
+				<case name="topic" match="IDD_SH_CONFIG_*">
+					<param name="topic" value="options_window.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDC_FI_CS_GENERAL_WHICH_LINK">
+					<param name="topic" value="scangeneral.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDC_FI_CS_RECOGNITION_MODE_LINK">
+					<param name="topic" value="recoptions.htm#recognitionmode"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDC_FI_CS_READ_TRAINING_LINK">
+					<param name="topic" value="recoptions.htm#training"/>
+					<break/>
+				</case>
+				<!-- Progress*.rc -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_PROGRESS_*"/>
+						<match name="topic" match="IDD_SH_PROGRESS_WARNING_*"/>
+						<match name="topic" match="IDD_SH_PROGRESS_WARNINGS_PANE"/>
+					</condition>
+					<param name="topic" value="startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_SHAREPOINT_FOLDER_DIALOG">
+					<param name="topic" value="savesharepoint.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_SEND_TO_KINDLE">
+					<param name="topic" value="sendtokindle.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_EMAIL_IMAGES"/>
+						<match name="topic" match="IDD_SH_SEND_AS_MAIL"/>
+					</condition>
+					<param name="topic" value="saveandemail.htm"/>
+					<break/>
+				</case>
+				<!-- QT*.rc -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_QT_12_BOTTOM_PANE"/>
+						<match name="topic" match="IDD_SH_QT_12_CAPTION_PANE"/>
+					</condition>
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_QT_12_EXCEL_OPTIONS_PANE">
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_QT_12_PDF_OPTIONS_PANE">
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_QT_12_WORD_OPTIONS_PANE">
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<!-- TAResource*.rc -->
+				<case>
+					<condition or="false">
+						<match name="topic" match="IDD_SH_TA_*"/>
+						<match name="topic" notmatch="IDD_TA_*"/>
+						<match name="topic" notmatch="IDD_TA_"/>
+					</condition>
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_TA_MANAGER">
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="TaskAutomation/TaskAutomationManager">
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<!-- Shell*.rc -->
+				<case name="topic" match="IDD_SH_VIEW_DICTIONARIES">
+					<param name="topic" value="addwordtodictionary.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_SCAN_DIALOG"/>
+						<match name="topic" match="IDD_SH_SCAN_SETTINGS_PANE"/>
+						<match name="topic" match="IDD_SH_SELECT_SCANNER"/>
+					</condition>
+					<param name="topic" value="scangeneral.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_SAVE_NOT_RECOGNIZED_PDF">
+					<param name="topic" value="stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_PAGE_RENUMBER">
+					<param name="topic" value="batchwork.htm#pagereorder"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_DOCUMENT_SPLITTING">
+					<param name="topic" value="batchwork.htm#batchsplit"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_RUN_IMAGE_PREPROCESSING">
+					<param name="topic" value="scanoptions.htm#autopreprocessing"/>
+					<break/>
+				</case>
+				<case name="topic" match="PreprocessImage/WhyPreprocess">
+					<param name="topic" value="scanoptions.htm#autopreprocessing"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_ENABLE_IMAGE_PREPROCESSING">
+					<param name="topic" value="scanoptions.htm#autopreprocessing"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_CUSTOOLBAR">
+					<param name="topic" value="taskmanager.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_CUSTOMACCELS">
+					<param name="topic" value="hotkeys.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_CUSTOM_PAPER_SIZE_DIALOG">
+					<param name="topic" value="scangeneral.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_CORRECT_IMAGE_RESOLUTION">
+					<param name="topic" value="scangeneral.htm#resolution"/>
+					<break/>
+				</case>
+				<!-- Itegration*.rc -->
+				<case name="topic" match="IDD_SH_INTEGRATION_*">
+					<param name="topic" value="storagefirstpage.htm"/>
+					<break/>
+				</case>
+				<!-- FileDialog*.rc -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_FILE_DIALOG_BATCH_DIALOG"/>
+						<match name="topic" match="IDD_SH_FILE_DIALOG_SAVE_BATCH_DIALOG"/>
+					</condition>
+					<param name="topic" value="batchwork.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_SH_FILE_DIALOG_EXPORT_DIALOG"/>
+						<match name="topic" match="IDD_SH_FILE_DIALOG_SAVE_TEXT"/>
+						<match name="topic" match="IDD_SH_FILE_DIALOG_SAVE_SHARE_DIALOG"/>
+						<match name="topic" match="IDD_SH_FILE_DIALOG_NEW_FOLDER_DIALOG"/>
+					</condition>
+					<param name="topic" value="stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_FILE_DIALOG_OPEN_IMAGES">
+					<param name="topic" value="openimage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_FILE_DIALOG_SAVE_IMAGE">
+					<param name="topic" value="saveimage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_SH_FILE_DIALOG_LOAD_BLOCKS">
+					<param name="topic" value="workwithtemplates.htm"/>
+					<break/>
+				</case>
+				<!-- ImageEditor*.rc -->
+				<case name="topic" match="IDC_SH_IMAGE_EDIT_*">
+					<param name="topic" value="adjustimage.htm"/>
+					<break/>
+				</case>
+				<!-- FineUI*.rc -->
+				<case name="topic" match="IDD_FI_USER_PATTERNS">
+					<param name="topic" value="ornatetype.htm#editpattern"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_USER_PATTERN_NAME">
+					<param name="topic" value="ornatetype.htm#newpattern"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_SPELLER"/>
+						<match name="topic" match="IDD_FI_SPELLER_TEXT_FORMATTING"/>
+					</condition>
+					<param name="topic" value="checkingtext.htm#verificationwindow"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_PROCESS_PANE"/>
+						<match name="topic" match="IDD_FI_PROCESS_TREE_PANE"/>
+						<match name="topic" match="IDD_FI_ABOUTBOX"/>
+						<match name="topic" match="IDD_FI_AUTHORS"/>
+						<match name="topic" match="IDD_FI_COPYRIGHT"/>
+						<match name="topic" match="IDD_FI_CREDITS"/>
+						<match name="topic" match="IDD_FI_EULA"/>
+						<match name="topic" match="IDD_FI_SCANNER_*"/>
+						<match name="topic" match="IDD_FI_FILE_DIALOG_*"/>
+						<match name="topic" match="IDD_FI_SELECT_*"/>
+						<match name="topic" match="IDD_FI_WORD_PARADIGM"/>
+						<match name="topic" match="IDD_FI_SCAN_OR_FINISH"/>
+						<match name="topic" match="IDD_FI_FR_OPEN_FILE_DIALOG"/>
+						<match name="topic" match="IDD_FI_PAGE_NUMBER"/>
+					</condition>
+					<param name="topic" value="startwindow_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_QUICK_SCAN">
+					<param name="topic" value="scan_paper.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_PDF_PASSWORD">
+					<param name="topic" value="pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_PAGE_NEW_NUMBER">
+					<param name="topic" value="batchwork.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_LANGUAGE_CUSTOM_AUTO_LANGUAGE"/>
+						<match name="topic" match="IDD_FI_LANGUAGE_EDITOR_EX"/>
+						<match name="topic" match="IDD_FI_SELECT_LANGUAGE"/>
+						<match name="topic" match="IDD_FI_SYMBOLS"/>
+					</condition>
+					<param name="topic" value="sourceimage.htm#lang"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_LANG_NEW"/>
+						<match name="topic" match="IDD_FI_LANG_SIMPLE_*"/>
+					</condition>
+					<param name="topic" value="createcustlang.htm#newlang"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_LANG_GROUP_*">
+					<param name="topic" value="createcustlang.htm#newlanggroup"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_IMAGE_PROPERTIES">
+					<param name="topic" value="adjustimage.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_FIND"/>
+						<match name="topic" match="IDD_FI_INSERT_SYMBOL"/>
+						<match name="topic" match="IDD_FI_PARAGRAPH_PROPERTIES"/>
+						<match name="topic" match="IDD_FI_REPLACE"/>
+					</condition>
+					<param name="topic" value="stepchecking.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FONT_MATCHING">
+					<param name="topic" value="langfonts.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_FONT_STYLE_EDITOR"/>
+						<match name="topic" match="IDD_FI_SELECT_FONT_STYLE_TO_REPLACE"/>
+					</condition>
+					<param name="topic" value="editstyle.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_EDIT_HYPERLINK">
+					<param name="topic" value="edithyperlinks.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_DICTIONARY_EDIT_DIALOG">
+					<param name="topic" value="addwordtodictionary.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_CHAR_PROPERTIES">
+					<param name="topic" value="stepchecking.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_NOBLOCK"/>
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_STD"/>
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_TABLE"/>
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_TEXT"/>
+						<match name="topic" match="IDD_FI_AREA_PROPERTIES_BARCODE"/>
+					</condition>
+					<param name="topic" value="pageanalysis.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_COMMON_SETTINGS">
+					<param name="topic" value="options_window.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_COMMON_SETTINGS_*">
+					<param name="topic" value="options_window.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_PREPROCESS_IMAGE_SETTINGS">
+					<param name="topic" value="options_window.htm"/>
+					<break/>
+				</case>
+				<!-- Formats*.rc -->
+				<case name="topic" match="IDD_FI_FORMAT_PROPERTY_PAGE">
+					<param name="topic" value="stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_XL">
+					<param name="topic" value="saveinxls.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_PDF_ENCRYPTION_PROPERTIES"/>
+						<match name="topic" match="IDD_FI_PDF_OWNER_PASSWORD"/>
+						<match name="topic" match="IDD_FI_PDF_USER_PASSWORD"/>
+						<match name="topic" match="SavingResults/PDF_Security"/>
+					</condition>
+					<param name="topic" value="pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_PRINT_RESTRICTIONS_NOTE">
+					<param name="topic" value="printpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_RESTRICTIONS_NOTE">
+					<param name="topic" value="printpdf.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_SECURITY_SETTINGS">
+					<param name="topic" value="protection_firstpage.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_EQUAL_PASSWORDS">
+					<param name="topic" value="pdf_security.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_CUSTOM_PAPER_SIZE">
+					<param name="topic" value="improveresults.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_PDF_DELETE_DATA">
+					<param name="topic" value="redaction.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_XML">
+					<param name="topic" value="stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_XPS">
+					<param name="topic" value="stepsave.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_TEXT">
+					<param name="topic" value="savetoedit.htm#txt"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_RTF">
+					<param name="topic" value="savetoedit.htm#docx"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_PPT">
+					<param name="topic" value="savetoedit.htm#pptx"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_PDFA">
+					<param name="topic" value="savepdf_a.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_PDF">
+					<param name="topic" value="savetopdf.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_FI_AUTHOR_EDIT_DLG"/>
+						<match name="topic" match="IDD_FI_FORMAT_EBOOK"/>
+					</condition>
+					<param name="topic" value="saveebook.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_HTML">
+					<param name="topic" value="savehtml.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_DJVU">
+					<param name="topic" value="saveebook.htm#djvu"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_FORMAT_CSV">
+					<param name="topic" value="saveinxls.htm#csv"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_FI_CUSTOM_PICTURE">
+					<param name="topic" value="stepsave.htm"/>
+					<break/>
+				</case>
+				<!-- TrainingUI\Resources.rc -->
+				<case name="topic" match="REC_IDD_USER_PATTERN_EDIT">
+					<param name="topic" value="ornatetype.htm#editpattern"/>
+					<break/>
+				</case>
+				<case name="topic" match="REC_IDD_USER_PATTERN_TRAIN">
+					<param name="topic" value="ornatetype.htm#newpattern"/>
+					<break/>
+				</case>
+				<case name="topic" match="REC_IDD_USER_PATTERN_PROPERTIES">
+					<param name="topic" value="ornatetype.htm#editpattern"/>
+					<break/>
+				</case>
+				<case name="topic" match="REC_IDD_INSERT_SYMBOL">
+					<param name="topic" value="ornatetype.htm"/>
+					<break/>
+				</case>
+				<!-- HotFolder -->
+				<case name="topic" match="Recognition/RecOptions">
+					<param name="topic" value="recoptions.htm#recognitionmode"/>
+					<break/>
+				</case>
+				<case name="topic" match="Recognition/RecOrnateType">
+					<param name="topic" value="recoptions.htm#training"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDC_HF_CS_RECOGNITION_MODE_LINK">
+					<param name="topic" value="recoptions.htm#recognitionmode"/>
+					<break/>
+				</case>
+        <case name="topic" match="IDC_HF_CS_READ_TRAINING_LINK">
+          <param name="topic" value="recoptions.htm#training"/>
+          <break/>
+        </case>
+				<!-- регистрация -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_REMAINDER_REGISTRATION"/>
+						<match name="topic" match="IDD_LIC_SSR_REGISTER"/>
+					</condition>
+					<param name="topic" value="registration.htm"/>
+					<break/>
+				</case>
+				<!-- Protection.dll -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_REGISTER_*"/>
+						<match name="topic" match="IDD_LIC_ENTER_REGISTRATION_INFO_FOR_TEMPLATE"/>
+						<match name="topic" match="IDD_LIC_REGISTRATION_FORM"/>
+						<match name="topic" match="IDD_LIC_TRIAL_*"/>
+						<match name="topic" match="IDD_LIC_SKIP_REGISTRATION"/>
+						<match name="topic" match="IDD_LIC_REGISTRATION_CONNECTION_TYPE"/>
+						<match name="topic" match="Registration/Benefits"/>
+					</condition>
+					<param name="topic" value="registration.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_ACTIVATE_*"/>
+						<match name="topic" match="IDD_LIC_DEACTIVATE_*"/>
+						<match name="topic" match="IDD_LIC_ACTIVATION_CONNECTION_TYPE"/>
+						<match name="topic" match="IDD_LIC_APPLY_STATUS_FILE"/>
+						<match name="topic" match="IDD_LIC_ENTER_*" notmatch="IDD_LIC_ENTER_REGISTRATION_INFO_FOR_TEMPLATE"/>
+						<match name="topic" match="IDD_LIC_UPDATE_*"/>
+						<match name="topic" match="IDD_LIC_STATUS_*"/>
+						<match name="topic" match="IDD_LIC_RESULT"/>
+						<match name="topic" match="IDD_LIC_RENEW_SELECT_LICENSE"/>
+						<match name="topic" match="IDD_LIC_REMOTE_LICENSE_INSTALL"/>
+						<match name="topic" match="IDD_LIC_PROGRESS"/>
+						<match name="topic" match="IDD_LIC_PROCESS_BY_INTERNET_FOR_TEMPLATE"/>
+						<match name="topic" match="IDD_LIC_OPERATION_RESULT_FOR_TEMPLATE"/>
+						<match name="topic" match="IDD_LIC_LICENSES_DIALOG"/>
+					</condition>
+					<param name="topic" value="act.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="Activation/PrivacyPolicy"/>
+						<match name="topic" match="Registration/PrivacyPolicy"/>
+						<match name="topic" match="TemplateLicense/PrivacyPolicy"/>
+						<match name="topic" match="PrivacyPolicy"/>
+					</condition>
+					<param name="topic" value="privacypolicy.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="Statistic/Send"/>
+					</condition>
+					<param name="topic" value="improvment.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="Support/Contacts"/>
+					</condition>
+					<param name="topic" value="techsupport.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_SELECT_LICENSE_SERVER"/>
+						<match name="topic" match="IDD_LIC_SERVER_RECONNECT"/>
+					</condition>
+					<param name="topic" value="installandrun.htm"/>
+					<break/>
+				</case>
+				<!-- активация -->
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_LIC_EXPIRED_*"/>
+						<match name="topic" match="IDD_LIC_EXPORT_*"/>
+						<match name="topic" match="IDD_LIC_STARTUP_*"/>
+					</condition>
+					<param name="topic" value="act.htm"/>
+					<break/>
+				</case>
+				<case name="topic" match="IDD_LIC_REMAINDER_*" notmatch="IDD_LIC_REMAINDER_REGISTRATION">
+					<param name="topic" value="act.htm"/>
+					<break/>
+				</case>
+				<case>
+					<condition or="true">
+						<match name="topic" match="IDD_MAIN_WINDOW"/>
+						<match name="topic" match="IDD_PROCESS"/>
+						<match name="topic" match="IDD_SAVE_DIALOG"/>
+						<match name="topic" match="IDD_SSR_ABOUTBOX"/>
+						<match name="topic" match="SSR/MainWindow"/>
+					</condition>
+					<param name="topic" value="screenshotreader.htm"/>
+					<break/>
+				</case>
+			</case>
+		</case>
+		<!-- сюда попадем если из прошлого по break не вышли-->
+		<case>
+			<!-- пустую страницу и все ненайденные на страницу учета ошибок справки -->
+			<param name="convertError" value=""/>
+			<break/>
+		</case>
+	</case>
+	<case name="helpMode" match="chm">
+		<case name="shell" match="BCR">
+		</case>
+	</case>
+	<case name="helpMode" match="quick">
+		<param name="localName" value="ShortHelp_%uiName%.pdf"/>
+	</case>
+	<case>
+		<!-- пустую страницу и все ненайденные на страницу учета ошибок справки -->
+		<param name="convertError" value=""/>
+		<break/>
+	</case>
+</case>

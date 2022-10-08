@@ -1,0 +1,7 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; This file containes exceptions for some Wia sources
+; File is used by FineReader
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[HP OfficeJet D]
+DisableAbbyyUI=1

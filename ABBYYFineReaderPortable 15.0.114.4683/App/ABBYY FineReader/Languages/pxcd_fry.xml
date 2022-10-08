@@ -1,0 +1,1367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="PDFXPrinter" version="1.0" productVersion="5.0.0256.0000"/>
+	<language eName="Frisian" lName="Frysk" lcid="0x0462"/>
+	<modules>
+		<module id="driver" name="Driver">
+			<dialogs>
+				<dialog id="101" text="It hoe en het">
+					<item id="1033" text="Produkt hat in lisinsje foar"/>
+					<item id="1040" text="Copyright © 2001-17 by Tracker Software Products (Canada) Ltd.
+Alle rjochten foarbehâlden."/>
+					<item id="1143" text="&amp;Registraasje"/>
+					<item id="1144" text="&amp;Help ..."/>
+				</dialog>
+				<dialog id="102" text="Ynstellings"/>
+				<dialog id="103" text="">
+					<item id="1001" text="&amp;Standert:"/>
+					<item id="1002" text="&amp;Oanpast:"/>
+					<item id="1006" text="Spin1"/>
+					<item id="1008" text="Spin2"/>
+					<item id="1011" text="Spin1"/>
+					<item id="1014" text="Spin1"/>
+					<item id="1017" text="&amp;Lizzend"/>
+					<item id="1018" text="&amp;Steand"/>
+					<item id="1026" text="Spegelje neffens &amp;X as"/>
+					<item id="1027" text="Spegelje neffens &amp;Y as"/>
+					<item id="1030" text="x"/>
+					<item id="1031" text="&amp;"/>
+					<item id="1032" text="&amp;Resolúsje:"/>
+					<item id="1033" text="S&amp;kale:"/>
+					<item id="1034" text="Oriïntaasje:"/>
+					<item id="1035" text="Opmaak type:"/>
+					<item id="1036" text="Blêdgrutte:"/>
+					<item id="1037" text="Grutte:"/>
+					<item id="1038" text="x"/>
+					<item id="1050" text="Side grutte"/>
+					<item id="1051" text="Ofbylding"/>
+					<item id="1052" text="Opmaak"/>
+					<item id="1053" text="Avansearre Print Opsjes"/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1030" text="Neffens de spesifikaasje:"/>
+					<item id="1031" text="As it dokumint iepen is"/>
+					<item id="1032" text="Side &amp;opmaak:"/>
+					<item id="1033" text="Side &amp;modus:"/>
+					<item id="1034" text="&amp;Folslein side module:"/>
+					<item id="1035" text="&amp;Fergrutting:"/>
+					<item id="1036" text="%"/>
+					<item id="1037" text="&amp;Iepenje nei side:"/>
+					<item id="1038" text="Oergong type:"/>
+					<item id="1039" text="Side doer:"/>
+					<item id="1040" text="sek."/>
+					<item id="1041" text="Oergong modus:"/>
+					<item id="1042" text="Oergong doer:"/>
+					<item id="1043" text="sek."/>
+					<item id="1044" text="Werjouwer foarkar"/>
+					<item id="1050" text="PDF Spesifikaasje"/>
+					<item id="1051" text="Oergong"/>
+					<item id="1076" text="&amp;Arkbalken ferbergje"/>
+					<item id="1077" text="M&amp;enubalke ferbergje"/>
+					<item id="1078" text="Dokumint &amp;finster sentraal sette"/>
+					<item id="1079" text="Dokumint finster &amp;oanpasse sadat de grutte deselde is as de earste side"/>
+					<item id="1080" text="De brûkers ynterfaase eleminten fan dokumint finster ferbergje"/>
+					<item id="1081" text="Dokumint titel yn de finster titelbalke sjen litte"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1050" text="Wettermerk opsomming"/>
+					<item id="1090" text="&amp;Printsjen fan wettermerk ynskeakelje"/>
+					<item id="1096" text="Alles &amp;opskjinje"/>
+					<item id="1097" text="Alles &amp;selektearje"/>
+					<item id="1098" text="&amp;Bewurkje..."/>
+					<item id="1099" text="&amp;Nij..."/>
+					<item id="1100" text="&amp;Fuortsmite"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1030" text="&amp;Werjefte modus:"/>
+					<item id="1031" text="&amp;Nivo:"/>
+					<item id="1032" text="±"/>
+					<item id="1033" text="pt."/>
+					<item id="1034" text="Styl:"/>
+					<item id="1035" text="Kleur:"/>
+					<item id="1036" text="Tastân:"/>
+					<item id="1050" text="&amp;Sjabloam"/>
+					<item id="1051" text="Untdekkings opsjes"/>
+					<item id="1052" text="Werjefte opsjes"/>
+					<item id="1100" text="&amp;Fuortsmite"/>
+					<item id="1101" text="Automatyske blêdwizer ûntdekking &amp;ynskeakelje"/>
+					<item id="1102" text="&amp;Multy-regel blêdwizers tastean"/>
+					<item id="1103" text="&amp;Dokumint titel as blêdwizer root brûke"/>
+					<item id="1104" text="Node &amp;oerienstimme sûnder it nivo yn acht te nimmen"/>
+					<item id="1109" text="&amp;Taheakje"/>
+					<item id="1110" text="Lette&amp;rtype:"/>
+					<item id="1112" text="Sty&amp;l:"/>
+					<item id="1114" text="&amp;Grutte:"/>
+					<item id="1119" text="&amp;Kleur:"/>
+					<item id="1120" text="Kleur"/>
+					<item id="1122" text="Kleur"/>
+					<item id="1123" text="Iepene"/>
+					<item id="1124" text="Be&amp;warje..."/>
+					<item id="1125" text="L&amp;ade..."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1030" text="&amp;Koptekst:"/>
+					<item id="1031" text="&amp;Fuottekst:"/>
+					<item id="1032" text="Earste side &amp;nûmer"/>
+					<item id="1033" text="&amp;Lofts:"/>
+					<item id="1034" text="&amp;Top:"/>
+					<item id="1035" text="&amp;Rjochts"/>
+					<item id="1036" text="&amp;Boaiem:"/>
+					<item id="1037" text="&amp;Ienheden:"/>
+					<item id="1051" text="Kop en fuotteksten"/>
+					<item id="1052" text="Opsjes"/>
+					<item id="1053" text="Offsets"/>
+					<item id="1126" text="K&amp;op en fuortteksten taheakje oan de siden fan it dokumint"/>
+					<item id="1130" text="Oanpasse..."/>
+					<item id="1132" text="Oanpasse..."/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1030" text="Posysje:"/>
+					<item id="1031" text="Grutte:"/>
+					<item id="1032" text="Skale:"/>
+					<item id="1146" text="Sintraal"/>
+					<item id="1153" text="Passend skale"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1030" text="S&amp;iden de blêd:"/>
+					<item id="1033" text="&amp;Folchoarder fan siden"/>
+					<item id="1156" text="Siderâne printsje"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1030" text="Boekmodel:"/>
+					<item id="1031" text="Blêden yn hântekening:"/>
+					<item id="1032" text="Guot grutte:"/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1031" text="&amp;Titel:"/>
+					<item id="1032" text="&amp;Underwerp:"/>
+					<item id="1033" text="Skri&amp;uwer:"/>
+					<item id="1034" text="Stek&amp;wurden:"/>
+					<item id="1035" text="&amp;Makke troch:"/>
+					<item id="1036" text="Makk&amp;e mei:"/>
+					<item id="1050" text="&amp;ynformaasje oer it PDF-triem"/>
+					<item id="1162" text="Oanfoljende ynformaasje yn it &amp;dokumint bewarje"/>
+					<item id="1163" text="Om dokumintgegevens freegje by it úteinsetten fan de printtaak"/>
+					<item id="1164" text="XMP &amp;Metagegeven ta it dokumint taheakje"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1031" text="JPEG-&amp;kwaliteit:"/>
+					<item id="1032" text="%"/>
+					<item id="1033" text="&amp;JBIG2-metoade:"/>
+					<item id="1050" text="Algemien"/>
+					<item id="1051" text="Ofbyldings yn kleur/griiswearden"/>
+					<item id="1052" text="Yndeksearre ôfbyldings"/>
+					<item id="1053" text="Swart-wytôfbyldings"/>
+					<item id="1171" text="O&amp;fbyldings komprimearje"/>
+					<item id="1172" text="&amp;ASCII-yndieling (Triem wurd grutter)"/>
+					<item id="1173" text="&amp;Tekst komprimearje"/>
+					<item id="1174" text="&amp;Kompresjemetoade:"/>
+					<item id="1177" text="Spin1"/>
+					<item id="1178" text="Ko&amp;mpresjemetoade:"/>
+					<item id="1180" text="Kom&amp;presjemetoade:"/>
+					<item id="1183" text="Sta&amp;ndert"/>
+				</dialog>
+				<dialog id="113" text="">
+					<item id="1030" text="byldpunten de tomme"/>
+					<item id="1031" text="foar boppesteande ôfbyldings:"/>
+					<item id="1032" text="byldpunten de tomme"/>
+					<item id="1033" text="byldpunten de tomme"/>
+					<item id="1034" text="foar boppesteande ôfbyldings:"/>
+					<item id="1035" text="byldpunten de tomme"/>
+					<item id="1036" text="byldpunten de tomme"/>
+					<item id="1037" text="foar boppesteande ôfbyldings:"/>
+					<item id="1038" text="byldpunten de tomme"/>
+					<item id="1039" text="Drompel:"/>
+					<item id="1050" text="Ofbyldings yn kleur/griiswearden"/>
+					<item id="1051" text="Yndeksearre ôfbyldings"/>
+					<item id="1052" text="Swart-wytôfbyldings"/>
+					<item id="1194" text="Spin1"/>
+					<item id="1202" text="Ditering brûke"/>
+					<item id="1203" text="Ditering brûke"/>
+				</dialog>
+				<dialog id="114" text="">
+					<item id="1030" text="&amp;Beskikbere lettertypen:"/>
+					<item id="1031" text="%"/>
+					<item id="1183" text="Sta&amp;ndert"/>
+					<item id="1206" text="&amp;Alle brûkte lettertypen ynslutte"/>
+					<item id="1207" text="&amp;Ynslute fan beskerme lettertypen ôfdwinge"/>
+					<item id="1208" text="Utwreide lettertype/teken ynfo ynslute"/>
+					<item id="1212" text="&gt;&gt;"/>
+					<item id="1213" text="&lt;&lt;"/>
+					<item id="1214" text="Dizze &amp;lettertypen altyd ynslute:"/>
+					<item id="1216" text="&gt;&gt;"/>
+					<item id="1217" text="&lt;&lt;"/>
+					<item id="1218" text="Dizze lettertypen &amp;nea ynslute:"/>
+					<item id="1220" text="Su&amp;bset fan lettertypen allinne ynslute, by persintaazje fan tekens minder dan:"/>
+				</dialog>
+				<dialog id="115" text="">
+					<item id="1031" text="Oerfloe&amp;i-triem:"/>
+					<item id="1032" text="Oerfloei-siden relatyf rjochtsje oan nije pdf-dokumint siden:"/>
+					<item id="1033" text="&amp;Horizontaal:"/>
+					<item id="1034" text="&amp;Fertikaal:"/>
+					<item id="1035" text="&amp;Wachtwurd om triem te iepenjen:"/>
+					<item id="1051" text="Werhellings opsjes"/>
+					<item id="1052" text="Posysjes"/>
+					<item id="1153" text="Oerfloei-side&amp;n oan nije dokumintsiden oanpasse"/>
+					<item id="1221" text="&amp;Oerfloeie mei in besteand pdf-triem"/>
+					<item id="1223" text="B&amp;lêdzje..."/>
+					<item id="1225" text="Oerfloei-triem op foar&amp;grûn sette"/>
+					<item id="1226" text="&amp;Net werhelje"/>
+					<item id="1227" text="Lê&amp;ste side fan koarter oerfloei-triem werhelje"/>
+					<item id="1228" text="Koarter oerfloei-triem stees wer &amp;werhelje"/>
+					<item id="1231" text="&amp;Ferhâldingen behâlde"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1031" text="Wachtwurd:"/>
+					<item id="1032" text="Wachtwurd:"/>
+					<item id="1033" text="Fersiferni&amp;vo"/>
+					<item id="1050" text="Dokumint wachtwurden"/>
+					<item id="1051" text="Foech foar dokumint:"/>
+					<item id="1052" text="Digitaal ûndertekenje"/>
+					<item id="1232" text="PDF &amp;feiligens brûke"/>
+					<item id="1233" text="Wachtwurd fereaske om dokumint te &amp;iepenjen:"/>
+					<item id="1235" text="Wachtwurd fereaske om foech en/of wachtwurd te fer&amp;oarjen:"/>
+					<item id="1238" text="&amp;Dokumint digitaal ûndertekenje"/>
+					<item id="1239" text="Ynstellings..."/>
+					<item id="1240" text="Tiid se&amp;t tsjinner brûke:"/>
+					<item id="1242" text="Beheare..."/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1243" text="&amp;Printsjen fan dokumint tastean"/>
+					<item id="1244" text="&amp;Feroarjen fan dokumint tastean"/>
+					<item id="1245" text="Kopiearjen/eksportearjen fan ynhâld tastean, tagonglikheid y&amp;nskeakelje"/>
+					<item id="1246" text="Taheakje/bewurkje fan reaksjes en formulierfjilden tastean"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1031" text="&amp;Tasteane feroarings:"/>
+					<item id="1032" text="&amp;It dokumint printsje:"/>
+					<item id="1247" text="&amp;Ynhâld tagonglik meitsje foar ien dy't min sjocht"/>
+					<item id="1248" text="&amp;Kopiearjen en eksportearjen fan ynhâld tastean"/>
+					<item id="1250" text="&amp;Dokumint metagegevens fersiferje (Acrobat 6.0 en letter)"/>
+				</dialog>
+				<dialog id="119" text="">
+					<item id="1031" text="Râne &amp;type:"/>
+					<item id="1032" text="Râne &amp;styl:"/>
+					<item id="1033" text="Râne &amp;breedte:"/>
+					<item id="1034" text="punten"/>
+					<item id="1035" text="Râne &amp;kleur:"/>
+					<item id="1036" text="Foarbyld:"/>
+					<item id="1037" text="Us webadres is:"/>
+					<item id="1050" text="Keppeling opsjes"/>
+					<item id="1052" text="Lokale triemmen"/>
+					<item id="1122" text="Drukke foar seleksje"/>
+					<item id="1183" text="Sta&amp;ndert"/>
+					<item id="1251" text="&amp;Analisearje URL-adressen yn printe tekst"/>
+					<item id="1252" text="Triemnammen ûntdekke en nei PD&amp;F keppelings omsette"/>
+					<item id="1253" text="Kontrolearje of de triemmen bestean foar datst keppelst"/>
+					<item id="1258" text="http://www.tracker-software.com/"/>
+					<item id="1259" text="&amp;Meitsje de tekstkleur itselde as de rânekleur"/>
+				</dialog>
+				<dialog id="120" text="Blêdwizers list">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1030" text="Sjabloam &amp;namme:"/>
+					<item id="1050" text="Sjabloam list"/>
+					<item id="1100" text="&amp;Fuortsmite"/>
+				</dialog>
+				<dialog id="121" text="Oanpasse ...">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1030" text="Lofter kant:"/>
+					<item id="1031" text="Sintraal:"/>
+					<item id="1032" text="Rjochter kant:"/>
+					<item id="1051" text="Koptekst"/>
+					<item id="1265" text="..."/>
+					<item id="1266" text="..."/>
+					<item id="1267" text="..."/>
+					<item id="1268" text="Kleur"/>
+					<item id="1269" text="Kleur"/>
+					<item id="1270" text="Kleur"/>
+					<item id="1271" text="&amp;Makro"/>
+					<item id="1272" text="&amp;Makro"/>
+					<item id="1273" text="&amp;Makro"/>
+				</dialog>
+				<dialog id="122" text="">
+					<item id="1050" text="Beskikbere talen"/>
+					<item id="1275" text="Lânynstellings brûke"/>
+					<item id="1276" text="As standert sette"/>
+				</dialog>
+				<dialog id="123" text="Wettermerk taheakje/bewurkje">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1030" text="&amp;Wettermerk namme:"/>
+					<item id="1031" text="Type:"/>
+					<item id="1032" text="&amp;Rotaasje:"/>
+					<item id="1033" text="&amp;Dekking:"/>
+					<item id="1034" text="%"/>
+					<item id="1035" text="fan"/>
+					<item id="1036" text="fan"/>
+					<item id="1037" text="Horizontaal offset:"/>
+					<item id="1038" text="Fertikale offset:"/>
+					<item id="1039" text="&amp;Ienheden:"/>
+					<item id="1040" text="(-90 oant 90 graden)"/>
+					<item id="1050" text="Posysje"/>
+					<item id="1051" text="Uterlik"/>
+				</dialog>
+				<dialog id="124" text="">
+					<item id="1030" text="&amp;Tekst:"/>
+					<item id="1031" text="Lette&amp;rtype:"/>
+					<item id="1033" text="&amp;Kleur:"/>
+					<item id="1034" text="&amp;Grutte:"/>
+					<item id="1035" text="pt"/>
+					<item id="1050" text="Tekst eigenskippen"/>
+					<item id="1122" text="Drukke foar seleksje"/>
+					<item id="1290" text="&amp;Fet"/>
+					<item id="1291" text="&amp;Skean"/>
+					<item id="1292" text="As kontoeren"/>
+					<item id="1293" text="A&amp;uto grutte"/>
+				</dialog>
+				<dialog id="125" text="">
+					<item id="1031" text="&amp;Breedte:"/>
+					<item id="1032" text="&amp;Hichte"/>
+					<item id="1035" text="&amp;Triem:"/>
+					<item id="1050" text="Ofbylding eigenskippen"/>
+					<item id="1122" text="Drukke foar &amp;seleksje"/>
+					<item id="1153" text="Oan&amp;passe oan side"/>
+					<item id="1223" text="&amp;..."/>
+					<item id="1285" text="&amp;Ferhâlding behâlde"/>
+					<item id="1286" text="Troc&amp;hsichtige kleur"/>
+				</dialog>
+				<dialog id="126" text="">
+					<item id="1098" text="&amp;Bewurkje..."/>
+					<item id="1100" text="&amp;Fuortsmite"/>
+					<item id="1109" text="&amp;Taheakje..."/>
+				</dialog>
+				<dialog id="127" text="Oanpaste formulieren taheakje/bewurkje">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1030" text="&amp;Breedte:"/>
+					<item id="1031" text="&amp;Hichte"/>
+					<item id="1050" text="Oanpaste formulier &amp;namme:"/>
+					<item id="1051" text="Oanpaste formulier grutte ôfmjittings"/>
+					<item id="1052" text="&amp;Ienheden"/>
+					<item id="1301" text="&amp;Tomme"/>
+					<item id="1302" text="&amp;Milimeter"/>
+				</dialog>
+				<dialog id="128" text="">
+					<item id="1030" text="T&amp;aak behear:"/>
+					<item id="1031" text="&amp;Paad:"/>
+					<item id="1032" text="Triem&amp;namme:"/>
+					<item id="1033" text="Foarbyld:"/>
+					<item id="1034" text="As tr&amp;iem bestiet:"/>
+					<item id="1035" text="&amp;Begjin fan:"/>
+					<item id="1036" text="Tek&amp;ens:"/>
+					<item id="1037" text="Parameter&amp;s:"/>
+					<item id="1050" text="Opsjes foar bewarjen"/>
+					<item id="1223" text="&amp;Blêdzje..."/>
+					<item id="1303" text="'Bewarje as...' skerm s&amp;jen litte"/>
+					<item id="1305" text="Ma&amp;kro"/>
+					<item id="1306" text="&amp;Helje paad út dokumint namme wei"/>
+					<item id="1312" text="&amp;Programma úteinsette nei it printsjen"/>
+					<item id="1313" text="Standert p&amp;rogramma foar PDF triemmen"/>
+					<item id="1314" text="Progra&amp;mma:"/>
+					<item id="1316" text="Blêd&amp;zje..."/>
+				</dialog>
+				<dialog id="129" text="">
+					<item id="1031" text="&amp;Metoade:"/>
+					<item id="1032" text="&amp;Fan:"/>
+					<item id="1033" text="&amp;Nei:"/>
+					<item id="1034" text="&amp;Cc:"/>
+					<item id="1035" text="&amp;Bcc:"/>
+					<item id="1036" text="&amp;Underwerp:"/>
+					<item id="1037" text="&amp;Ynhâld:"/>
+					<item id="1038" text="T&amp;sjinner:"/>
+					<item id="1051" text="E-post eigenskippen"/>
+					<item id="1052" text="SMTP eigenskippen"/>
+					<item id="1098" text="&amp;Bewurkje..."/>
+					<item id="1099" text="&amp;Nij..."/>
+					<item id="1100" text="&amp;Fuortsmite..."/>
+					<item id="1318" text="Oanmakke dokumint as in e-post t&amp;aheaksel stjoere"/>
+					<item id="1322" text="..."/>
+					<item id="1326" text="Dokumint yn in &amp;zip argyf stjoere"/>
+				</dialog>
+				<dialog id="130" text="Utgeande post tsjinner">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1031" text="A&amp;kkount namme:"/>
+					<item id="1032" text="Wacht&amp;wurd:"/>
+					<item id="1034" text="Ferbinings feiligens:"/>
+					<item id="1035" text="Na&amp;mme:"/>
+					<item id="1036" text="P&amp;oarte:"/>
+					<item id="1050" text="SMTP tsjinner eigenskippen"/>
+					<item id="1051" text="Ynloch ynformaasje"/>
+					<item id="1052" text="Feiligens"/>
+					<item id="1329" text="Tsjinner fereasket ferifik&amp;aasje"/>
+					<item id="1332" text="Ynlogge mei &amp;brûkme fan feilige wachtwurd ferifikaasje"/>
+				</dialog>
+				<dialog id="131" text="">
+					<item id="1100" text="&amp;Fuortsmite"/>
+					<item id="1109" text="&amp;Taheakje..."/>
+					<item id="1126" text="&amp;Brûke"/>
+					<item id="1334" text="&amp;Eksportearje..."/>
+					<item id="1335" text="&amp;Ymportearje..."/>
+				</dialog>
+				<dialog id="132" text="Profyl taheakje">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1030" text="&amp;Namme:"/>
+					<item id="1031" text="&amp;Reaksje"/>
+					<item id="1050" text="Profyl ynformaasje"/>
+				</dialog>
+				<dialog id="133" text="Digitale ûndertekening">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1031" text="Undertekene t&amp;roch:"/>
+					<item id="1032" text="Digitale YD triemnamme:"/>
+					<item id="1033" text="Digitale YD &amp;wachtwurd:"/>
+					<item id="1034" text="Reden fan ûnderteken&amp;ing:"/>
+					<item id="1035" text="L&amp;okaasje:"/>
+					<item id="1036" text="Kontakt &amp;ynformaasje:"/>
+					<item id="1037" text="Side:"/>
+					<item id="1038" text="&amp;Lofts:"/>
+					<item id="1039" text="&amp;Top:"/>
+					<item id="1040" text="&amp;Breedte:"/>
+					<item id="1041" text="&amp;Hichte"/>
+					<item id="1042" text="&amp;Ienheden:"/>
+					<item id="1043" text="Ofbylding sjen litte"/>
+					<item id="1044" text="Tekst sjen litte"/>
+					<item id="1050" text="Digitale YD"/>
+					<item id="1051" text="Details"/>
+					<item id="1052" text="Posysje"/>
+					<item id="1053" text="Uterlik"/>
+					<item id="1337" text="Op &amp;systeem bewarre sertifikaat brûke"/>
+					<item id="1338" text="Sertifikaat fan &amp;triem brûke"/>
+					<item id="1340" text="Ferfarskje"/>
+					<item id="1342" text="&amp;Blêdzje..."/>
+					<item id="1344" text="Sertifikaat &amp;besjen..."/>
+					<item id="1345" text="Sertifikaat e&amp;ksportearje..."/>
+					<item id="1346" text="Sertifikaat oa&amp;nmeitsje..."/>
+					<item id="1352" text="Gjin ôfbylding"/>
+					<item id="1353" text="Ofbylding:"/>
+					<item id="1354" text="Namme"/>
+					<item id="1356" text="Blêdzje..."/>
+					<item id="1357" text="Namme"/>
+					<item id="1358" text="Datum"/>
+					<item id="1359" text="Lokaasje"/>
+					<item id="1360" text="Reden"/>
+					<item id="1361" text="Bysûndere namme"/>
+					<item id="1362" text="Lebels"/>
+				</dialog>
+				<dialog id="134" text="Sels ûndertekene Digitale YD oanmeitsje">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1030" text="In sels ûndertekene digitale YD oanmeitsje ferskaft in fergese manier om in PDF dokumint digitaal te ûndertekenjen. Mar, dit kin wolles net hannich wêze foar situaasjes dy't in ferrifikaasje fan in tredde partij freegje."/>
+					<item id="1032" text="&amp;Namme:"/>
+					<item id="1033" text="Organisear &amp;ienheid:"/>
+					<item id="1034" text="&amp;Organisaasje namme:"/>
+					<item id="1035" text="&amp;E-postadres:"/>
+					<item id="1036" text="&amp;Lân/regio:"/>
+					<item id="1037" text="Kaai algeritme"/>
+					<item id="1039" text="&amp;Wachtwurd:"/>
+					<item id="1040" text="Be&amp;fêstigje wachtwurd:"/>
+					<item id="1042" text="ASCII"/>
+					<item id="1043" text="Jo digitale YD sil yn de Windows Certificate Store bewarre wurde wêr it ek beskikber is foar oare Windows programma's. It digitale YD sil beskerm wurde troch jo Windows ynloch."/>
+					<item id="1044" text="Makket in nij wachtwurd beskerme digitale YD triem oan hokker de PKCS#12 standert opmaak brûkt. Dit algemiene digitale YD triem is stipe troch de measte feiligens sêftguod programma's, ynklusyf grutte web blêders. PKCS#12 triemmen ha in .pfx of.p12 triem efterheaksel."/>
+					<item id="1051" text="Digitale YD eigenskippen:"/>
+					<item id="1052" text="Wêr wolle jo de sels ûndertekene digitale YD bewarje?"/>
+					<item id="1372" text="&amp;Windows sertifikaat winkel"/>
+					<item id="1373" text="Nij PKCS#12 digitale YD triem"/>
+					<item id="1375" text="Unykoade"/>
+				</dialog>
+				<dialog id="135" text="Tiid set tsjinners list">
+					<item id="1" text="Utgong"/>
+					<item id="1098" text="&amp;Bewurkje..."/>
+					<item id="1100" text="&amp;Fuortsmite..."/>
+					<item id="1109" text="&amp;Taheakje..."/>
+				</dialog>
+				<dialog id="136" text="Tiidstimpel tsjinner">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1031" text="A&amp;kkount namme:"/>
+					<item id="1032" text="&amp;Wachtwurd:"/>
+					<item id="1033" text="Na&amp;mme:"/>
+					<item id="1034" text="&amp;Url-adres:"/>
+					<item id="1050" text="Tsjinner eigenskippen"/>
+					<item id="1051" text="Ynloch ynformaasje"/>
+					<item id="1329" text="Tsjinner fereasket ferifik&amp;aasje"/>
+				</dialog>
+				<dialog id="137" text="Registraasje ynformaasje">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1030" text="&amp;Namme:"/>
+					<item id="1031" text="&amp;Bedriuw:"/>
+					<item id="1032" text="&amp;E-post:"/>
+					<item id="1033" text="Registraasje &amp;kaai:"/>
+					<item id="1050" text="Registraasje ynformaasje"/>
+					<item id="1381" text="&amp;Keapje online"/>
+				</dialog>
+				<dialog id="138" text="Oanpasse">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1030" text="Beskikbere siden:"/>
+					<item id="1031" text="Aktive siden:"/>
+					<item id="1093" text="Om&amp;heech ferpleatse"/>
+					<item id="1094" text="Om&amp;leech ferpleatse"/>
+					<item id="1100" text="&lt;- Fuortsmit&amp;e"/>
+					<item id="1109" text="&amp;Taheakje -&gt;"/>
+					<item id="1387" text="&amp;Weromsette"/>
+				</dialog>
+				<dialog id="139" text="">
+					<item id="1031" text="&amp;Triem:"/>
+					<item id="1032" text="Wa&amp;chtwurd:"/>
+					<item id="1033" text="Tr&amp;iem:"/>
+					<item id="1034" text="&amp;Wachtwurd:"/>
+					<item id="1051" text="Foargeand dokumint"/>
+					<item id="1052" text="Taheakjen dokumint"/>
+					<item id="1388" text="&amp;Foargeand útfier mei in PDF triem"/>
+					<item id="1390" text="&amp;Blêdzje..."/>
+					<item id="1392" text="T&amp;aheakjen útfier mei in PDF triem"/>
+					<item id="1394" text="Blêd&amp;zje..."/>
+				</dialog>
+				<dialog id="140" text="">
+					<item id="1030" text="&amp;Ming operaasje:"/>
+					<item id="1031" text="Mbytes"/>
+					<item id="1032" text="&amp;Anty-mozaïk metoade:"/>
+					<item id="1051" text="Adobe Acrobat Brekkings - Omwurkings"/>
+					<item id="1052" text="Avansearre ûnthâld behear"/>
+					<item id="1398" text="&amp;Trochsichtich tekenjen brûke"/>
+					<item id="1399" text="&amp;Maskearre ôfbyldings brûke"/>
+					<item id="1400" text="&amp;Griiswearde palet yn RGB kleurromte skriuwe"/>
+					<item id="1401" text="O&amp;ptimalisaasje fan ôfbylding reeksen ynskeakelje"/>
+					<item id="1402" text="Nei ski&amp;if sette as grutter is dan:"/>
+				</dialog>
+			</dialogs>
+			<strings count="401">
+				<item id="0" text="Programma n&amp;amme"/>
+				<item id="1" text="Dokumint &amp;namme"/>
+				<item id="2" text="Dokumint &amp;paad"/>
+				<item id="3" text="&amp;Datum"/>
+				<item id="4" text="&amp;Jier"/>
+				<item id="5" text="&amp;Moanne"/>
+				<item id="6" text="D&amp;ei"/>
+				<item id="7" text="&amp;Tiid"/>
+				<item id="8" text="&amp;Oere"/>
+				<item id="9" text="Min&amp;út"/>
+				<item id="10" text="&amp;Sekonden"/>
+				<item id="11" text="Kompjûter namme"/>
+				<item id="12" text="Brûkersnamme"/>
+				<item id="13" text="Side nûmer"/>
+				<item id="14" text="Side &amp;teller"/>
+				<item id="15" text="Omjouwings fariabele"/>
+				<item id="16" text="Papier"/>
+				<item id="17" text="Ynstellings foar papier"/>
+				<item id="18" text="Oanpaste formulieren"/>
+				<item id="19" text="Ynstellings foar oanpaste formulieren"/>
+				<item id="20" text="Algemien"/>
+				<item id="21" text="Ynstellings foar algemiene saken"/>
+				<item id="22" text="Kompresje"/>
+				<item id="23" text="Ynstellings foar kompresje"/>
+				<item id="24" text="Dokumint ynfo"/>
+				<item id="25" text="Dokumint ynformaasje"/>
+				<item id="26" text="Ofbyldings"/>
+				<item id="27" text="Ynstellings foar ôfbyldings"/>
+				<item id="28" text="Lettertypen"/>
+				<item id="29" text="Opsjes foar it ynsluten fan lettertypen"/>
+				<item id="30" text="Wettermerken"/>
+				<item id="31" text="Ynstellings foar wettermerken"/>
+				<item id="32" text="Oerfloeie"/>
+				<item id="33" text="Ynstellings foar oerfloeie"/>
+				<item id="34" text="Feiligens"/>
+				<item id="35" text="Dokumint feiligens"/>
+				<item id="36" text="Keppelings"/>
+				<item id="37" text="Ynstellings foar keppelings"/>
+				<item id="38" text="Blêdwizers"/>
+				<item id="39" text="Ynstellings foar blêdwizers"/>
+				<item id="40" text="Kop/foutteksten"/>
+				<item id="41" text="Ynstellings foar kop en fuotteksten"/>
+				<item id="42" text="Talen"/>
+				<item id="43" text="De omjouwingstaal kieze"/>
+				<item id="44" text="Bewarje"/>
+				<item id="45" text="Ynstellings foar bewarjen"/>
+				<item id="46" text="E-post"/>
+				<item id="47" text="Ynstellings foar e-post"/>
+				<item id="48" text="sm"/>
+				<item id="49" text="sentimeter"/>
+				<item id="50" text="sentimeters"/>
+				<item id="51" text="tm"/>
+				<item id="52" text="tomme"/>
+				<item id="53" text="tommen"/>
+				<item id="54" text="mm"/>
+				<item id="55" text="milimeter"/>
+				<item id="56" text="milimeters"/>
+				<item id="57" text="p"/>
+				<item id="58" text="pica"/>
+				<item id="59" text="picas"/>
+				<item id="60" text="pt"/>
+				<item id="61" text="punt"/>
+				<item id="62" text="punten"/>
+				<item id="63" text="Ferzje: %1.%2 bou %3"/>
+				<item id="64" text="%1 x %2 %3"/>
+				<item id="65" text="Automatysk"/>
+				<item id="66" text="Oanpast"/>
+				<item id="67" text="Standert"/>
+				<item id="68" text="Meardere siden de blêd"/>
+				<item id="69" text="Boekmodel"/>
+				<item id="70" text="Brochure"/>
+				<item id="71" text="Boek"/>
+				<item id="72" text="Lofts nei rjochts"/>
+				<item id="73" text="Rochts nei lofts"/>
+				<item id="74" text="Horizontaal fan lofts"/>
+				<item id="75" text="Fertikaal fan lofts"/>
+				<item id="76" text="Horizontaal fan rjochts"/>
+				<item id="77" text="Fertikaal fan rjochts"/>
+				<item id="78" text="1 side"/>
+				<item id="79" text="2 siden"/>
+				<item id="80" text="4 siden"/>
+				<item id="81" text="6 siden"/>
+				<item id="82" text="8 siden"/>
+				<item id="83" text="9 siden"/>
+				<item id="84" text="16 siden"/>
+				<item id="85" text="Automatysk"/>
+				<item id="86" text="Opblaze"/>
+				<item id="87" text="JPEG"/>
+				<item id="88" text="JPEG/ZIP"/>
+				<item id="89" text="JPEG 2000"/>
+				<item id="90" text="JPEG 2000/ZIP"/>
+				<item id="91" text="Rin lingte"/>
+				<item id="92" text="LZW"/>
+				<item id="93" text="CCITT Group 3"/>
+				<item id="94" text="CCITT Group 4"/>
+				<item id="95" text="JBIG 2"/>
+				<item id="96" text="Standert"/>
+				<item id="97" text="Rânen bysnije"/>
+				<item id="98" text="Symboal kompresje"/>
+				<item id="99" text="Gjin omsetting"/>
+				<item id="100" text="Omsette nei griiswearden"/>
+				<item id="101" text="Omsette nei monogroom"/>
+				<item id="102" text="Omsette nei swart &amp; wyt"/>
+				<item id="103" text="Gjin downsampling"/>
+				<item id="104" text="Liniêr downsampling"/>
+				<item id="105" text="Bilinêr downsampling"/>
+				<item id="106" text="Bicubic downsampling"/>
+				<item id="107" text="Produkt YD: %1"/>
+				<item id="108" text="Lisisje type: %1"/>
+				<item id="109" text="Demo ferzje"/>
+				<item id="110" text="Inkele brûker"/>
+				<item id="111" text="3 brûkers pakket"/>
+				<item id="112" text="10 brûkers lisinsje"/>
+				<item id="113" text="25 brûkers lisinsje"/>
+				<item id="114" text="50 brûkers lisinsje"/>
+				<item id="115" text="100 brûkers lisinsje"/>
+				<item id="116" text="250 brûkers lisinsje"/>
+				<item id="117" text="500 brûkers lisinsje"/>
+				<item id="118" text="1000 brûkers lisinsje"/>
+				<item id="119" text="Inkele side lisinsje"/>
+				<item id="120" text="Lân lisinsje"/>
+				<item id="121" text="Wrâld wide lisinsje"/>
+				<item id="122" text="Studinten"/>
+				<item id="123" text="Untwikkelders edysje"/>
+				<item id="124" text="Automatysk"/>
+				<item id="125" text="Ferzje 1.3 (Acrobat v3.0 en heger)"/>
+				<item id="126" text="Ferzje 1.4 (Acrobat v5.0 en heger)"/>
+				<item id="127" text="Ferzje 1.5 (Acrobat v6.0 en heger)"/>
+				<item id="128" text="Ferzje 1.6 (Acrobat v7.0 en heger)"/>
+				<item id="129" text="Ferzje 1.7 (Acrobat v8.0 en heger)"/>
+				<item id="130" text="PDF/A-1a"/>
+				<item id="131" text="PDF/A-1b"/>
+				<item id="132" text="PDF/A-2a"/>
+				<item id="133" text="PDF/A-2b"/>
+				<item id="134" text="PDF/A-2u"/>
+				<item id="135" text="Standert fan werjouwer"/>
+				<item id="136" text="Inkele side"/>
+				<item id="137" text="Ien kolom"/>
+				<item id="138" text="Twa siden (Foarplaat side)"/>
+				<item id="139" text="Twa siden"/>
+				<item id="140" text="Twa kolommen (Foarplaat side)"/>
+				<item id="141" text="Twa kolommen"/>
+				<item id="142" text="Standert fan werjouwer"/>
+				<item id="143" text="Allinne side werjefte"/>
+				<item id="144" text="Blêdwizers sjen litte"/>
+				<item id="145" text="Miniatueren sjen litte"/>
+				<item id="146" text="Laach paniel sjen litte"/>
+				<item id="147" text="Folslein skerm"/>
+				<item id="148" text="Standert"/>
+				<item id="149" text="Wiere grutte"/>
+				<item id="150" text="Oanpasse oan side"/>
+				<item id="151" text="Oanpasse oan breedte"/>
+				<item id="152" text="Oanpasse oan hichte"/>
+				<item id="153" text="Nivo"/>
+				<item id="154" text="Gjint"/>
+				<item id="155" text="Ferfange"/>
+				<item id="156" text="Spjalte"/>
+				<item id="157" text="Sinneblyn"/>
+				<item id="158" text="Fak"/>
+				<item id="159" text="Fege"/>
+				<item id="160" text="Ferdwine"/>
+				<item id="161" text="Glitter"/>
+				<item id="162" text="Ynfleane"/>
+				<item id="163" text="Utfleane"/>
+				<item id="164" text="Drukke"/>
+				<item id="165" text="Ofdekke"/>
+				<item id="166" text="Net ôfdekke"/>
+				<item id="167" text="Fade"/>
+				<item id="168" text="Samar wat"/>
+				<item id="169" text="Horizontaal yn"/>
+				<item id="170" text="Horizontaal út"/>
+				<item id="171" text="Fertikaal yn"/>
+				<item id="172" text="Fertikaal út"/>
+				<item id="173" text="Horizontaal"/>
+				<item id="174" text="Fertikaal"/>
+				<item id="175" text="Yn"/>
+				<item id="176" text="Ut"/>
+				<item id="177" text="Rjochts"/>
+				<item id="178" text="Rjochts omheech"/>
+				<item id="179" text="Omheech"/>
+				<item id="180" text="Lofts omheech"/>
+				<item id="181" text="Lofts"/>
+				<item id="182" text="Lofts omleech"/>
+				<item id="183" text="Omleech"/>
+				<item id="184" text="Rjochts omleech"/>
+				<item id="185" text="Lofts"/>
+				<item id="186" text="Sintraal"/>
+				<item id="187" text="Rjochts"/>
+				<item id="188" text="Top"/>
+				<item id="189" text="Midden"/>
+				<item id="190" text="Boaiem"/>
+				<item id="191" text="PDF Dokuminten (*.pdf)"/>
+				<item id="192" text="Oerfloei-triem selektearje"/>
+				<item id="193" text="40-bit RC4 (Kompatibel mei Acrobat 3.0 en heger)"/>
+				<item id="194" text="128-bit RC4 (Kompatibel mei Acrobat 5.0 en heger)"/>
+				<item id="195" text="128-bit AES (Kompatibel mei Acrobat 7.0 en heger)"/>
+				<item id="196" text="256-bit AES (Kompatibel mei Acrobat 9.0 en heger)"/>
+				<item id="197" text="256-bit AES R6 (Kompatibel mei Acrobat X en heger)"/>
+				<item id="198" text="Gjint"/>
+				<item id="199" text="Allinne dokuminten groepearje"/>
+				<item id="200" text="Allinne formulierfjilden ynfolje of ûndertekenje"/>
+				<item id="201" text="Opm. taheakje, formulieren ynfolje/ûndertekenje"/>
+				<item id="202" text="Alg. Bewurkings, opm. en formulieren bewurkje"/>
+				<item id="203" text="Net tastien"/>
+				<item id="204" text="Lege resolúsje"/>
+				<item id="205" text="Tastien"/>
+				<item id="206" text="Of ûntselektearje  'Wachtwurd fereaske om dokumint te iepenjen' opsje of fier it wachtwurd yn."/>
+				<item id="207" text="Of ûntselektearje 'Wachtwurd fereaske om foech en/of wachtwurd te feroarjen' opsjes of fier it wachtwurd yn."/>
+				<item id="208" text="De wachtwurden om dokuminten te iepenjen en foech kinne net itselde wêze. Fier in oar wachtwurd yn ien fan de wachtwurd fjilden yn."/>
+				<item id="209" text="Of in dokumint te iepenjen wachtwurd of in foech wachtwurd moat oantsjutte wêze."/>
+				<item id="210" text="Gjin râne"/>
+				<item id="211" text="Understreekje"/>
+				<item id="212" text="Rjochthoek"/>
+				<item id="213" text="Effen kleur"/>
+				<item id="214" text="Streepkes"/>
+				<item id="215" text="Punten"/>
+				<item id="216" text="Swart"/>
+				<item id="217" text="Brún"/>
+				<item id="218" text="Donker oliif grien"/>
+				<item id="219" text="Donker grien"/>
+				<item id="220" text="Donker teal"/>
+				<item id="221" text="Donker blau"/>
+				<item id="222" text="Yndigo"/>
+				<item id="223" text="Donker griis"/>
+				<item id="224" text="Donker read"/>
+				<item id="225" text="Oranje"/>
+				<item id="226" text="Donker giel"/>
+				<item id="227" text="Grien"/>
+				<item id="228" text="Teal"/>
+				<item id="229" text="Blau"/>
+				<item id="230" text="Blau-griis"/>
+				<item id="231" text="Griis - 40"/>
+				<item id="232" text="Read"/>
+				<item id="233" text="Ljocht oranje"/>
+				<item id="234" text="Lijm"/>
+				<item id="235" text="See grien"/>
+				<item id="236" text="Akwa"/>
+				<item id="237" text="Ljocht blau"/>
+				<item id="238" text="Pears"/>
+				<item id="239" text="Griis - 50"/>
+				<item id="240" text="Rôs"/>
+				<item id="241" text="Goud"/>
+				<item id="242" text="Giel"/>
+				<item id="243" text="Helder grie"/>
+				<item id="244" text="Turkoais "/>
+				<item id="245" text="Loftblau"/>
+				<item id="246" text="Plum"/>
+				<item id="247" text="Ljocht griis"/>
+				<item id="248" text="Rôs"/>
+				<item id="249" text="Giel brûn"/>
+				<item id="250" text="Ljocht oranje"/>
+				<item id="251" text="Ljocht grien"/>
+				<item id="252" text="Ljocht turkoais"/>
+				<item id="253" text="Ljocht blau"/>
+				<item id="254" text="Lavindel"/>
+				<item id="255" text="Wyt"/>
+				<item id="256" text="Automatysk"/>
+				<item id="257" text="Mear kleuren..."/>
+				<item id="258" text="Item mei spesifike namme bestiet al. Wolle jo it besteande item ferfange?"/>
+				<item id="259" text="Wolle jo dit item wiskje?"/>
+				<item id="260" text="Wolle jo dit wettermerk wiskje?"/>
+				<item id="261" text="Jo moatte in tekst oantsjutte foar it wettermerk."/>
+				<item id="262" text="Jo moatte ôfbydling triem paad en namme foar it wettermerk oantsjutte."/>
+				<item id="263" text="De titel fan it wettermerk kin net leech wêze!"/>
+				<item id="264" text="De titel fan it wettermerk kin net in punt komma (;) befetsje."/>
+				<item id="265" text="De titel fan it wettermerk moat unyk wêze!"/>
+				<item id="266" text="Wolle jo dit oanpaste formulier wiskje?"/>
+				<item id="267" text="Tekst"/>
+				<item id="268" text="Ofbylding"/>
+				<item id="269" text="&lt;Nammeleas&gt;"/>
+				<item id="270" text="Alle iepene"/>
+				<item id="271" text="Alle sluten"/>
+				<item id="272" text="Omskreaun by item"/>
+				<item id="273" text="Iepenje op nivo"/>
+				<item id="274" text="Gewoan"/>
+				<item id="275" text="Fet"/>
+				<item id="276" text="Skeanprinte"/>
+				<item id="277" text="Fet-skeanprinte"/>
+				<item id="278" text="Nivo %1"/>
+				<item id="279" text="Koptekst"/>
+				<item id="280" text="Fuottekst"/>
+				<item id="281" text="(gjint)"/>
+				<item id="282" text="Side %1"/>
+				<item id="283" text="Side %1 fan'e %2"/>
+				<item id="284" text="Fertrouwlik"/>
+				<item id="285" text="Taret troch %1 %2"/>
+				<item id="286" text="Standert namme"/>
+				<item id="287" text="Lokale namme"/>
+				<item id="288" text="Taal YD"/>
+				<item id="289" text="Namme"/>
+				<item id="290" text="Printsje op"/>
+				<item id="291" text="Op eftergrûn"/>
+				<item id="292" text="Besjen"/>
+				<item id="293" text="Eksportearje"/>
+				<item id="294" text="Printsje"/>
+				<item id="295" text="Alle siden"/>
+				<item id="296" text="Allinne de earste side"/>
+				<item id="297" text="Allinne de lêste side"/>
+				<item id="298" text="Even siden"/>
+				<item id="299" text="Oneven siden"/>
+				<item id="300" text="Formulier namme"/>
+				<item id="301" text="Grutte (mm)"/>
+				<item id="302" text="Grutte (tomme)"/>
+				<item id="303" text="Brûkersformulier"/>
+				<item id="304" text="Jo moatte in namme oantsjutte foar jo oanpaste formulier."/>
+				<item id="305" text="Namme fan oanpast formulier moat unyk wêze."/>
+				<item id="306" text="pdfSafer™ foar taakbehear brûke"/>
+				<item id="307" text="Aktive taak oan de  foarige taak taheakje"/>
+				<item id="308" text="Oanmakke PDF triem bewarje"/>
+				<item id="309" text="PDF oanmeitsje, ferstjoere en dan wiskje"/>
+				<item id="310" text="Warskôging sjen litte"/>
+				<item id="311" text="Altyd oerskriuwe"/>
+				<item id="312" text="Automatysk nûmerje"/>
+				<item id="313" text="Mei triem gearfoegje (taheakje)"/>
+				<item id="314" text="Mei triem gearfoegje (ynfoegje oan it begjint)"/>
+				<item id="315" text="Freegje om nije triemnamme"/>
+				<item id="316" text="Selektearje de map wêryn jo de triemmen yn bewarje wolle"/>
+				<item id="317" text="Programma selektearje"/>
+				<item id="318" text="Utfierbere triem (*.exe)"/>
+				<item id="319" text="Alle triemmen"/>
+				<item id="320" text="Standert e-postprogramma útfiere"/>
+				<item id="321" text="Ferstjoere mei it standert e-postprogramma"/>
+				<item id="322" text="Rjochtstreeks mei de SMTP-tsjinner"/>
+				<item id="323" text="Wolle jo foar de selektearre SMTP tsjinner de ynstellings wiskje?"/>
+				<item id="324" text="Untfangers selektearje"/>
+				<item id="325" text="Gjiny"/>
+				<item id="326" text="STARTTLS brûke"/>
+				<item id="327" text="SSL/TLS brûke"/>
+				<item id="328" text="SMTP tsjinner name moat oantsjutte wêze?"/>
+				<item id="329" text="1024-bit RSA"/>
+				<item id="330" text="2048-bit RSA"/>
+				<item id="331" text="Net tarikkend wachtwurd.
+Wachtwurd moat yn elts gefal seis tekens lang wêze."/>
+				<item id="332" text="Wachtwurden komme net oerien.
+Fier it wachtwurd op 'e nij yn."/>
+				<item id="333" text="In namme is fereaske om in sels ûndertekene digitale YD oan te meitsjen."/>
+				<item id="334" text="In unykoade namme is fereaske om in sels ûndertekene YD oan te meitsjen."/>
+				<item id="335" text="In e-postadres is fereaske om in sels ûndertekene YD oan te meitsjen."/>
+				<item id="336" text="Fier in jildich e-postadres yn (bygelyks: bearboele@omropfryslan.nl)."/>
+				<item id="337" text="It fjild '%1' is beheind ta ASCII tekens.
+Allinne de folgjende tekens wurde tastean: space a-z A-Z 0-9 ' ( ) + , - . / : = ?"/>
+				<item id="338" text="Persoanlike ynformaasje ferwisseling (*.pfx, *.p12)"/>
+				<item id="339" text="Sertifikaat bewarje"/>
+				<item id="340" text="Sertifikaat triem selektearje"/>
+				<item id="341" text="&lt;Gjint&gt;"/>
+				<item id="342" text="Ik bin de skriuwer fan dit dokumint"/>
+				<item id="343" text="Ik bin it iens mei de oantsjutte dielen"/>
+				<item id="344" text="Ik haw dit dokumint neilêzen"/>
+				<item id="345" text="Ik kar dit dokumint goed"/>
+				<item id="346" text="Ik befêstigje de krektens fan dit dokumint"/>
+				<item id="347" text="Ik bin it iens mei de foarwearden oanjûn mei de ûndertekening fan dit dokumint"/>
+				<item id="348" text="Digitaal sertifikaat is net selektearre of ferkearde parameters oantsjutte.
+Wolle jo de wearden ferbetterje?"/>
+				<item id="349" text="Tsjinner URL-adres"/>
+				<item id="350" text="Tsjinnernamme"/>
+				<item id="351" text="Wolle jo dizze tsjinner defenysje wiskje?"/>
+				<item id="352" text="Lêst brûkte &amp;paad"/>
+				<item id="353" text="Buroblêd"/>
+				<item id="354" text="Myn dokuminten"/>
+				<item id="355" text="Myn foto's"/>
+				<item id="356" text="Favoriten"/>
+				<item id="357" text="Temp map"/>
+				<item id="358" text="TMP map"/>
+				<item id="359" text="Produkt help"/>
+				<item id="360" text="Thúsblêd"/>
+				<item id="361" text="Foarum stipe"/>
+				<item id="362" text="Swierrigens rapportearje"/>
+				<item id="363" text="Profilen"/>
+				<item id="364" text="Ynstellings foar profilen"/>
+				<item id="365" text="Namme"/>
+				<item id="366" text="Reaksje"/>
+				<item id="367" text="Nij profyl"/>
+				<item id="368" text="Profylnamme kin net leech wêze!"/>
+				<item id="369" text="In profyl mei dizze oantsjutte namme bestiet al! Wolle jo dit profyl oerskriuwe?"/>
+				<item id="370" text="Wolle jo dit profyl wiskje?"/>
+				<item id="371" text="It aktive profyl kin net wiske wurde. Selektearje in oar as standert foarôf it wiskjen fan dit profyl."/>
+				<item id="372" text="Profyl mei de namme '%1' bestiet al. Wolle jo it oerskriuwe?"/>
+				<item id="373" text="Wolle jo it selektearre profyl tapasse?"/>
+				<item id="374" text="PDF-XChange 2012 profyl (*.pp5)"/>
+				<item id="375" text="Profyl triem selektearje"/>
+				<item id="376" text="&amp;Oanpasse..."/>
+				<item id="377" text="Help"/>
+				<item id="378" text="Alaarm"/>
+				<item id="379" text="Omdat de PDF/A opmaak spesifikaasje selektearre is op de 'Algemiene' ynstellings side,
+binne om dêr oan te foldwaan, guon opsjes útskeakele en/of op de juste ynstelling setten.
+
+Sjoch 'Help' foar mear ynformaasje."/>
+				<item id="380" text="Standert triem taheakjen"/>
+				<item id="381" text="Oanfoljende opsjes foar it ynsetten en taheakjen fan triemmen"/>
+				<item id="382" text="Optimalisaasje"/>
+				<item id="383" text="Ynstellings foar optimalisaasje"/>
+				<item id="384" text="Triem selektearje"/>
+				<item id="385" text="Normaal"/>
+				<item id="386" text="Fermearfâldigje"/>
+				<item id="387" text="Skerm"/>
+				<item id="388" text="Bedekke"/>
+				<item id="389" text="Donkerder meitsje"/>
+				<item id="390" text="Ljochter meitsje"/>
+				<item id="391" text="Kleur tsjinhâlde"/>
+				<item id="392" text="Kleur trochdrukke"/>
+				<item id="393" text="Fel ljocht"/>
+				<item id="394" text="Sacht ljocht"/>
+				<item id="395" text="Ferskil"/>
+				<item id="396" text="Utslúting"/>
+				<item id="397" text="Gjint"/>
+				<item id="398" text="Simpel"/>
+				<item id="399" text="Ynstellings"/>
+				<item id="400" text="It hoe en het"/>
+			</strings>
+		</module>
+		<module id="pdfSaver" name="pdfSaver">
+			<dialogs>
+				<dialog id="101" text="">
+					<item id="1" text="&amp;Ferbergje"/>
+					<item id="1030" text="&amp;Help"/>
+				</dialog>
+				<dialog id="102" text="Fuortgong fan printsjen">
+					<item id="1036" text="Ofbrekke"/>
+				</dialog>
+				<dialog id="103" text="">
+					<item id="2" text="Ofbrekke"/>
+					<item id="6" text="Bes&amp;ykje opnij"/>
+					<item id="1037" text="Triem&amp;namme feroarje"/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1001" text="&amp;Titel"/>
+					<item id="1002" text="&amp;Underwerp"/>
+					<item id="1003" text="&amp;Skriuwer"/>
+					<item id="1004" text="S&amp;tekwurden"/>
+					<item id="1005" text="Makke tr&amp;och:"/>
+					<item id="1020" text="PDF &amp;ynformaasje"/>
+					<item id="1038" text="Oanfoljende ynformaasje  yn it &amp;dokumint sette"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1000" text="sekonden"/>
+					<item id="1001" text="Trochsichtigens fan fuortgongfinster:"/>
+					<item id="1002" text="Standert &amp;map foar taak triemmen:"/>
+					<item id="1020" text="Ferskate ynstellings"/>
+					<item id="1021" text="Taak opsjes"/>
+					<item id="1022" text="Tweaks"/>
+					<item id="1044" text="&amp;Ikoan yn systeemgak sjen litte"/>
+					<item id="1045" text="PDF Saver &amp;útfiere by it úteinsetten fan Windows"/>
+					<item id="1046" text="&amp;Fuortgong fan printtaken sjen litte"/>
+					<item id="1047" text="pdfSaver automatysk ûntlade nei:"/>
+					<item id="1051" text="Tydlike triemmen net wiskje"/>
+					<item id="1052" text="Tydlike map net leegje by it starten fan pdfSaver"/>
+					<item id="1053" text="&quot;Tweaks&quot; sûnder kommando rigel sjen litte"/>
+					<item id="1095" text="&amp;Blêdzje..."/>
+					<item id="1096" text="Taken automaty&amp;sk bewarje"/>
+					<item id="1097" text="Beskikbere taken by it úteinsetten automatyske &amp;Lade"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1003" text="Copyright © 2001-17 by Tracker Software Products (Canada) Ltd.
+Alle rjochten foarbehâlden."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1000" text="Aksjes:"/>
+					<item id="1001" text="De triemnamme bestiet al. tsjut de te ûndernimmen aksje oan:"/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1021" text="Lânynstellings"/>
+					<item id="1022" text="Beskikbere talen"/>
+					<item id="1057" text="&amp;Lânynstellings brûke"/>
+					<item id="1060" text="As standert sette"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1020" text="Taak groepen"/>
+					<item id="1021" text="Taak dokuminten"/>
+					<item id="1059" text="&amp;Lade..."/>
+					<item id="2006" text="&amp;Bewarje"/>
+					<item id="2007" text="&amp;Wiskje..."/>
+					<item id="2008" text="&amp;Oanmeitsje"/>
+					<item id="2010" text="Omheech &amp;ferpleatse"/>
+					<item id="2011" text="Ol&amp;heech ferpleatse"/>
+					<item id="2012" text="Los meitshe"/>
+					<item id="2013" text="Wiskje"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1001" text="&amp;Metoade:"/>
+					<item id="1002" text="&amp;Fan:"/>
+					<item id="1003" text="&amp;Nei:"/>
+					<item id="1004" text="&amp;Cc:"/>
+					<item id="1005" text="&amp;Underwerp:"/>
+					<item id="1006" text="&amp;Ynhâld:"/>
+					<item id="1007" text="Ts&amp;inner:"/>
+					<item id="1008" text="&amp;Bcc:"/>
+					<item id="1021" text="e-berjocht eigenskippen"/>
+					<item id="1022" text="SMTP eigenskippen"/>
+					<item id="1081" text="Oan&amp;makke dokumint as e-taheaksel ferstjoere"/>
+					<item id="1082" text="Dokumint as &amp;zip-triem ferstjoere"/>
+					<item id="1090" text="&amp;Bewurkje..."/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1000" text="&amp;Titel:"/>
+					<item id="1001" text="&amp;Underwerp:"/>
+					<item id="1002" text="Sk&amp;riuwer:"/>
+					<item id="1003" text="Stek&amp;wurden:"/>
+					<item id="1004" text="&amp;Makke troch:"/>
+					<item id="1005" text="Makke me&amp;i:"/>
+					<item id="1006" text="PDF ferzje:"/>
+					<item id="1007" text="Side teller:"/>
+					<item id="1008" text="Mei linen:"/>
+					<item id="1020" text="PDF ynformaasje"/>
+					<item id="1021" text="Dokumint ynformaasje"/>
+					<item id="1038" text="Oanfoljende ynformaasje yn it &amp;dokumint bewarje"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1001" text="Wachtwurd:"/>
+					<item id="1002" text="Wachtwurd:"/>
+					<item id="1003" text="Fersifer &amp;nivo:"/>
+					<item id="1020" text="Wachtwurden foar dokumint"/>
+					<item id="1022" text="Wachtwurden foar dokumint"/>
+					<item id="1065" text="PDF feiligens br&amp;ûke"/>
+					<item id="1066" text="Wachtwurd fereaske om dokumint te &amp;iepenjen:"/>
+					<item id="1067" text="Wachtwurd fereaske om foech en/of wachtwurd te &amp;wizigjen:"/>
+				</dialog>
+				<dialog id="113" text="Nij dokumint behear">
+					<item id="2" text="Ofbrekke"/>
+					<item id="1020" text="Beskikbere taak &amp;groepen"/>
+					<item id="2003" text="&amp;Nije groep oanmeitsje"/>
+					<item id="2004" text="&amp;Taheakje oan seleksje"/>
+					<item id="2005" text="PDF dokumint &amp;bewarje"/>
+				</dialog>
+				<dialog id="114" text="Utgeande Post tsjinner">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1001" text="A&amp;kkount:"/>
+					<item id="1002" text="&amp;Wachtwurd:"/>
+					<item id="1003" text="Na&amp;mme:"/>
+					<item id="1004" text="P&amp;oarte:"/>
+					<item id="1020" text="SMTP tsjinner eigenskippen"/>
+					<item id="1021" text="Ynformaasje foar it ynloggen"/>
+					<item id="1094" text="&amp;Ferifikaasje fereaske foar de tsjinner"/>
+					<item id="1097" text="Oanmelde mei &amp;befeilige wachtwurdferifikaasje"/>
+				</dialog>
+				<dialog id="115" text="Wachtwurd">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="1001" text="It dokumint is mei in wachtwurd befeilige."/>
+					<item id="1002" text="Fier in jildich brûkers of eigners wachtwurd yn."/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1098" text="&amp;Oanfoljende eigenskippen..."/>
+					<item id="1099" text="PDF-&amp;werjouwer útfiere neidat it dokumint bewarre is"/>
+					<item id="2000" text="Dokumint mei &amp;e-post ferstjoere neidat it oanmakke is"/>
+					<item id="2001" text="Oan besteand &amp;pdf-triem taheakje"/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1001" text="Tastean&amp;e feroarings:"/>
+					<item id="1002" text="Dokumint &amp;printsje:"/>
+					<item id="1076" text="&amp;Ynhâld tagonklik meitsje foar ien dyt min sjocht"/>
+					<item id="1077" text="Kopiearje/e&amp;ksportearje fan ynhâld tastean"/>
+					<item id="1080" text="Fersifer Dokumint &amp;Metagegevens (Acrobat 6.0 en heger)"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1072" text="P&amp;rintsjen fan dokumint tastean"/>
+					<item id="1073" text="&amp;Bewurkje fan dokumint tastean"/>
+					<item id="1074" text="Kopiearje/e&amp;ksportearje fan ynhâld tastean, tagonklik meitsje"/>
+					<item id="1075" text="&quot;&amp;Taheakje/bewurkje fan opm./formulierfjilden tastean"/>
+				</dialog>
+			</dialogs>
+			<strings count="75">
+				<item id="0" text="Triem &quot;%1&quot; kin net bewarre wurde troch de folgjende flater:
+
+%2
+
+Wat wolle jo no dwaan?"/>
+				<item id="1" text="Rjochtstreeks oerskriuwe"/>
+				<item id="2" text="Automatysk nûmerje"/>
+				<item id="3" text="Mei triem gearfoegje (taheakje)"/>
+				<item id="4" text="Mei triem gearfoegje (ynfoegje oan it begjint)"/>
+				<item id="5" text="Bewurking ôfbrekke en taak beëinje"/>
+				<item id="6" text="Noch in triem selektearje"/>
+				<item id="7" text="PDF dokuminten (*.pdf)"/>
+				<item id="8" text="Alle triemmen"/>
+				<item id="9" text="%1%% ree"/>
+				<item id="10" text="Oersette..."/>
+				<item id="11" text="Side %1"/>
+				<item id="12" text="PDF Saver is net ôfsluten.
+Kies Utgong yn it systeemfak om it programma te sluten."/>
+				<item id="13" text="Optimalisearjen..."/>
+				<item id="14" text="PDF wurdt oanmakke..."/>
+				<item id="15" text="PDF wurdt bewarre..."/>
+				<item id="16" text="PDF wurdt stjoerd"/>
+				<item id="17" text="Ferzje: %1.%2 bou %3"/>
+				<item id="18" text="Taken"/>
+				<item id="19" text="Talen"/>
+				<item id="20" text="Ynstellings"/>
+				<item id="21" text="It hoe en wat"/>
+				<item id="22" text="e-post"/>
+				<item id="23" text="Ynformaasje"/>
+				<item id="24" text="Feiligens"/>
+				<item id="25" text="Oanfoljende eigenskippen"/>
+				<item id="26" text="PDF &amp;oanmeitsje"/>
+				<item id="27" text="PDF besjen"/>
+				<item id="28" text="Standert namme"/>
+				<item id="29" text="Lokale namme"/>
+				<item id="30" text="Taal YD"/>
+				<item id="31" text="Wolle jo de selektearre taak groep wiskje?"/>
+				<item id="32" text="Wolle jo it selektearre dokumint wiskje?"/>
+				<item id="33" text="Net jildich wachtwurd ynfierd.
+Wolle jo it op 'e nij besykje?"/>
+				<item id="34" text="SMTP tsjinner namme moat oantsjutte wurde!"/>
+				<item id="35" text="Of ûntselektearje 'Wachtwurd fereaske om dokumint te iepenjen' opsje of fier it wachtwurd yn."/>
+				<item id="36" text="Of ûntselektearje 'Wachtwurd fereaske om foech en/of wachtwurd te feroarjen' opsje of fier it wachtwurd yn."/>
+				<item id="37" text="De wachtwurden foar foech en it iepenjen fan dokuminten kinne net itselde wêze. Fier in oar wachtwurd yn."/>
+				<item id="38" text="Of in foech wachtwurd of docukint te iepenjen wachtwurd moat oantsjutte wêze."/>
+				<item id="39" text="Titel"/>
+				<item id="40" text="Dokumint teller"/>
+				<item id="41" text="Siden teller"/>
+				<item id="42" text="Dokumint"/>
+				<item id="43" text="Siden"/>
+				<item id="44" text="40-bit RC4 (Kompatibel mei Acrobat 3.0 en heger)"/>
+				<item id="45" text="128-bit RC4 (Kompatibel mei Acrobat 5.0 en heger)"/>
+				<item id="46" text="128-bit AES (Kompatibel mei Acrobat 7.0 en heger)"/>
+				<item id="47" text="256-bit AES (Kompatibel mei Acrobat 9.0 en heger)"/>
+				<item id="48" text="256-bit AES R6 (Kompatibel mei Acrobat X en heger)"/>
+				<item id="49" text="Gjint"/>
+				<item id="50" text="Allinne dokuminten groepearje"/>
+				<item id="51" text="Allinne formulierfjilden ynfolje of ûndertekenje"/>
+				<item id="52" text="Opm. taheakje, formulieren ynfolje/ûndertekenje"/>
+				<item id="53" text="Alg. Bewurkings, opm. en formulieren bewurkje"/>
+				<item id="54" text="Net tastien"/>
+				<item id="55" text="Lege resolúsje"/>
+				<item id="56" text="Tastean"/>
+				<item id="57" text="Ferzje 1.3 (Acrobat v3.0 en heger)"/>
+				<item id="58" text="Ferzje 1.4 (Acrobat v5.0 en heger)"/>
+				<item id="59" text="Ferzje 1.5 (Acrobat v6.0 en heger)"/>
+				<item id="60" text="Ferzje 1.6 (Acrobat v7.0 en heger)"/>
+				<item id="61" text="Ferzje 1.7 (Acrobat v8.0 en heger)"/>
+				<item id="62" text="PDF/A-1a"/>
+				<item id="63" text="PDF/A-1b"/>
+				<item id="64" text="PDF/A-2a"/>
+				<item id="65" text="PDF/A-2b"/>
+				<item id="66" text="PDF/A-2u"/>
+				<item id="67" text="Nee"/>
+				<item id="68" text="Standert e-postprogramma útfiere"/>
+				<item id="69" text="Ferstjoere mei it standert e-postprogramma"/>
+				<item id="70" text="Rjochtstreeks mei de SMTP-tsjinner"/>
+				<item id="71" text="Produkt help"/>
+				<item id="72" text="Thúsblêd"/>
+				<item id="73" text="Foarum stipe"/>
+				<item id="74" text="Swierrigens rapportearje"/>
+			</strings>
+		</module>
+		<module id="Addin" name="Office Addin">
+			<dialogs>
+				<dialog id="1" text="">
+					<item id="207" text="&amp;Blêdwizers oanmeitsje yn útfiertriem"/>
+					<item id="212" text="Alles selektearje"/>
+					<item id="213" text="Alles opskjinje"/>
+					<item id="233" text="Beskikbere styllen"/>
+					<item id="246" text="Alle blêdwizers útfâldzje"/>
+				</dialog>
+				<dialog id="202" text="PDF-XChange 5.0">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+				</dialog>
+				<dialog id="203" text="">
+					<item id="222" text="Keppelings oanmeitsje yn útfiertriem"/>
+					<item id="223" text="Keppelings foar fuot en einteksten"/>
+					<item id="224" text="Keppelings nei oare dokuminten"/>
+					<item id="225" text="Keppelings nei websiden"/>
+					<item id="226" text="Krúsferwizings"/>
+					<item id="232" text="Relatyfpaad brûke om nei doeldokumint te ferwizen"/>
+					<item id="233" text="MS Office keppelings omsette"/>
+					<item id="234" text="Opmaak fan keppelings"/>
+					<item id="235" text="Keppelings nei oare dokuminten"/>
+					<item id="236" text="Râne &amp;type:"/>
+					<item id="237" text="Râne &amp;styl:"/>
+					<item id="238" text="Râne &amp;breedte:"/>
+					<item id="239" text="punten"/>
+					<item id="240" text="Râne &amp;kleur:"/>
+					<item id="241" text="Triem taheaksel feroarje nei PDF"/>
+				</dialog>
+				<dialog id="205" text="Post stjoer opsjes">
+					<item id="1" text="Okee"/>
+					<item id="2" text="Ofbrekke"/>
+					<item id="236" text="Nei:"/>
+					<item id="237" text="CC:"/>
+					<item id="238" text="Underwerp:"/>
+					<item id="239" text="Tekst:"/>
+					<item id="240" text="De te stjoeren triemnamme:"/>
+				</dialog>
+				<dialog id="208" text="">
+					<item id="233" text="Avansearre opsjes"/>
+					<item id="234" text="Activaasje SFO actify opsje"/>
+					<item id="241" text="Standertapplikaasje foar pdf-triemmen &amp;útfiere nei it omsetten"/>
+					<item id="242" text="&amp;It dokumint bewarje foardat it omsetten wurdt"/>
+					<item id="243" text="Om &amp;triemnamme freegje"/>
+					<item id="244" text="PDF-triem fuortsmite neidat it fer&amp;stjoerd is"/>
+					<item id="245" text="Dokumintgegevens &amp;omsette"/>
+					<item id="246" text="3D-herkenning tastean"/>
+					<item id="247" text="U3D útfier komprimearje (trager)"/>
+					<item id="248" text="Dokumint be&amp;warje nei orizjinele dokumint map"/>
+				</dialog>
+				<dialog id="209" text="PDF-XChange 5.0">
+					<item id="2" text="Ofbrekke"/>
+				</dialog>
+				<dialog id="210" text="">
+					<item id="205" text="Eltse dia as blêdwizer ynfoegje"/>
+					<item id="246" text="Dia oergong omsette"/>
+				</dialog>
+				<dialog id="236" text="">
+					<item id="249" text="Gehiele workboek printsje"/>
+				</dialog>
+				<dialog id="237" text="Formulieren">
+					<item id="246" text="Webformulieren omsette"/>
+					<item id="247" text="Revysje opmaak omsette"/>
+				</dialog>
+				<dialog id="238" text="">
+					<item id="250" text="&amp;Avansearre..."/>
+				</dialog>
+				<dialog id="248" text="">
+					<item id="249" text="Alle siden printsje"/>
+				</dialog>
+			</dialogs>
+			<strings count="54">
+				<item id="0" text="Ynstellings"/>
+				<item id="1" text="Keppelings"/>
+				<item id="2" text="Blêdwizers"/>
+				<item id="3" text="Powerpoint opsjes"/>
+				<item id="4" text="Excel opsjes"/>
+				<item id="5" text="Visio opsjes"/>
+				<item id="6" text="Word opsjes"/>
+				<item id="7" text="Avansearre"/>
+				<item id="8" text="PDF-XChange 2012"/>
+				<item id="9" text="PDF-XChange 2012"/>
+				<item id="10" text="PDF-XChange 2012"/>
+				<item id="11" text="Nei PDF omsette"/>
+				<item id="12" text="Nei PDF &amp;dokumint omsette"/>
+				<item id="13" text="C"/>
+				<item id="14" text="PDF oanmeitsje &amp;&amp; E-post"/>
+				<item id="15" text="PDF-triem fan it aktive dokumint meitsje en it mei e-post ferstjoere"/>
+				<item id="16" text="E"/>
+				<item id="17" text="Ynstellings"/>
+				<item id="18" text="De foarkar foar it oanmeitsjen fan PDF-triemmen bewurkje"/>
+				<item id="19" text="S"/>
+				<item id="20" text="&amp;Bewarje as pdf-triem"/>
+				<item id="21" text="It aktive dokumint as pdf-triem bewarje brûkend PDF-XChange 2012"/>
+				<item id="22" text="It aktive dokumint as pdf-triem bewarje brûkend PDF-XChange 2012"/>
+				<item id="23" text="C"/>
+				<item id="24" text="Pdf oanmeitsje &amp;&amp; E-post"/>
+				<item id="25" text="PDF-triem fan it aktive dokumint meitsje en it mei e-post ferstjoere brûkend PDF-XChange 2012"/>
+				<item id="26" text="PDF-triem fan it aktive dokumint meitsje en it mei e-post ferstjoere brûkend PDF-XChange 2012"/>
+				<item id="27" text="E"/>
+				<item id="28" text="Flater"/>
+				<item id="29" text="It PDF-XChange Print stjoerprograma is net fûn yn jo printerlist. werynstallearje dizze."/>
+				<item id="30" text="PDF-XChange 5.0 opsjes"/>
+				<item id="31" text="%1: %2%% foltôge"/>
+				<item id="32" text="Fuottekst ferwurkje"/>
+				<item id="33" text="Eintekst ferwurkje"/>
+				<item id="34" text="Keppelings ferwurkje"/>
+				<item id="35" text="Ynterne ferwizings ferwurkje"/>
+				<item id="36" text="Kopteksten ferwurkje"/>
+				<item id="37" text="Oergongen ferwurkjen"/>
+				<item id="38" text="Webformulieren ferwurkje"/>
+				<item id="39" text="U3D Actify objekten ferwurkje"/>
+				<item id="40" text="Gjin râne"/>
+				<item id="41" text="Underline"/>
+				<item id="42" text="Rjochthoek"/>
+				<item id="43" text="Effen kleur"/>
+				<item id="44" text="Streepkes"/>
+				<item id="45" text="punten"/>
+				<item id="46" text="Styl"/>
+				<item id="47" text="Type"/>
+				<item id="48" text="Nivo"/>
+				<item id="49" text="Oanpast"/>
+				<item id="50" text="Standert"/>
+				<item id="51" text="PDF-XChange 2012 AcroPlot"/>
+				<item id="52" text="PDF-XChange 2012 AcroPlot"/>
+				<item id="53" text="PDF-XChange 2012 AcroPlot"/>
+			</strings>
+		</module>
+		<module id="Office2PDF" name="Office2PDF">
+			<dialogs>
+				<dialog id="100" text="It hoe en het">
+					<item id="1003" text="Copyright © 2001-17 by Tracker Software Products (Canada) Ltd.
+Alle rjochten foarbehâlden."/>
+					<item id="1004" text="It programma set Office dokuminten oer nei it pdf-formaat mei help fan PDF-XChange 4.0.
+
+Om it programma te brûken moat it stjoerprogramma ynstallearre wêze."/>
+				</dialog>
+				<dialog id="129" text="OFFice2PDF 2012">
+					<item id="1" text="Gean"/>
+					<item id="2" text="Utgong"/>
+					<item id="1020" text="Aksje list"/>
+					<item id="1030" text="Taheakje"/>
+					<item id="1031" text="Wiskje"/>
+					<item id="1032" text="Alles wiskje"/>
+					<item id="1033" text="Programma GUI sjen litte"/>
+					<item id="1034" text="Map"/>
+					<item id="1035" text="Triemmen automatysk ferwurkje as se taheakke wurde ta de map dy yn de gaten hâlden wurdt"/>
+					<item id="1044" text="Omsetten dokuminten yn har eigen mappen bewarje"/>
+				</dialog>
+			</dialogs>
+			<strings count="28">
+				<item id="0" text="It PDF-XChange Print stjoerprograma is net fûn yn jo printerlist. werynstallearje dizze."/>
+				<item id="1" text="Net registrearre"/>
+				<item id="2" text="Produkt YD:"/>
+				<item id="3" text="Lisinsje type:"/>
+				<item id="4" text="PDF-XChange 2012 opsjes"/>
+				<item id="5" text="In amerijke..."/>
+				<item id="6" text="Gean"/>
+				<item id="7" text="Ferzje: %1.%2 bou %3"/>
+				<item id="8" text="Wolle jo de '%s' map as in waarnommen ien taheakje?"/>
+				<item id="9" text="'%s' map befettet triemmen dy te ferwurkjen binne. Wolle jo dat no dwaan?"/>
+				<item id="10" text="Kin de helptriem net fine."/>
+				<item id="11" text="It MS Word programma is net ynstallearre. De juste dokuminten sille net ferwurke wurde."/>
+				<item id="12" text="It MS Excel programma is net ynstallearre. De juste dokuminten sille net ferwurke wurde."/>
+				<item id="13" text="It Internet Explorer programma is net ynstallearre. De juste dokuminten sille net ferwurke wurde."/>
+				<item id="14" text="Microsoft Word"/>
+				<item id="15" text="Microsoft Excel"/>
+				<item id="16" text="Internet Explorer"/>
+				<item id="17" text="Word dokuminten"/>
+				<item id="18" text="Excel dokuminten"/>
+				<item id="19" text="IE dokuminten"/>
+				<item id="20" text="Alle stipe opmaak"/>
+				<item id="21" text="Waarnommen triemtafels"/>
+				<item id="22" text="Opsjes"/>
+				<item id="23" text="Ynformaasje"/>
+				<item id="24" text="Ynstellings..."/>
+				<item id="25" text="Utgong"/>
+				<item id="26" text="Help..."/>
+				<item id="27" text="It hoe en het..."/>
+			</strings>
+		</module>
+	</modules>
+</Localization>

@@ -1,0 +1,1345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="PDFXPrinter" version="" productVersion="5.0.0268.0000"/>
+	<language eName="Italian" lName="Italiano" lcid="0x0410"/>
+	<modules>
+		<module id="driver" name="Driver">
+			<dialogs>
+				<dialog id="101" text="Informazioni">
+					<item id="1033" text="Prodotto concesso in licenza a:"/>
+					<item id="1040" text="Copyright © 2001-16 Tracker Software Products (Canada) Ltd. Tutti i diritti riservati."/>
+					<item id="1143" text="&amp;Registrazione..."/>
+					<item id="1144" text="&amp;Guida..."/>
+				</dialog>
+				<dialog id="102" text="Impostazioni"/>
+				<dialog id="103" text="">
+					<item id="1001" text="&amp;Standard:"/>
+					<item id="1002" text="&amp;Personalizzate:"/>
+					<item id="1017" text="&amp;Verticale"/>
+					<item id="1018" text="&amp;Orizzontale"/>
+					<item id="1026" text="Simmetria lungo l&apos;asse &amp;X"/>
+					<item id="1027" text="Simmetria lungo l&apos;asse &amp;Y"/>
+					<item id="1030" text="x"/>
+					<item id="1031" text="&amp;Margine:"/>
+					<item id="1032" text="&amp;Risoluzione:"/>
+					<item id="1033" text="Pr&amp;oporzioni:"/>
+					<item id="1034" text="Orientamento:"/>
+					<item id="1035" text="Tipo layout:"/>
+					<item id="1036" text="Dimensioni foglio:"/>
+					<item id="1037" text="Dimensioni:"/>
+					<item id="1038" text="x"/>
+					<item id="1050" text="Dimensioni pagina"/>
+					<item id="1051" text="Grafica"/>
+					<item id="1052" text="Layout"/>
+					<item id="1053" text="Opzioni avanzate di stampa"/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1030" text="Conforme alle &amp;specifiche:"/>
+					<item id="1031" text="Quando il documento è aperto"/>
+					<item id="1032" text="&amp;Layout di pagina:"/>
+					<item id="1033" text="&amp;Modalità pagina:"/>
+					<item id="1034" text="Modalità pagina a schermo &amp;intero:"/>
+					<item id="1035" text="In&amp;grandimento:"/>
+					<item id="1036" text="%"/>
+					<item id="1037" text="&amp;Apri a pagina:"/>
+					<item id="1038" text="Tipo transizione:"/>
+					<item id="1039" text="Durata pagina:"/>
+					<item id="1040" text="sec."/>
+					<item id="1041" text="Modalità transizione:"/>
+					<item id="1042" text="Durata transizione:"/>
+					<item id="1043" text="sec."/>
+					<item id="1044" text="Preferenze visualizzatore"/>
+					<item id="1050" text="Specifiche PDF"/>
+					<item id="1051" text="Transizioni"/>
+					<item id="1076" text="Nascondi &amp;barre degli strumenti"/>
+					<item id="1077" text="Nascondi barra dei m&amp;enu"/>
+					<item id="1078" text="Centra la &amp;finestra del documento"/>
+					<item id="1079" text="Ridimensiona la finestra del documento per &amp;adattarla alle dimensioni della prima pagina"/>
+					<item id="1080" text="Nascondi gli elementi dell&apos;interfaccia &amp;utente nella finestra del documento"/>
+					<item id="1081" text="Visualizza il titolo del d&amp;ocumento nella barra del titolo della finestra"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1050" text="Elenco filigrane"/>
+					<item id="1090" text="Abilita &amp;stampa filigrane"/>
+					<item id="1096" text="&amp;Cancella tutto"/>
+					<item id="1097" text="&amp;Seleziona tutto"/>
+					<item id="1098" text="&amp;Modifica..."/>
+					<item id="1099" text="&amp;Nuovo..."/>
+					<item id="1100" text="&amp;Rimuovi"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1030" text="&amp;Modalità visualizzazione:"/>
+					<item id="1031" text="&amp;Livello:"/>
+					<item id="1032" text="±"/>
+					<item id="1033" text="pt."/>
+					<item id="1034" text="Stile:"/>
+					<item id="1035" text="Colore:"/>
+					<item id="1036" text="Stato:"/>
+					<item id="1050" text="&amp;Modello"/>
+					<item id="1051" text="Opzioni di rilevamento"/>
+					<item id="1052" text="Opzioni di visualizzazione"/>
+					<item id="1100" text="&amp;Rimuovi"/>
+					<item id="1101" text="&amp;Attiva il rilevamento automatico dei bookmark"/>
+					<item id="1102" text="&amp;Consenti bookmark su più righe"/>
+					<item id="1103" text="&amp;Usa il titolo del documento come radice dei bookmark"/>
+					<item id="1104" text="&amp;Abbina nodo indipendentemente dal livello"/>
+					<item id="1109" text="&amp;Aggiungi"/>
+					<item id="1110" text="&amp;Carattere:"/>
+					<item id="1112" text="&amp;Stile:"/>
+					<item id="1114" text="&amp;Dimensioni:"/>
+					<item id="1119" text="&amp;Colore:"/>
+					<item id="1120" text="Colore"/>
+					<item id="1122" text="Colore"/>
+					<item id="1123" text="Aperto"/>
+					<item id="1124" text="Sal&amp;va..."/>
+					<item id="1125" text="&amp;Carica..."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1030" text="&amp;Intestazione:"/>
+					<item id="1031" text="&amp;Piè di pagina:"/>
+					<item id="1032" text="&amp;Numero della prima pagina:"/>
+					<item id="1033" text="&amp;Sinistra:"/>
+					<item id="1034" text="&amp;Superiore:"/>
+					<item id="1035" text="&amp;Destra:"/>
+					<item id="1036" text="&amp;Inferiore:"/>
+					<item id="1037" text="&amp;Unità:"/>
+					<item id="1051" text="Intestazione e piè di pagina"/>
+					<item id="1052" text="Opzioni"/>
+					<item id="1053" text="Offset"/>
+					<item id="1126" text="&amp;Aggiungi intestazioni e piè di pagina alle pagine del documento"/>
+					<item id="1130" text="Personalizza..."/>
+					<item id="1132" text="Personalizza..."/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1030" text="Posizione:"/>
+					<item id="1031" text="Dimensioni:"/>
+					<item id="1032" text="Scala:"/>
+					<item id="1146" text="Centra"/>
+					<item id="1153" text="Ridimensiona e adatta"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1030" text="Pagine per f&amp;oglio:"/>
+					<item id="1033" text="&amp;Ordine pagine:"/>
+					<item id="1156" text="Stampa bordi pagina"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1030" text="Tipo opuscolo:"/>
+					<item id="1031" text="Fogli per firma:"/>
+					<item id="1032" text="Dimensioni rilegatura:"/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1031" text="&amp;Titolo:"/>
+					<item id="1032" text="&amp;Oggetto:"/>
+					<item id="1033" text="A&amp;utore:"/>
+					<item id="1034" text="&amp;Parole chiave:"/>
+					<item id="1035" text="&amp;Autore:"/>
+					<item id="1036" text="&amp;Produttore:"/>
+					<item id="1050" text="&amp;Informazioni PDF"/>
+					<item id="1162" text="Inserisci informazioni aggiuntive nel &amp;documento"/>
+					<item id="1163" text="&amp;Richiedi informazioni sul documento all&apos;avvio della stampa"/>
+					<item id="1164" text="Aggiungi &amp;metadati XMP al documento"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1031" text="&amp;Qualità JPEG:"/>
+					<item id="1032" text="%"/>
+					<item id="1033" text="Metodo J&amp;BIG2:"/>
+					<item id="1050" text="Generale"/>
+					<item id="1051" text="Immagini ad alto numero di colori/in scala di grigi"/>
+					<item id="1052" text="Immagini indicizzate"/>
+					<item id="1053" text="Immagini monocromatiche"/>
+					<item id="1171" text="Comprimi &amp;grafica"/>
+					<item id="1172" text="Formato &amp;ASCII (file di dimensioni maggiori)"/>
+					<item id="1173" text="Comprimi &amp;testo"/>
+					<item id="1174" text="&amp;Comprimi utilizzando:"/>
+					<item id="1177" text="Spin1"/>
+					<item id="1178" text="Comprimi &amp;utilizzando:"/>
+					<item id="1180" text="Co&amp;mprimi utilizzando:"/>
+					<item id="1183" text="&amp;Predefinito"/>
+				</dialog>
+				<dialog id="113" text="">
+					<item id="1030" text="pixel per pollice"/>
+					<item id="1031" text="per le immagini precedenti:"/>
+					<item id="1032" text="pixel per pollice"/>
+					<item id="1033" text="pixel per pollice"/>
+					<item id="1034" text="per le immagini precedenti:"/>
+					<item id="1035" text="pixel per pollice"/>
+					<item id="1036" text="pixel per pollice"/>
+					<item id="1037" text="per le immagini precedenti:"/>
+					<item id="1038" text="pixel per pollice"/>
+					<item id="1039" text="Soglia:"/>
+					<item id="1050" text="Immagini ad alto numero di colori/in scala di grigi"/>
+					<item id="1051" text="Immagini indicizzate"/>
+					<item id="1052" text="Immagini monocromatiche"/>
+					<item id="1194" text="Spin1"/>
+					<item id="1202" text="Usa la retinatura"/>
+					<item id="1203" text="Usa la retinatura"/>
+				</dialog>
+				<dialog id="114" text="">
+					<item id="1030" text="&amp;Caratteri disponibili:"/>
+					<item id="1031" text="%"/>
+					<item id="1183" text="&amp;Predefinito"/>
+					<item id="1206" text="Incorpora &amp;tutti i caratteri utilizzati"/>
+					<item id="1207" text="Forza l&apos;incorporazione dei caratteri &amp;protetti"/>
+					<item id="1208" text="Incorpora informazioni estese sui caratteri"/>
+					<item id="1212" text="&gt;&gt;"/>
+					<item id="1213" text="&lt;&lt;"/>
+					<item id="1214" text="&amp;Incorpora sempre i caratteri:"/>
+					<item id="1216" text="&gt;&gt;"/>
+					<item id="1217" text="&lt;&lt;"/>
+					<item id="1218" text="Non incorporare &amp;mai i caratteri:"/>
+					<item id="1220" text="Incorpora solo un so&amp;ttoinsieme di caratteri se la percentuale dei caratteri utilizzati è inferiore a:"/>
+				</dialog>
+				<dialog id="115" text="">
+					<item id="1031" text="Sovrappon&amp;i file:"/>
+					<item id="1032" text="Allinea le pagine da sovrapporre con le nuove pagine del documento PDF:"/>
+					<item id="1033" text="In &amp;orizzontale:"/>
+					<item id="1034" text="In &amp;verticale:"/>
+					<item id="1035" text="&amp;Password per l&apos;apertura del file protetto:"/>
+					<item id="1051" text="Opzioni di ripetizione"/>
+					<item id="1052" text="Posizioni"/>
+					<item id="1153" text="A&amp;datta le pagine da sovrapporre alle nuove pagine del documento"/>
+					<item id="1221" text="&amp;Sovrapponi a un file PDF esistente"/>
+					<item id="1223" text="Sfo&amp;glia..."/>
+					<item id="1225" text="Posiziona il file da sovrapporre in primo &amp;piano"/>
+					<item id="1226" text="&amp;Nessuna ripetizione"/>
+					<item id="1227" text="Ripeti l&apos;&amp;ultima pagina del più corto dei file da sovrapporre"/>
+					<item id="1228" text="Ripetizione &amp;continua del più corto dei file da sovrapporre"/>
+					<item id="1231" text="Mantieni &amp;proporzioni"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1031" text="Password:"/>
+					<item id="1032" text="Password:"/>
+					<item id="1033" text="&amp;Livello crittografia:"/>
+					<item id="1050" text="Password del documento"/>
+					<item id="1051" text="Autorizzazioni del documento"/>
+					<item id="1052" text="Firma digitale"/>
+					<item id="1232" text="&amp;Usa protezione PDF"/>
+					<item id="1233" text="Password richiesta per l&apos;&amp;apertura del documento:"/>
+					<item id="1235" text="Password richiesta per &amp;cambiare le autorizzazioni e/o la password:"/>
+					<item id="1238" text="&amp;Apponi firma digitale al documento"/>
+					<item id="1239" text="Impostazioni..."/>
+					<item id="1240" text="Usa server di timesta&amp;mp:"/>
+					<item id="1242" text="Gestisci..."/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1243" text="Consenti &amp;stampa"/>
+					<item id="1244" text="Consenti modifiche al &amp;documento"/>
+					<item id="1245" text="Consenti la copia o l&apos;estrazione, a&amp;bilita accesso facilitato"/>
+					<item id="1246" text="Consenti l&apos;aggiunta o la modifica di commenti e campi &amp;modulo"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1031" text="M&amp;odifiche consentite:"/>
+					<item id="1032" text="&amp;Stampa del documento:"/>
+					<item id="1247" text="Consenti l&apos;&amp;accesso ai contenuti da parte di utenti con problemi di vista"/>
+					<item id="1248" text="Consenti la copia e l&apos;estrazione del &amp;contenuto"/>
+					<item id="1250" text="Applica crittografia ai &amp;metadati del documento (compatibile con Acrobat 6.0 e versioni successive)"/>
+				</dialog>
+				<dialog id="119" text="">
+					<item id="1031" text="&amp;Tipo bordo:"/>
+					<item id="1032" text="&amp;Stile bordo:"/>
+					<item id="1033" text="&amp;Spessore bordo:"/>
+					<item id="1034" text="punti"/>
+					<item id="1035" text="&amp;Colore bordo:"/>
+					<item id="1036" text="Esempio:"/>
+					<item id="1037" text="Il nostro indirizzo Web è:"/>
+					<item id="1050" text="Opzioni dei collegamenti"/>
+					<item id="1052" text="File locali"/>
+					<item id="1122" text="Premere per selezionare"/>
+					<item id="1183" text="&amp;Predefinito"/>
+					<item id="1251" text="&amp;Analizza gli URL nel testo stampato"/>
+					<item id="1252" text="Rileva i nomi dei &amp;file ed esegui conversione in collegamenti PDF"/>
+					<item id="1253" text="Verifica la &amp;presenza dei file indicati dai collegamenti"/>
+					<item id="1258" text="http://www.tracker-software.com/"/>
+					<item id="1259" text="&amp;Applica al testo lo stesso colore del bordo"/>
+				</dialog>
+				<dialog id="120" text="Elenco bookmark">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1030" text="Nome &amp;modello:"/>
+					<item id="1050" text="Elenco modelli"/>
+					<item id="1100" text="&amp;Rimuovi"/>
+				</dialog>
+				<dialog id="121" text="Personalizza ...">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1030" text="Selezione sinistra:"/>
+					<item id="1031" text="Selezione centro:"/>
+					<item id="1032" text="Selezione destra:"/>
+					<item id="1051" text="Intestazione"/>
+					<item id="1265" text="..."/>
+					<item id="1266" text="..."/>
+					<item id="1267" text="..."/>
+					<item id="1268" text="Colore"/>
+					<item id="1269" text="Colore"/>
+					<item id="1270" text="Colore"/>
+					<item id="1271" text="&amp;Macro"/>
+					<item id="1272" text="&amp;Macro"/>
+					<item id="1273" text="&amp;Macro"/>
+				</dialog>
+				<dialog id="122" text="">
+					<item id="1050" text="Lingue disponibili"/>
+					<item id="1275" text="Usa le impostazioni &amp;internazionali dell&apos;utente"/>
+					<item id="1276" text="Imposta come predefinito"/>
+				</dialog>
+				<dialog id="123" text="Aggiungi/modifica filigrana">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1030" text="Nome &amp;filigrana:"/>
+					<item id="1031" text="Tipo:"/>
+					<item id="1032" text="&amp;Rotazione:"/>
+					<item id="1033" text="&amp;Opacità:"/>
+					<item id="1034" text="%"/>
+					<item id="1035" text="da"/>
+					<item id="1036" text="da"/>
+					<item id="1037" text="Offset orizzontale:"/>
+					<item id="1038" text="Offset verticale:"/>
+					<item id="1039" text="&amp;Unità:"/>
+					<item id="1040" text="(da -90 a 90 gradi)"/>
+					<item id="1050" text="Posizionamento"/>
+					<item id="1051" text="Aspetto"/>
+				</dialog>
+				<dialog id="124" text="">
+					<item id="1030" text="&amp;Testo:"/>
+					<item id="1031" text="&amp;Carattere:"/>
+					<item id="1033" text="&amp;Colore:"/>
+					<item id="1034" text="&amp;Dimensioni:"/>
+					<item id="1035" text="pt"/>
+					<item id="1050" text="Proprietà testo"/>
+					<item id="1122" text="Premere per selezionare"/>
+					<item id="1290" text="&amp;Grassetto"/>
+					<item id="1291" text="&amp;Corsivo"/>
+					<item id="1292" text="Come &amp;strutture"/>
+					<item id="1293" text="Dimensionamento a&amp;utomatico"/>
+				</dialog>
+				<dialog id="125" text="">
+					<item id="1031" text="&amp;Larghezza:"/>
+					<item id="1032" text="&amp;Altezza:"/>
+					<item id="1035" text="&amp;File:"/>
+					<item id="1050" text="Proprietà immagine"/>
+					<item id="1122" text="Premere per &amp;selezionare"/>
+					<item id="1153" text="Adatta alla &amp;pagina"/>
+					<item id="1223" text="&amp;..."/>
+					<item id="1285" text="&amp;Mantieni proporzioni"/>
+					<item id="1286" text="Colore &amp;trasparente"/>
+				</dialog>
+				<dialog id="126" text="">
+					<item id="1098" text="&amp;Modifica..."/>
+					<item id="1100" text="&amp;Rimuovi"/>
+					<item id="1109" text="&amp;Aggiungi..."/>
+				</dialog>
+				<dialog id="127" text="Aggiungi/modifica modulo personalizzato">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1030" text="&amp;Larghezza:"/>
+					<item id="1031" text="&amp;Altezza:"/>
+					<item id="1050" text="&amp;Nome modulo personalizzato:"/>
+					<item id="1051" text="Dimensioni modulo personalizzato"/>
+					<item id="1052" text="&amp;Unità"/>
+					<item id="1301" text="&amp;Pollici"/>
+					<item id="1302" text="&amp;Millimetri"/>
+				</dialog>
+				<dialog id="128" text="">
+					<item id="1030" text="&amp;Gestione lavoro:"/>
+					<item id="1031" text="&amp;Percorso:"/>
+					<item id="1032" text="&amp;Nome file:"/>
+					<item id="1033" text="Esempio:"/>
+					<item id="1034" text="&amp;Se il file è presente:"/>
+					<item id="1035" text="Comincia &amp;da:"/>
+					<item id="1036" text="C&amp;ifre:"/>
+					<item id="1037" text="Para&amp;metri:"/>
+					<item id="1050" text="Opzioni di salvataggio"/>
+					<item id="1223" text="&amp;Sfoglia..."/>
+					<item id="1303" text="&amp;Mostra &apos;Salva come...&apos; Finestra di dialogo"/>
+					<item id="1305" text="M&amp;acro"/>
+					<item id="1306" text="R&amp;imuovi il percorso dal nome del documento"/>
+					<item id="1312" text="&amp;Esegui l&apos;applicazione dopo la stampa"/>
+					<item id="1313" text="&amp;Applicazione predefinita per i file PDF"/>
+					<item id="1314" text="&amp;Applicazione:"/>
+					<item id="1316" text="Sf&amp;oglia..."/>
+				</dialog>
+				<dialog id="129" text="">
+					<item id="1031" text="&amp;Metodo:"/>
+					<item id="1032" text="&amp;Da:"/>
+					<item id="1033" text="&amp;A:"/>
+					<item id="1034" text="&amp;Cc:"/>
+					<item id="1035" text="&amp;Ccn:"/>
+					<item id="1036" text="O&amp;ggetto:"/>
+					<item id="1037" text="C&amp;ontenuto:"/>
+					<item id="1038" text="&amp;Server:"/>
+					<item id="1051" text="Proprietà e-mail"/>
+					<item id="1052" text="Proprietà SMTP"/>
+					<item id="1098" text="&amp;Modifica..."/>
+					<item id="1099" text="&amp;Nuovo..."/>
+					<item id="1100" text="&amp;Rimuovi..."/>
+					<item id="1318" text="Invia il documento creato come &amp;allegato e-mail"/>
+					<item id="1322" text="..."/>
+					<item id="1326" text="Invia il documento in un archivio &amp;ZIP"/>
+				</dialog>
+				<dialog id="130" text="Server di posta in uscita">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1031" text="Nome a&amp;ccount:"/>
+					<item id="1032" text="Pas&amp;sword:"/>
+					<item id="1034" text="Protezione con&amp;nessione:"/>
+					<item id="1035" text="No&amp;me:"/>
+					<item id="1036" text="P&amp;orta:"/>
+					<item id="1050" text="Proprietà server SMTP"/>
+					<item id="1051" text="Informazioni di accesso"/>
+					<item id="1052" text="Protezione"/>
+					<item id="1329" text="Il server richiede &amp;autenticazione"/>
+					<item id="1332" text="Accesso con &amp;autenticazione tramite password di protezione"/>
+				</dialog>
+				<dialog id="131" text="">
+					<item id="1100" text="&amp;Rimuovi"/>
+					<item id="1109" text="&amp;Aggiungi..."/>
+					<item id="1126" text="&amp;Usa"/>
+					<item id="1334" text="&amp;Esporta..."/>
+					<item id="1335" text="&amp;Importa..."/>
+				</dialog>
+				<dialog id="132" text="Aggiungi profilo">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1030" text="&amp;Nome:"/>
+					<item id="1031" text="&amp;Commento:"/>
+					<item id="1050" text="Informazioni profilo"/>
+				</dialog>
+				<dialog id="133" text="Firma digitale">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1031" text="Firmato &amp;da:"/>
+					<item id="1032" text="Nome file ID digitale:"/>
+					<item id="1033" text="&amp;Password ID digitale:"/>
+					<item id="1034" text="&amp;Motivo della firma:"/>
+					<item id="1035" text="P&amp;osizione:"/>
+					<item id="1036" text="&amp;Informazioni di contatto:"/>
+					<item id="1037" text="Pagina:"/>
+					<item id="1038" text="&amp;Sinistra:"/>
+					<item id="1039" text="&amp;Superiore:"/>
+					<item id="1040" text="&amp;Larghezza:"/>
+					<item id="1041" text="&amp;Altezza:"/>
+					<item id="1042" text="&amp;Unità:"/>
+					<item id="1043" text="Mostra grafica"/>
+					<item id="1044" text="Mostra testo"/>
+					<item id="1050" text="ID digitale"/>
+					<item id="1051" text="Dettagli"/>
+					<item id="1052" text="Posizione"/>
+					<item id="1053" text="Aspetto"/>
+					<item id="1337" text="Usa certificato memorizzato su &amp;sistema"/>
+					<item id="1338" text="Usa certificato da &amp;file"/>
+					<item id="1340" text="Aggiorna"/>
+					<item id="1342" text="&amp;Sfoglia..."/>
+					<item id="1344" text="&amp;Visualizza certificato..."/>
+					<item id="1345" text="E&amp;sporta certificato..."/>
+					<item id="1346" text="Cr&amp;ea certificato..."/>
+					<item id="1352" text="Nessuna grafica"/>
+					<item id="1353" text="Immagine:"/>
+					<item id="1354" text="Nome"/>
+					<item id="1356" text="Sfoglia..."/>
+					<item id="1357" text="Nome"/>
+					<item id="1358" text="Data"/>
+					<item id="1359" text="Percorso"/>
+					<item id="1360" text="Motivo"/>
+					<item id="1361" text="Nome distinto"/>
+					<item id="1362" text="Etichette"/>
+				</dialog>
+				<dialog id="134" text="Crea ID digitale autofirmato">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1030" text="Creare un ID digitale autofirmato consente di apporre la firma digitale su un documento PDF senza alcun costo. Tuttavia, questa soluzione potrebbe non essere adeguata nei casi in cui è richiesta la convalida da parte di terzi."/>
+					<item id="1032" text="&amp;Nome:"/>
+					<item id="1033" text="&amp;Unità organizzativa:"/>
+					<item id="1034" text="Nome &amp;organizzazione:"/>
+					<item id="1035" text="Indirizzo e-mail:"/>
+					<item id="1036" text="&amp;Paese/area:"/>
+					<item id="1037" text="&amp;Algoritmo della chiave:"/>
+					<item id="1039" text="&amp;Password:"/>
+					<item id="1040" text="Con&amp;ferma password:"/>
+					<item id="1042" text="ASCII"/>
+					<item id="1043" text="L&apos;ID digitale verrà memorizzato nell&apos;archivio certificati di Windows e reso disponibile ad altre applicazioni di Windows. L&apos;ID digitale è protetto dal proprio account di accesso a Windows."/>
+					<item id="1044" text="Crea un nuovo file ID digitale protetto da password che utilizza il formato standard PKCS#12. Questo comune formato di file ID digitale è supportato dalla maggior parte delle applicazioni software di protezione, compresi i più diffusi browser Web. I file PKCS#12 hanno estensione .pfx o .p12."/>
+					<item id="1051" text="Proprietà ID digitale:"/>
+					<item id="1052" text="Dove si desidera archiviare l&apos;ID digitale autofirmato?"/>
+					<item id="1372" text="Archivio certificati di &amp;Windows"/>
+					<item id="1373" text="Nuovo file ID digitale PKCS#&amp;12"/>
+					<item id="1375" text="Unicode"/>
+				</dialog>
+				<dialog id="135" text="Elenco server di timestamp">
+					<item id="1" text="Chiudi"/>
+					<item id="1098" text="&amp;Modifica..."/>
+					<item id="1100" text="&amp;Rimuovi..."/>
+					<item id="1109" text="&amp;Aggiungi..."/>
+				</dialog>
+				<dialog id="136" text="Server di timestamp">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1031" text="Nome a&amp;ccount:"/>
+					<item id="1032" text="&amp;Password:"/>
+					<item id="1033" text="No&amp;me:"/>
+					<item id="1034" text="&amp;URL:"/>
+					<item id="1050" text="Proprietà server"/>
+					<item id="1051" text="Informazioni di accesso"/>
+					<item id="1329" text="Il server richiede &amp;autenticazione"/>
+				</dialog>
+				<dialog id="137" text="Informazioni di registrazione">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1030" text="&amp;Nome:"/>
+					<item id="1031" text="&amp;Azienda:"/>
+					<item id="1032" text="&amp;E-mail:"/>
+					<item id="1033" text="&amp;Chiave di serie:"/>
+					<item id="1050" text="Informazioni di registrazione"/>
+					<item id="1381" text="&amp;Acquista online"/>
+				</dialog>
+				<dialog id="138" text="Personalizza">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1030" text="Pagine disponibili:"/>
+					<item id="1031" text="Pagine correnti:"/>
+					<item id="1093" text="Sposta &amp;su"/>
+					<item id="1094" text="Sposta &amp;giù"/>
+					<item id="1100" text="&lt;- R&amp;imuovi"/>
+					<item id="1109" text="&amp;Aggiungi -&gt;"/>
+					<item id="1387" text="&amp;Reimposta"/>
+				</dialog>
+				<dialog id="139" text="">
+					<item id="1031" text="&amp;File:"/>
+					<item id="1032" text="Pa&amp;ssword:"/>
+					<item id="1033" text="F&amp;ile:"/>
+					<item id="1034" text="Pass&amp;word:"/>
+					<item id="1051" text="Aggiungi documento in testa"/>
+					<item id="1052" text="Aggiungi documento in fondo"/>
+					<item id="1388" text="&amp;Aggiungi risultato in testa con un file PDF"/>
+					<item id="1390" text="&amp;Sfoglia..."/>
+					<item id="1392" text="&amp;Aggiungi risultato in fondo a un file PDF"/>
+					<item id="1394" text="Sfo&amp;glia..."/>
+				</dialog>
+				<dialog id="140" text="">
+					<item id="1030" text="Operazione di &amp;sfumatura:"/>
+					<item id="1031" text="MByte"/>
+					<item id="1032" text="Metodo di &amp;de-tassellatura:"/>
+					<item id="1051" text="Bug di Adobe Acrobat - Soluzioni"/>
+					<item id="1052" text="Gestione avanzata della memoria"/>
+					<item id="1398" text="Usa disegno in &amp;trasparenza"/>
+					<item id="1399" text="Usa immagini &amp;mascherate"/>
+					<item id="1400" text="Scrivi la tavolozza di &amp;scala di grigi sullo spazio colore RGB"/>
+					<item id="1401" text="Abilita ottimizzazione di &amp;sequenze di immagini"/>
+					<item id="1402" text="Passa a immagini disco di dimensioni &amp;maggiori di:"/>
+				</dialog>
+			</dialogs>
+			<strings count="401">
+				<item id="0" text="Nome &amp;applicazione"/>
+				<item id="1" text="&amp;Nome documento"/>
+				<item id="2" text="&amp;Percorso documento"/>
+				<item id="3" text="&amp;Data"/>
+				<item id="4" text="&amp;Anno"/>
+				<item id="5" text="&amp;Mese"/>
+				<item id="6" text="G&amp;iorno"/>
+				<item id="7" text="&amp;Ora"/>
+				<item id="8" text="&amp;Ore"/>
+				<item id="9" text="M&amp;inuti"/>
+				<item id="10" text="&amp;Secondi"/>
+				<item id="11" text="Nome computer"/>
+				<item id="12" text="Nome utente"/>
+				<item id="13" text="Numero pagina"/>
+				<item id="14" text="&amp;Numero pagine"/>
+				<item id="15" text="Variabile di ambiente"/>
+				<item id="16" text="Carta"/>
+				<item id="17" text="Impostazioni carta"/>
+				<item id="18" text="Moduli personalizzati"/>
+				<item id="19" text="Impostazioni moduli personalizzati"/>
+				<item id="20" text="Generale"/>
+				<item id="21" text="Impostazioni generali"/>
+				<item id="22" text="Compressione"/>
+				<item id="23" text="Impostazioni di compressione"/>
+				<item id="24" text="Informazioni documento"/>
+				<item id="25" text="Informazioni documento"/>
+				<item id="26" text="Grafica"/>
+				<item id="27" text="Impostazioni grafica"/>
+				<item id="28" text="Caratteri"/>
+				<item id="29" text="Opzioni di incorporazione caratteri"/>
+				<item id="30" text="Filigrane"/>
+				<item id="31" text="Impostazioni filigrane"/>
+				<item id="32" text="Sovrapposizioni"/>
+				<item id="33" text="Impostazioni di sovrapposizione"/>
+				<item id="34" text="Protezione"/>
+				<item id="35" text="Protezione documento"/>
+				<item id="36" text="Collegamenti"/>
+				<item id="37" text="Impostazioni collegamenti"/>
+				<item id="38" text="Bookmark"/>
+				<item id="39" text="Impostazioni bookmark"/>
+				<item id="40" text="Intestazioni/piè di pagina"/>
+				<item id="41" text="Impostazioni intestazioni e piè di pagina"/>
+				<item id="42" text="Lingue"/>
+				<item id="43" text="Scegliere la lingua dell&apos;interfaccia"/>
+				<item id="44" text="Salva"/>
+				<item id="45" text="Salva impostazioni"/>
+				<item id="46" text="E-mail"/>
+				<item id="47" text="Impostazioni e-mail"/>
+				<item id="48" text="cm"/>
+				<item id="49" text="centimetro"/>
+				<item id="50" text="centimetri"/>
+				<item id="51" text="in"/>
+				<item id="52" text="pollice"/>
+				<item id="53" text="pollici"/>
+				<item id="54" text="mm"/>
+				<item id="55" text="millimetro"/>
+				<item id="56" text="millimetri"/>
+				<item id="57" text="p"/>
+				<item id="58" text="pica"/>
+				<item id="59" text="pica"/>
+				<item id="60" text="pt"/>
+				<item id="61" text="punto"/>
+				<item id="62" text="punti"/>
+				<item id="63" text="Versione: %1.%2 build %3"/>
+				<item id="64" text="%1 x %2 %3"/>
+				<item id="65" text="Automatico"/>
+				<item id="66" text="Personalizzato"/>
+				<item id="67" text="Standard"/>
+				<item id="68" text="Più pagine per foglio"/>
+				<item id="69" text="Opuscolo"/>
+				<item id="70" text="Brochure"/>
+				<item id="71" text="Libro"/>
+				<item id="72" text="Da sinistra a destra"/>
+				<item id="73" text="Da destra a sinistra"/>
+				<item id="74" text="Orizzontalmente da sinistra"/>
+				<item id="75" text="Verticalmente da sinistra"/>
+				<item id="76" text="Orizzontale da destra"/>
+				<item id="77" text="Verticalmente da destra"/>
+				<item id="78" text="1 pagina"/>
+				<item id="79" text="2 pagine"/>
+				<item id="80" text="4 pagine"/>
+				<item id="81" text="6 pagine"/>
+				<item id="82" text="8 pagine"/>
+				<item id="83" text="9 pagine"/>
+				<item id="84" text="16 pagine"/>
+				<item id="85" text="Automatico"/>
+				<item id="86" text="Flate"/>
+				<item id="87" text="JPEG"/>
+				<item id="88" text="JPEG/ZIP"/>
+				<item id="89" text="JPEG 2000"/>
+				<item id="90" text="JPEG 2000/ZIP"/>
+				<item id="91" text="Lunghezza"/>
+				<item id="92" text="LZW"/>
+				<item id="93" text="CCITT Gruppo 3"/>
+				<item id="94" text="CCITT Gruppo 4"/>
+				<item id="95" text="JBIG 2"/>
+				<item id="96" text="Standard"/>
+				<item id="97" text="Ritaglia bordi"/>
+				<item id="98" text="Compressione simbolo"/>
+				<item id="99" text="Nessuna conversione"/>
+				<item id="100" text="Converti in scala di grigi"/>
+				<item id="101" text="Converti in monocromatico"/>
+				<item id="102" text="Converti in bianco e nero"/>
+				<item id="103" text="Nessun sottocampionamento"/>
+				<item id="104" text="Sottocampionamento lineare"/>
+				<item id="105" text="Sottocampionamento bilineare"/>
+				<item id="106" text="Sottocampionamento bicubico"/>
+				<item id="107" text="ID prodotto: %1"/>
+				<item id="108" text="Tipo licenza: %1"/>
+				<item id="109" text="Versione dimostrativa"/>
+				<item id="110" text="Utente singolo"/>
+				<item id="111" text="Pacchetto per 3 utenti"/>
+				<item id="112" text="Licenza per 10 utenti"/>
+				<item id="113" text="Licenza per 25 utenti"/>
+				<item id="114" text="Licenza per 50 utenti"/>
+				<item id="115" text="Licenza per 100 utenti"/>
+				<item id="116" text="Licenza per 250 utenti"/>
+				<item id="117" text="Licenza per 500 utenti"/>
+				<item id="118" text="Licenza per 1000 utenti"/>
+				<item id="119" text="Licenza per sito singolo"/>
+				<item id="120" text="Licenza nazionale"/>
+				<item id="121" text="Licenza per tutto il mondo"/>
+				<item id="122" text="Academic Campus"/>
+				<item id="123" text="Developer Edition"/>
+				<item id="124" text="Automatico"/>
+				<item id="125" text="Versione 1.3 (Acrobat v3.0 e versioni successive)"/>
+				<item id="126" text="Versione 1.4 (Acrobat v5.0 e versioni successive)"/>
+				<item id="127" text="Versione 1.5 (Acrobat v6.0 e versioni successive)"/>
+				<item id="128" text="Versione 1.6 (Acrobat v7.0 e versioni successive)"/>
+				<item id="129" text="Versione 1.7 (Acrobat v8.0 e versioni successive)"/>
+				<item id="130" text="PDF/A-1a"/>
+				<item id="131" text="PDF/A-1b"/>
+				<item id="132" text="PDF/A-2a"/>
+				<item id="133" text="PDF/A-2b"/>
+				<item id="134" text="PDF/A-2u"/>
+				<item id="135" text="Visualizzatore predefinito"/>
+				<item id="136" text="Pagina singola"/>
+				<item id="137" text="Una colonna"/>
+				<item id="138" text="Due pagine (copertina)"/>
+				<item id="139" text="Due pagine"/>
+				<item id="140" text="Due colonne (copertina)"/>
+				<item id="141" text="Due colonne"/>
+				<item id="142" text="Visualizzatore predefinito"/>
+				<item id="143" text="Solo visualizzazione pagine"/>
+				<item id="144" text="Mostra bookmark"/>
+				<item id="145" text="Mostra anteprime"/>
+				<item id="146" text="Mostra riquadro livelli"/>
+				<item id="147" text="Schermo intero"/>
+				<item id="148" text="Predefinito"/>
+				<item id="149" text="Dimensioni reali"/>
+				<item id="150" text="Adatta alla pagina"/>
+				<item id="151" text="Adatta in larghezza"/>
+				<item id="152" text="Adatta in altezza"/>
+				<item id="153" text="Livello"/>
+				<item id="154" text="Nessuno"/>
+				<item id="155" text="Sostituisci"/>
+				<item id="156" text="Dividi"/>
+				<item id="157" text="Veneziana"/>
+				<item id="158" text="Casella"/>
+				<item id="159" text="Cascata"/>
+				<item id="160" text="Dissolvenza"/>
+				<item id="161" text="Scintillio"/>
+				<item id="162" text="Entrata veloce"/>
+				<item id="163" text="Uscita veloce"/>
+				<item id="164" text="Scorrimento"/>
+				<item id="165" text="Copri"/>
+				<item id="166" text="Scopri"/>
+				<item id="167" text="Sfumato"/>
+				<item id="168" text="Casuale"/>
+				<item id="169" text="Entrata orizzontale"/>
+				<item id="170" text="Uscita orizzontale"/>
+				<item id="171" text="Entrata verticale"/>
+				<item id="172" text="Uscita verticale"/>
+				<item id="173" text="Orizzontale"/>
+				<item id="174" text="Verticale"/>
+				<item id="175" text="Entrata"/>
+				<item id="176" text="Uscita"/>
+				<item id="177" text="Destra"/>
+				<item id="178" text="In alto a destra"/>
+				<item id="179" text="Su"/>
+				<item id="180" text="In alto a sinistra"/>
+				<item id="181" text="Sinistra"/>
+				<item id="182" text="In basso a sinistra"/>
+				<item id="183" text="Giù"/>
+				<item id="184" text="In basso a destra"/>
+				<item id="185" text="Sinistra"/>
+				<item id="186" text="Centra"/>
+				<item id="187" text="Destra"/>
+				<item id="188" text="In alto"/>
+				<item id="189" text="Centro"/>
+				<item id="190" text="In basso"/>
+				<item id="191" text="Documenti PDF (*.pdf)"/>
+				<item id="192" text="Seleziona file da sovrapporre"/>
+				<item id="193" text="40-bit RC4 (compatibile con Acrobat 3.0 e versioni successive)"/>
+				<item id="194" text="128-bit RC4 (compatibile con Acrobat 5.0 e versioni successive)"/>
+				<item id="195" text="128-bit AES (compatibile con Acrobat 7.0 e versioni successive)"/>
+				<item id="196" text="256-bit AES (compatibile con Acrobat 9.0 e versioni successive)"/>
+				<item id="197" text="256-bit AES R6 (compatibile con Acrobat X e versioni successive)"/>
+				<item id="198" text="Nessuno"/>
+				<item id="199" text="Solo assemblaggio documenti"/>
+				<item id="200" text="Solo compilazione campi modulo o firma"/>
+				<item id="201" text="Redazione commenti, compilazione campi modulo o firma"/>
+				<item id="202" text="Modifiche generali, commenti e compilazioni campi modulo"/>
+				<item id="203" text="Non consentito"/>
+				<item id="204" text="Bassa risoluzione"/>
+				<item id="205" text="Autorizzazione completa"/>
+				<item id="206" text="Deselezionare l&apos;opzione &apos;Password richiesta per l&apos;apertura del documento&apos; o immettere la password."/>
+				<item id="207" text="Deselezionare l&apos;opzione &apos;Password richiesta per cambiare le autorizzazioni e/o la password&apos; o immettere la password."/>
+				<item id="208" text="Le password di apertura e di autorizzazione del documento non possono coincidere. Specificare una password diversa in uno dei campi della password."/>
+				<item id="209" text="Specificare una password di apertura o di autorizzazione per il documento."/>
+				<item id="210" text="Nessun bordo"/>
+				<item id="211" text="Sottolinea"/>
+				<item id="212" text="Rettangolo"/>
+				<item id="213" text="Continuo"/>
+				<item id="214" text="Tratteggiato"/>
+				<item id="215" text="Punteggiato"/>
+				<item id="216" text="Nero"/>
+				<item id="217" text="Marrone"/>
+				<item id="218" text="Verde oliva scuro"/>
+				<item id="219" text="Verde scuro"/>
+				<item id="220" text="Blu notte"/>
+				<item id="221" text="Blu scuro"/>
+				<item id="222" text="Indaco"/>
+				<item id="223" text="Grigio scuro"/>
+				<item id="224" text="Rosso scuro"/>
+				<item id="225" text="Arancione"/>
+				<item id="226" text="Giallo scuro"/>
+				<item id="227" text="Verde"/>
+				<item id="228" text="Verde acqua"/>
+				<item id="229" text="Blu"/>
+				<item id="230" text="Grigio azzurro"/>
+				<item id="231" text="Grigio - 40"/>
+				<item id="232" text="Rosso"/>
+				<item id="233" text="Arancione chiaro"/>
+				<item id="234" text="Verde limone"/>
+				<item id="235" text="Verde mare"/>
+				<item id="236" text="Azzurro"/>
+				<item id="237" text="Blu chiaro"/>
+				<item id="238" text="Viola"/>
+				<item id="239" text="Grigio - 50"/>
+				<item id="240" text="Rosa"/>
+				<item id="241" text="Oro"/>
+				<item id="242" text="Giallo"/>
+				<item id="243" text="Verde vivace"/>
+				<item id="244" text="Turchese"/>
+				<item id="245" text="Blu cielo"/>
+				<item id="246" text="Prugna"/>
+				<item id="247" text="Grigio chiaro"/>
+				<item id="248" text="Rosa"/>
+				<item id="249" text="Marrone chiaro"/>
+				<item id="250" text="Giallo chiaro"/>
+				<item id="251" text="Verde chiaro"/>
+				<item id="252" text="Turchese chiaro"/>
+				<item id="253" text="Celeste"/>
+				<item id="254" text="Lilla"/>
+				<item id="255" text="Bianco"/>
+				<item id="256" text="Automatico"/>
+				<item id="257" text="Altri colori..."/>
+				<item id="258" text="Esiste già un oggetto con il nome specificato. Sovrascrivere l&apos;oggetto esistente?"/>
+				<item id="259" text="Eliminare questo oggetto?"/>
+				<item id="260" text="Eliminare questa filigrana?"/>
+				<item id="261" text="Specificare un testo per la filigrana."/>
+				<item id="262" text="Specificare il nome e il percorso del file immagine per la filigrana."/>
+				<item id="263" text="Il titolo della filigrana non può essere vuoto."/>
+				<item id="264" text="Il titolo della filigrana non può contenere il simbolo del punto e virgola (;)."/>
+				<item id="265" text="Il titolo della filigrana deve essere univoco."/>
+				<item id="266" text="Eliminare questo modulo personalizzato?"/>
+				<item id="267" text="Filigrana testuale"/>
+				<item id="268" text="Filigrana immagine"/>
+				<item id="269" text="&lt;Untitled&gt;"/>
+				<item id="270" text="Tutti aperti"/>
+				<item id="271" text="Tutti chiusi"/>
+				<item id="272" text="Definito dall&apos;oggetto"/>
+				<item id="273" text="Apri al livello del nodo"/>
+				<item id="274" text="Normale"/>
+				<item id="275" text="Grassetto"/>
+				<item id="276" text="Corsivo"/>
+				<item id="277" text="Grassetto corsivo"/>
+				<item id="278" text="Livello %1"/>
+				<item id="279" text="Intestazione"/>
+				<item id="280" text="Piè di pagina"/>
+				<item id="281" text="(nessuno)"/>
+				<item id="282" text="Pagina %1"/>
+				<item id="283" text="Pagina %1 di %2"/>
+				<item id="284" text="Riservato"/>
+				<item id="285" text="Preparato da %1 %2"/>
+				<item id="286" text="Nome standard"/>
+				<item id="287" text="Nome locale"/>
+				<item id="288" text="ID lingua"/>
+				<item id="289" text="Nome"/>
+				<item id="290" text="Stampa su"/>
+				<item id="291" text="Su sfondo"/>
+				<item id="292" text="Visualizza"/>
+				<item id="293" text="Esporta"/>
+				<item id="294" text="Stampa"/>
+				<item id="295" text="Tutte le pagine"/>
+				<item id="296" text="Solo la prima pagina"/>
+				<item id="297" text="Solo l&apos;ultima pagina"/>
+				<item id="298" text="Pagine pari"/>
+				<item id="299" text="Pagine dispari"/>
+				<item id="300" text="Nome modulo"/>
+				<item id="301" text="Dimensioni (mm)"/>
+				<item id="302" text="Dimensioni (pollici)"/>
+				<item id="303" text="Modulo utente"/>
+				<item id="304" text="Occorre specificare un nome per il modulo personalizzato."/>
+				<item id="305" text="Il nome del modulo personalizzato deve essere univoco."/>
+				<item id="306" text="Usa pdfSaver™ per la gestione del lavoro"/>
+				<item id="307" text="Accoda il lavoro corrente all&apos;ultimo lavoro attivo"/>
+				<item id="308" text="Salva il file PDF generato"/>
+				<item id="309" text="Genera PDF e invia tramite e-mail, quindi elimina"/>
+				<item id="310" text="Visualizza finestra di dialogo di avviso"/>
+				<item id="311" text="Sovrascrivi sempre"/>
+				<item id="312" text="Numerazione automatica"/>
+				<item id="313" text="Unisci a esistente (accoda)"/>
+				<item id="314" text="Unisci a esistente (inserisci prima)"/>
+				<item id="315" text="Richiedi un nuovo nome file"/>
+				<item id="316" text="Seleziona la cartella in cui archiviare i file ottenuti"/>
+				<item id="317" text="Seleziona applicazione"/>
+				<item id="318" text="File eseguibile (*.exe)"/>
+				<item id="319" text="Tutti i file"/>
+				<item id="320" text="Avvia il client di posta elettronica predefinito"/>
+				<item id="321" text="Invia tramite il client di posta elettronica predefinito"/>
+				<item id="322" text="Invia direttamente tramite server SMTP"/>
+				<item id="323" text="Rimuovere le impostazioni per il server SMTP selezionato?"/>
+				<item id="324" text="Selezionare i destinatari"/>
+				<item id="325" text="Nessuno"/>
+				<item id="326" text="Usa STARTTLS"/>
+				<item id="327" text="Usa SSL/TLS"/>
+				<item id="328" text="Specificare il nome del server SMTP"/>
+				<item id="329" text="1024-bit RSA"/>
+				<item id="330" text="2048-bit RSA"/>
+				<item id="331" text="Password non valida. La password deve contenere almeno sei caratteri."/>
+				<item id="332" text="Le password non coincidono. Immettere nuovamente la password."/>
+				<item id="333" text="La creazione di un ID digitale autofirmato richiede un nome."/>
+				<item id="334" text="La creazione di un ID digitale autofirmato richiede un nome Unicode."/>
+				<item id="335" text="La creazione di un ID digitale autofirmato richiede un indirizzo e-mail."/>
+				<item id="336" text="Inserire un indirizzo e-mail valido (ad esempio mario@indirizzo.com)."/>
+				<item id="337" text="Il campo &apos;%1&apos; può contenere unicamente caratteri ASCII. Sono ammessi solamente i seguenti caratteri: spazio a-z A-Z 0-9 &apos; ( ) + , - . / : = ?"/>
+				<item id="338" text="Personal Information Exchange (*.pfx, *.p12)"/>
+				<item id="339" text="Salva certificato"/>
+				<item id="340" text="Seleziona file certificato"/>
+				<item id="341" text="&lt;None&gt;"/>
+				<item id="342" text="Il sottoscritto è l&apos;autore di questo documento"/>
+				<item id="343" text="Il sottoscritto accetta parti specifiche del presente documento"/>
+				<item id="344" text="Il sottoscritto ha rivisto il presente documento"/>
+				<item id="345" text="Il sottoscritto approva il presente documento"/>
+				<item id="346" text="Il sottoscritto attesta l&apos;accuratezza e l&apos;integrità del presente documento"/>
+				<item id="347" text="Il sottoscritto accetta i termini stabiliti dall&apos;apposizione della propria firma sul presente documento"/>
+				<item id="348" text="Certificato digitale non selezionato o parametri specificati non validi. Utilizzare i valori corretti?"/>
+				<item id="349" text="URL server"/>
+				<item id="350" text="Nome server"/>
+				<item id="351" text="Eliminare questa definizione di server?"/>
+				<item id="352" text="Ultimo percorso &amp;utilizzato"/>
+				<item id="353" text="Desktop"/>
+				<item id="354" text="Documenti"/>
+				<item id="355" text="Immagini"/>
+				<item id="356" text="Preferiti"/>
+				<item id="357" text="Cartella temporanea"/>
+				<item id="358" text="Cartella TMP"/>
+				<item id="359" text="Guida del prodotto"/>
+				<item id="360" text="Pagina iniziale"/>
+				<item id="361" text="Forum di supporto"/>
+				<item id="362" text="Segnala un problema"/>
+				<item id="363" text="Profili"/>
+				<item id="364" text="Impostazioni profili"/>
+				<item id="365" text="Nome"/>
+				<item id="366" text="Commento"/>
+				<item id="367" text="Nuovo profilo"/>
+				<item id="368" text="Il nome del profilo non può essere vuoto"/>
+				<item id="369" text="Esiste già un profilo con il nome specificato Sovrascrivere il profilo?"/>
+				<item id="370" text="Eliminare il profilo?"/>
+				<item id="371" text="Impossibile rimuovere il profilo corrente. Prima di eliminare il profilo impostarne un altro come predefinito."/>
+				<item id="372" text="Esiste già un profilo con nome %1. Sovrascrivere il profilo?"/>
+				<item id="373" text="Applicare il profilo selezionato?"/>
+				<item id="374" text="Profilo PDF-XChange 2013 (*.pp5)"/>
+				<item id="375" text="Seleziona file profilo"/>
+				<item id="376" text="&amp;Personalizza..."/>
+				<item id="377" text="Guida"/>
+				<item id="378" text="Avviso"/>
+				<item id="379" text="Poiché è stato selezionato il formato PDF/A nella pagina &apos;Generale&apos; delle impostazioni, per garantire la conformità alcune opzioni in questa pagina sono state disattivate e/o preconfigurate.  Consultare la &apos;Guida&apos; per informazioni dettagliate."/>
+				<item id="380" text="Accodamento file predefinito"/>
+				<item id="381" text="Opzioni aggiuntive di accodamento/inserimento"/>
+				<item id="382" text="Ottimizzazione"/>
+				<item id="383" text="Impostazioni di ottimizzazione"/>
+				<item id="384" text="Seleziona file"/>
+				<item id="385" text="Normale"/>
+				<item id="386" text="Moltiplica"/>
+				<item id="387" text="Schermo"/>
+				<item id="388" text="Sovrapponi"/>
+				<item id="389" text="Scurisci"/>
+				<item id="390" text="Schiarisci"/>
+				<item id="391" text="ColorDodge"/>
+				<item id="392" text="ColorBurn"/>
+				<item id="393" text="HardLight"/>
+				<item id="394" text="SoftLight"/>
+				<item id="395" text="Differenza"/>
+				<item id="396" text="Esclusione"/>
+				<item id="397" text="Nessuno"/>
+				<item id="398" text="Semplice"/>
+				<item id="399" text="Impostazioni"/>
+				<item id="400" text="Informazioni"/>
+			</strings>
+		</module>
+		<module id="pdfSaver" name="pdfSaver">
+			<dialogs>
+				<dialog id="101" text="">
+					<item id="1" text="&amp;Nascondi"/>
+					<item id="1030" text="&amp;Guida"/>
+				</dialog>
+				<dialog id="102" text="Stato della stampa">
+					<item id="1036" text="Annulla"/>
+				</dialog>
+				<dialog id="103" text="">
+					<item id="2" text="Annulla"/>
+					<item id="6" text="&amp;Riprova"/>
+					<item id="1037" text="Modifica &amp;nome file..."/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1001" text="&amp;Titolo:"/>
+					<item id="1002" text="&amp;Oggetto:"/>
+					<item id="1003" text="A&amp;utore:"/>
+					<item id="1004" text="&amp;Parole chiave:"/>
+					<item id="1005" text="&amp;Autore:"/>
+					<item id="1020" text="&amp;Informazioni PDF"/>
+					<item id="1038" text="Inserisci informazioni aggiuntive nel &amp;documento"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1000" text="secondi"/>
+					<item id="1001" text="Opacità finestra di stato:"/>
+					<item id="1002" text="&amp;Cartella predefinita per i file di lavoro:"/>
+					<item id="1020" text="Impostazioni varie"/>
+					<item id="1021" text="Opzioni lavori"/>
+					<item id="1044" text="Mostra &amp;icona nell&apos;area di notifica"/>
+					<item id="1045" text="&amp;Esegui pdfSaver all&apos;avvio di Windows"/>
+					<item id="1046" text="Visualizza la finestra di &amp;stato della stampa"/>
+					<item id="1047" text="&amp;Scarica automaticamente pdfSaver dopo:"/>
+					<item id="1050" text="Modifiche"/>
+					<item id="1051" text="Non rimuovere i file temporanei"/>
+					<item id="1052" text="Non eliminare la cartella temporanea all&apos;avvio di pdfSaver"/>
+					<item id="1053" text="Mostra le &apos;Modifiche&apos; senza argomento della riga di comando"/>
+					<item id="1095" text="&amp;Sfoglia..."/>
+					<item id="1096" text="&amp;Salva automaticamente i lavori"/>
+					<item id="1097" text="&amp;Carica automaticamente i lavori disponibili all&apos;avvio"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1003" text="Copyright © 2001-16 Tracker Software Products (Canada) Ltd. Tutti i diritti riservati."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1000" text="Azione:"/>
+					<item id="1001" text="Il nome di file selezionato è già utilizzato. Specificare l&apos;azione richiesta:"/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1021" text="Impostazioni di localizzazione"/>
+					<item id="1022" text="Lingue disponibili"/>
+					<item id="1057" text="Usa le impostazioni &amp;internazionali dell&apos;utente"/>
+					<item id="1060" text="Imposta come predefinito"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1020" text="Gruppi di lavori"/>
+					<item id="1021" text="Documenti dei lavori"/>
+					<item id="1059" text="&amp;Carica..."/>
+					<item id="2006" text="&amp;Salva"/>
+					<item id="2007" text="&amp;Rimuovi..."/>
+					<item id="2008" text="&amp;Genera"/>
+					<item id="2010" text="Sposta &amp;su"/>
+					<item id="2011" text="Sposta &amp;giù"/>
+					<item id="2012" text="Scollega"/>
+					<item id="2013" text="Rimuovi"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1001" text="&amp;Metodo:"/>
+					<item id="1002" text="&amp;Da:"/>
+					<item id="1003" text="&amp;A:"/>
+					<item id="1004" text="&amp;Cc:"/>
+					<item id="1005" text="O&amp;ggetto:"/>
+					<item id="1006" text="C&amp;ontenuto:"/>
+					<item id="1007" text="&amp;Server:"/>
+					<item id="1008" text="&amp;Ccn:"/>
+					<item id="1021" text="Proprietà e-mail"/>
+					<item id="1022" text="Proprietà SMTP"/>
+					<item id="1081" text="Invia il documento creato come &amp;allegato e-mail"/>
+					<item id="1082" text="Invia il documento in un archivio &amp;ZIP"/>
+					<item id="1090" text="&amp;Modifica..."/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1000" text="&amp;Titolo:"/>
+					<item id="1001" text="&amp;Oggetto:"/>
+					<item id="1002" text="A&amp;utore:"/>
+					<item id="1003" text="&amp;Parole chiave:"/>
+					<item id="1004" text="&amp;Autore:"/>
+					<item id="1005" text="&amp;Produttore:"/>
+					<item id="1006" text="Versione PDF:"/>
+					<item id="1007" text="Numero pagine:"/>
+					<item id="1008" text="Linearizzato:"/>
+					<item id="1020" text="Informazioni PDF"/>
+					<item id="1021" text="Informazioni documento"/>
+					<item id="1038" text="Inserisci informazioni aggiuntive nel &amp;documento"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1001" text="Password:"/>
+					<item id="1002" text="Password:"/>
+					<item id="1003" text="&amp;Livello crittografia:"/>
+					<item id="1020" text="Password del documento"/>
+					<item id="1022" text="Password del documento"/>
+					<item id="1065" text="&amp;Usa protezione PDF"/>
+					<item id="1066" text="Password richiesta per l&apos;&amp;apertura del documento:"/>
+					<item id="1067" text="Password richiesta per &amp;cambiare le autorizzazioni e/o la password:"/>
+				</dialog>
+				<dialog id="113" text="Gestione nuovo documento">
+					<item id="2" text="Annulla"/>
+					<item id="1020" text="&amp;Gruppi di lavori disponibili"/>
+					<item id="2003" text="Crea &amp;nuovo gruppo"/>
+					<item id="2004" text="&amp;Accoda a selezione"/>
+					<item id="2005" text="&amp;Salva documento PDF"/>
+				</dialog>
+				<dialog id="114" text="Server di posta in uscita">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1001" text="Nome a&amp;ccount:"/>
+					<item id="1002" text="&amp;Password:"/>
+					<item id="1003" text="No&amp;me:"/>
+					<item id="1004" text="P&amp;orta:"/>
+					<item id="1020" text="Proprietà server SMTP"/>
+					<item id="1021" text="Informazioni di accesso"/>
+					<item id="1094" text="Il server richiede &amp;autenticazione"/>
+					<item id="1097" text="Accesso con &amp;autenticazione tramite password di protezione"/>
+				</dialog>
+				<dialog id="115" text="Password">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="1001" text="Il documento è protetto da password per la modifica."/>
+					<item id="1002" text="Immettere la password utente o proprietario corretta per il documento:"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1098" text="Proprietà &amp;aggiuntive..."/>
+					<item id="1099" text="Esegui l&apos;applicazione di &amp;visualizzazione dopo il salvataggio"/>
+					<item id="2000" text="Invia PDF tramite &amp;e-mail dopo la creazione"/>
+					<item id="2001" text="Accoda a &amp;PDF esistente"/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1001" text="M&amp;odifiche consentite:"/>
+					<item id="1002" text="&amp;Stampa del documento:"/>
+					<item id="1076" text="Consenti l&apos;&amp;accesso ai contenuti da parte di utenti con problemi di vista"/>
+					<item id="1077" text="Consenti la copia e l&apos;estrazione del &amp;contenuto"/>
+					<item id="1080" text="Applica crittografia ai &amp;metadati del documento (compatibile con Acrobat 6.0 e versioni successive)"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1072" text="Consenti &amp;stampa"/>
+					<item id="1073" text="Consenti modifiche al &amp;documento"/>
+					<item id="1074" text="Consenti la copia o l&apos;estrazione, a&amp;bilita accesso facilitato"/>
+					<item id="1075" text="Consenti l&apos;aggiunta o la modifica di commenti e campi &amp;modulo"/>
+				</dialog>
+			</dialogs>
+			<strings count="75">
+				<item id="0" text="Impossibile salvare il file &quot;%1&quot; a causa del seguente errore:  %2  Come si desidera procedere?"/>
+				<item id="1" text="Sovrascrittura diretta"/>
+				<item id="2" text="Numerazione automatica"/>
+				<item id="3" text="Unisci a esistente (accoda)"/>
+				<item id="4" text="Unisci a esistente (inserisci prima)"/>
+				<item id="5" text="Annulla l&apos;operazione e abbandona il lavoro"/>
+				<item id="6" text="Seleziona un altro file"/>
+				<item id="7" text="Documenti PDF (*.pdf)"/>
+				<item id="8" text="Tutti i file"/>
+				<item id="9" text="%1%% completato"/>
+				<item id="10" text="Spooling..."/>
+				<item id="11" text="Pagina %1"/>
+				<item id="12" text="pdfSaver non è stato chiuso. Per uscire da pdfSaver, selezionare la voce Esci dal menu area di notifica."/>
+				<item id="13" text="Ottimizzazione..."/>
+				<item id="14" text="Generazione PDF..."/>
+				<item id="15" text="Salvataggio PDF..."/>
+				<item id="16" text="Invio PDF..."/>
+				<item id="17" text="Versione: %1.%2 build %3"/>
+				<item id="18" text="Lavori"/>
+				<item id="19" text="Lingue"/>
+				<item id="20" text="Impostazioni"/>
+				<item id="21" text="Informazioni"/>
+				<item id="22" text="E-mail"/>
+				<item id="23" text="Informazioni"/>
+				<item id="24" text="Protezione"/>
+				<item id="25" text="Proprietà aggiuntive"/>
+				<item id="26" text="&amp;Crea PDF"/>
+				<item id="27" text="Visualizza PDF"/>
+				<item id="28" text="Nome standard"/>
+				<item id="29" text="Nome locale"/>
+				<item id="30" text="ID lingua"/>
+				<item id="31" text="Eliminare il gruppo di lavori selezionato?"/>
+				<item id="32" text="Eliminare il documento selezionato?"/>
+				<item id="33" text="Password immessa non valida. Immettere nuovamente la password?"/>
+				<item id="34" text="Specificare il nome del server SMTP"/>
+				<item id="35" text="Deselezionare l&apos;opzione &apos;Password richiesta per l&apos;apertura del documento&apos; o immettere la password."/>
+				<item id="36" text="Deselezionare l&apos;opzione &apos;Password richiesta per cambiare le autorizzazioni e/o la password&apos; o immettere la password."/>
+				<item id="37" text="Le password di apertura e di autorizzazione del documento non possono coincidere. Specificare una password diversa in uno dei campi della password."/>
+				<item id="38" text="Specificare una password di apertura o di autorizzazione per il documento."/>
+				<item id="39" text="Titolo"/>
+				<item id="40" text="Numero documenti"/>
+				<item id="41" text="Numero pagine"/>
+				<item id="42" text="Documento"/>
+				<item id="43" text="Pagine"/>
+				<item id="44" text="40-bit RC4 (compatibile con Acrobat 3.0 e versioni successive)"/>
+				<item id="45" text="128-bit RC4 (compatibile con Acrobat 5.0 e versioni successive)"/>
+				<item id="46" text="128-bit AES (compatibile con Acrobat 7.0 e versioni successive)"/>
+				<item id="47" text="256-bit AES (compatibile con Acrobat 9.0 e versioni successive)"/>
+				<item id="48" text="256-bit AES R6 (compatibile con Acrobat X e versioni successive)"/>
+				<item id="49" text="Nessuno"/>
+				<item id="50" text="Solo assemblaggio documenti"/>
+				<item id="51" text="Solo compilazione campi modulo o firma"/>
+				<item id="52" text="Redazione commenti, compilazione campi modulo o firma"/>
+				<item id="53" text="Modifiche generali, commenti e compilazioni campi modulo"/>
+				<item id="54" text="Non consentito"/>
+				<item id="55" text="Bassa risoluzione"/>
+				<item id="56" text="Autorizzazione completa"/>
+				<item id="57" text="Versione 1.3 (Acrobat v3.0 e versioni successive)"/>
+				<item id="58" text="Versione 1.4 (Acrobat v5.0 e versioni successive)"/>
+				<item id="59" text="Versione 1.5 (Acrobat v6.0 e versioni successive)"/>
+				<item id="60" text="Versione 1.6 (Acrobat v7.0 e versioni successive)"/>
+				<item id="61" text="Versione 1.7 (Acrobat v8.0 e versioni successive)"/>
+				<item id="62" text="PDF/A-1a"/>
+				<item id="63" text="PDF/A-1b"/>
+				<item id="64" text="PDF/A-2a"/>
+				<item id="65" text="PDF/A-2b"/>
+				<item id="66" text="PDF/A-2u"/>
+				<item id="67" text="No"/>
+				<item id="68" text="Avvia il client di posta elettronica predefinito"/>
+				<item id="69" text="Invia tramite il client di posta elettronica predefinito"/>
+				<item id="70" text="Invia direttamente tramite server SMTP"/>
+				<item id="71" text="Guida del prodotto"/>
+				<item id="72" text="Pagina iniziale"/>
+				<item id="73" text="Forum di supporto"/>
+				<item id="74" text="Segnala un problema"/>
+			</strings>
+		</module>
+		<module id="Addin" name="Office Addin">
+			<dialogs>
+				<dialog id="1" text="">
+					<item id="207" text="&amp;Genera bookmark nel file PDF ottenuto"/>
+					<item id="212" text="Seleziona tutto"/>
+					<item id="213" text="Deseleziona tutto"/>
+					<item id="233" text="Stili disponibili"/>
+					<item id="246" text="Espandi tutti i bookmark"/>
+				</dialog>
+				<dialog id="202" text="PDF-XChange 5.0">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+				</dialog>
+				<dialog id="203" text="">
+					<item id="222" text="Genera collegamenti nel file PDF ottenuto"/>
+					<item id="223" text="Collegamenti di note a piè di pagina e note di chiusura"/>
+					<item id="224" text="Collegamenti tra documenti"/>
+					<item id="225" text="Collegamenti Internet"/>
+					<item id="226" text="Collegamenti incrociati"/>
+					<item id="232" text="Usa percorso relativo per l&apos;indirizzo del documento di destinazione"/>
+					<item id="233" text="Converti collegamenti MS Office"/>
+					<item id="234" text="Aspetto collegamenti"/>
+					<item id="235" text="Collegamenti tra documenti"/>
+					<item id="236" text="&amp;Tipo bordo:"/>
+					<item id="237" text="&amp;Stile bordo:"/>
+					<item id="238" text="&amp;Spessore bordo:"/>
+					<item id="239" text="punti"/>
+					<item id="240" text="&amp;Colore bordo:"/>
+					<item id="241" text="Cambia l&apos;estensione file in PDF"/>
+				</dialog>
+				<dialog id="205" text="Opzioni di invio tramite e-mail">
+					<item id="1" text="OK"/>
+					<item id="2" text="Annulla"/>
+					<item id="236" text="A:"/>
+					<item id="237" text="CC:"/>
+					<item id="238" text="Oggetto:"/>
+					<item id="239" text="Testo:"/>
+					<item id="240" text="Nome file da inviare:"/>
+				</dialog>
+				<dialog id="208" text="">
+					<item id="233" text="Opzioni avanzate"/>
+					<item id="234" text="Opzioni Actify SFO"/>
+					<item id="241" text="&amp;Esegui l&apos;applicazione predefinita per i file PDF dopo la conversione"/>
+					<item id="242" text="&amp;Salva il documento prima della conversione"/>
+					<item id="243" text="&amp;Richiedi il nome del file PDF"/>
+					<item id="244" text="Rimuovi il file PDF &amp;dopo l&apos;invio tramite e-mail"/>
+					<item id="245" text="Converti le &amp;informazioni sul documento"/>
+					<item id="246" text="Consenti riconoscimento Actify 3D"/>
+					<item id="247" text="Comprimi risultato U3D (più lento)"/>
+					<item id="248" text="S&amp;alva il documento nella cartella contenente il documento di origine"/>
+				</dialog>
+				<dialog id="209" text="PDF-XChange 5.0">
+					<item id="2" text="Annulla"/>
+				</dialog>
+				<dialog id="210" text="">
+					<item id="205" text="Posiziona ciascuna diapositiva come bookmark"/>
+					<item id="246" text="Converti transizione diapositive"/>
+				</dialog>
+				<dialog id="236" text="">
+					<item id="249" text="Stampa l&apos;intera cartella di lavoro"/>
+				</dialog>
+				<dialog id="237" text="Moduli">
+					<item id="246" text="Converti moduli Web"/>
+					<item id="247" text="Converti i contrassegni di revisione"/>
+				</dialog>
+				<dialog id="238" text="">
+					<item id="250" text="&amp;Avanzate..."/>
+				</dialog>
+				<dialog id="248" text="">
+					<item id="249" text="Stampa tutte le pagine"/>
+				</dialog>
+			</dialogs>
+			<strings count="54">
+				<item id="0" text="Impostazioni"/>
+				<item id="1" text="Collegamenti"/>
+				<item id="2" text="Bookmark"/>
+				<item id="3" text="Opzioni PowerPoint"/>
+				<item id="4" text="Opzioni Excel"/>
+				<item id="5" text="Opzioni Visio"/>
+				<item id="6" text="Opzioni Word"/>
+				<item id="7" text="Avanzate"/>
+				<item id="8" text="PDF-XChange 2013"/>
+				<item id="9" text="PDF-XChange 2013"/>
+				<item id="10" text="PDF-XChange 2013"/>
+				<item id="11" text="Converti in PDF"/>
+				<item id="12" text="&amp;Converti documento in PDF"/>
+				<item id="13" text="C"/>
+				<item id="14" text="Crea PDF e invia tramite e-mail"/>
+				<item id="15" text="Crea file PDF dal documento corrente e invia tramite e-mail"/>
+				<item id="16" text="E"/>
+				<item id="17" text="Impostazioni"/>
+				<item id="18" text="Configura le preferenze per il processo di creazione PDF"/>
+				<item id="19" text="S"/>
+				<item id="20" text="&amp;Salva come file PDF"/>
+				<item id="21" text="Salva il documento corrente come file PDF utilizzando PDF-XChange 2013"/>
+				<item id="22" text="Salva il documento corrente come file PDF utilizzando PDF-XChange 2013"/>
+				<item id="23" text="C"/>
+				<item id="24" text="Crea PDF e invia tramite e-mail"/>
+				<item id="25" text="Crea file PDF dal documento corrente e invia tramite e-mail utilizzando PDF-XChange 2013"/>
+				<item id="26" text="Crea file PDF dal documento corrente e invia tramite e-mail utilizzando PDF-XChange 2013"/>
+				<item id="27" text="E"/>
+				<item id="28" text="Errore"/>
+				<item id="29" text="Impossibile trovare o caricare il driver della stampante PDF-XChange. Reinstallare."/>
+				<item id="30" text="Opzioni PDF-XChange 5.0"/>
+				<item id="31" text="%1: %2%% completato"/>
+				<item id="32" text="Elaborazione note a piè di pagina"/>
+				<item id="33" text="Elaborazione note di chiusura"/>
+				<item id="34" text="Elaborazione collegamenti ipertestuali"/>
+				<item id="35" text="Elaborazione riferimenti interni"/>
+				<item id="36" text="Elaborazione intestazioni"/>
+				<item id="37" text="Elaborazione transizioni"/>
+				<item id="38" text="Elaborazione moduli Web"/>
+				<item id="39" text="Elaborazione oggetti U3D Actify"/>
+				<item id="40" text="Nessun bordo"/>
+				<item id="41" text="Sottolinea"/>
+				<item id="42" text="Rettangolo"/>
+				<item id="43" text="Continuo"/>
+				<item id="44" text="Tratteggiato"/>
+				<item id="45" text="Punteggiato"/>
+				<item id="46" text="Stile"/>
+				<item id="47" text="Tipo"/>
+				<item id="48" text="Livello"/>
+				<item id="49" text="Personalizzato"/>
+				<item id="50" text="Standard"/>
+				<item id="51" text="PDF-XChange 2013 AcroPlot"/>
+				<item id="52" text="PDF-XChange 2013 AcroPlot"/>
+				<item id="53" text="PDF-XChange 2013 AcroPlot"/>
+			</strings>
+		</module>
+		<module id="Office2PDF" name="Office2PDF">
+			<dialogs>
+				<dialog id="100" text="Informazioni">
+					<item id="1003" text="Copyright © 2001-16 Tracker Software Products (Canada) Ltd. Tutti i diritti riservati."/>
+					<item id="1004" text="L&apos;applicazione consente di convertire i documenti Office in formato PDF utilizzando il driver PDF-XChange 2012. Per utilizzare l&apos;applicazione è necessario installare il driver."/>
+				</dialog>
+				<dialog id="129" text="OFFice2PDF 2013">
+					<item id="1" text="Vai"/>
+					<item id="2" text="Esci"/>
+					<item id="1020" text="Elenca operazioni"/>
+					<item id="1030" text="Aggiungi"/>
+					<item id="1031" text="Elimina"/>
+					<item id="1032" text="Elimina tutto"/>
+					<item id="1033" text="Visualizza l&apos;interfaccia utente dell&apos;applicazione"/>
+					<item id="1034" text="Cartella"/>
+					<item id="1035" text="Elabora automaticamente i file appena aggiunti nella cartella &apos;osservata&apos;"/>
+					<item id="1044" text="Archivia i documenti convertiti nelle cartelle di origine"/>
+				</dialog>
+			</dialogs>
+			<strings count="28">
+				<item id="0" text="Impossibile trovare o caricare il driver della stampante PDF-XChange. Reinstallare."/>
+				<item id="1" text="Non registrato"/>
+				<item id="2" text="ID prodotto:"/>
+				<item id="3" text="Tipo licenza:"/>
+				<item id="4" text="Opzioni PDF-XChange 2013"/>
+				<item id="5" text="Attendere..."/>
+				<item id="6" text="Vai"/>
+				<item id="7" text="Versione: %1.%2 build %3"/>
+				<item id="8" text="Selezionare la cartella &apos;%s&apos; come cartella da osservare?"/>
+				<item id="9" text="La cartella &apos;%s&apos; contiene file che possono essere elaborati. Eseguire ora l&apos;elaborazione?"/>
+				<item id="10" text="Impossibile trovare il file della guida."/>
+				<item id="11" text="Applicazione MS Word non installata. I documenti pertinenti non verranno elaborati."/>
+				<item id="12" text="Applicazione MS Excel non installata. I documenti pertinenti non verranno elaborati."/>
+				<item id="13" text="Applicazione Internet Explorer non installata. I documenti pertinenti non verranno elaborati."/>
+				<item id="14" text="Microsoft Word"/>
+				<item id="15" text="Microsoft Excel"/>
+				<item id="16" text="Internet Explorer"/>
+				<item id="17" text="Documenti di Word"/>
+				<item id="18" text="Documenti di Excel"/>
+				<item id="19" text="Documenti IE"/>
+				<item id="20" text="Tutti i formati supportati"/>
+				<item id="21" text="Cartelle osservate"/>
+				<item id="22" text="Opzioni"/>
+				<item id="23" text="Informazioni"/>
+				<item id="24" text="Impostazioni..."/>
+				<item id="25" text="Esci"/>
+				<item id="26" text="Guida..."/>
+				<item id="27" text="Informazioni..."/>
+			</strings>
+		</module>
+	</modules>
+</Localization>

@@ -1,0 +1,36 @@
+{
+    "name": "Easier",
+    "description": "We help enhance reading experience by stylizing text in an EASIER way!",
+    "version": "0.5.1",
+    "manifest_version": 3,
+    "permissions": ["storage", "tabs", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/img/easier-16-off.png",
+            "32": "/img/easier-32-off.png",
+            "48": "/img/easier-48-off.png",
+            "128": "/img/easier-128-off.png"
+          }
+    },
+    "icons": {
+        "16": "/img/easier-16.png",
+        "32": "/img/easier-32.png",
+        "48": "/img/easier-48.png",
+        "128": "/img/easier-128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://*/*", "http://*/*"],
+            "js": ["./js/action.js"],
+            "css": ["./css/action.css"]
+        }
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "web_accessible_resources": [{
+        "matches": ["<all_urls>"],
+        "resources": ["action.html"]
+    }]
+}

@@ -1,0 +1,1366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="PDFXPrinter" version="1.0" productVersion="5.0.0256.0000"/>
+	<language eName="Chinese (Simplified)" lName="简体中文" lcid="0x0804"/>
+	<modules>
+		<module id="driver" name="Driver">
+			<dialogs>
+				<dialog id="101" text="关于">
+					<item id="1033" text="产品许可给："/>
+					<item id="1040" text="版权所有  © 2001-16 Tracker Software Products (Canada) Ltd.
+
+保留一切权利"/>
+					<item id="1143" text="注册(&amp;R) ..."/>
+					<item id="1144" text="帮助(&amp;H) ..."/>
+				</dialog>
+				<dialog id="102" text="设置"/>
+				<dialog id="103" text="">
+					<item id="1001" text="标准(&amp;S)："/>
+					<item id="1002" text="自定义(&amp;C)："/>
+					<item id="1006" text="Spin1"/>
+					<item id="1008" text="Spin2"/>
+					<item id="1011" text="Spin1"/>
+					<item id="1014" text="Spin1"/>
+					<item id="1017" text="纵向(&amp;P)"/>
+					<item id="1018" text="横向(&amp;L)"/>
+					<item id="1026" text="按Х轴镜像(&amp;X)"/>
+					<item id="1027" text="按Y轴镜像(&amp;Y)"/>
+					<item id="1030" text="х"/>
+					<item id="1031" text="页边距(&amp;M)："/>
+					<item id="1032" text="分辨率(&amp;R)："/>
+					<item id="1033" text="范围(&amp;A)："/>
+					<item id="1034" text="方向："/>
+					<item id="1035" text="布局类型："/>
+					<item id="1036" text="纸张大小："/>
+					<item id="1037" text="尺寸："/>
+					<item id="1038" text="х"/>
+					<item id="1050" text="纸张大小"/>
+					<item id="1051" text="图像"/>
+					<item id="1052" text="布局"/>
+					<item id="1053" text="高级打印选项"/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1030" text="符合规范(&amp;S)："/>
+					<item id="1031" text="打开方式"/>
+					<item id="1032" text="页面布局(&amp;L)："/>
+					<item id="1033" text="页面模式(&amp;M)："/>
+					<item id="1034" text="全屏页面模式(&amp;F)："/>
+					<item id="1035" text="缩放(&amp;G)："/>
+					<item id="1036" text="%"/>
+					<item id="1037" text="打开到页码(&amp;O)："/>
+					<item id="1038" text="转换类型："/>
+					<item id="1039" text="页面时间："/>
+					<item id="1040" text="秒"/>
+					<item id="1041" text="转换模式："/>
+					<item id="1042" text="转换时间："/>
+					<item id="1043" text="秒"/>
+					<item id="1044" text="视图首选项"/>
+					<item id="1050" text="PDF规范"/>
+					<item id="1051" text="转换"/>
+					<item id="1076" text="隐藏工具栏(&amp;T)"/>
+					<item id="1077" text="隐藏菜单栏(&amp;M)"/>
+					<item id="1078" text="居中文档窗口(&amp;W)"/>
+					<item id="1079" text="自动调整文档窗口大小以适应首页(&amp;F)"/>
+					<item id="1080" text="隐藏文档窗口用户界面元素(&amp;U)"/>
+					<item id="1081" text="在 Windows 标题栏显示文档标题(&amp;O)"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1050" text="水印列表"/>
+					<item id="1090" text="打印水印(&amp;P)"/>
+					<item id="1096" text="全部清除(&amp;C)"/>
+					<item id="1097" text="全选(&amp;S)"/>
+					<item id="1098" text="编辑(&amp;E) ..."/>
+					<item id="1099" text="新建(&amp;N) ..."/>
+					<item id="1100" text="移除(&amp;R)"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1030" text="显示模式(&amp;D)："/>
+					<item id="1031" text="层次："/>
+					<item id="1032" text="±"/>
+					<item id="1033" text="pt."/>
+					<item id="1034" text="样式："/>
+					<item id="1035" text="颜色："/>
+					<item id="1036" text="状态："/>
+					<item id="1050" text="模板(&amp;T)："/>
+					<item id="1051" text="检测选项："/>
+					<item id="1052" text="显示选项："/>
+					<item id="1100" text="移除(&amp;R)："/>
+					<item id="1101" text="使用自动书签检测(&amp;E)"/>
+					<item id="1102" text="允许使用多行书签(&amp;A)"/>
+					<item id="1103" text="使用文档标题作为根书签(&amp;U)"/>
+					<item id="1104" text="忽略层次匹配结点(&amp;M)"/>
+					<item id="1109" text="新增(&amp;A)："/>
+					<item id="1110" text="字体(&amp;F)："/>
+					<item id="1112" text="样式(&amp;S)："/>
+					<item id="1114" text="大小(&amp;Z)："/>
+					<item id="1119" text="颜色(&amp;C)："/>
+					<item id="1120" text="颜色"/>
+					<item id="1122" text="颜色"/>
+					<item id="1123" text="已打开"/>
+					<item id="1124" text="保存(&amp;S) ..."/>
+					<item id="1125" text="载入(&amp;L) ..."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1030" text="页眉(&amp;H)："/>
+					<item id="1031" text="页脚(&amp;F)："/>
+					<item id="1032" text="首页页码(&amp;N)"/>
+					<item id="1033" text="左(&amp;L)："/>
+					<item id="1034" text="上(&amp;T)："/>
+					<item id="1035" text="右(&amp;R)："/>
+					<item id="1036" text="下(&amp;B)："/>
+					<item id="1037" text="单位(&amp;U)："/>
+					<item id="1051" text="页眉页脚"/>
+					<item id="1052" text="选项"/>
+					<item id="1053" text="偏移量"/>
+					<item id="1126" text="在文档页面添加页眉页脚(&amp;A)"/>
+					<item id="1130" text="自定义 ..."/>
+					<item id="1132" text="自定义 ..."/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1030" text="位置："/>
+					<item id="1031" text="大小："/>
+					<item id="1032" text="比例："/>
+					<item id="1146" text="居中"/>
+					<item id="1153" text="自动调整比例"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1030" text="每页版数(&amp;S)："/>
+					<item id="1033" text="页码顺序(&amp;O)："/>
+					<item id="1156" text="打印页面边框"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1030" text="小册子类型："/>
+					<item id="1031"/>
+					<item id="1032" text="装订尺寸："/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1031" text="标题(&amp;T)："/>
+					<item id="1032" text="主题(&amp;S)："/>
+					<item id="1033" text="作者(&amp;U)："/>
+					<item id="1034" text="关键字(&amp;K)："/>
+					<item id="1035" text="制作者(&amp;C)："/>
+					<item id="1036" text="应用程序(&amp;P)："/>
+					<item id="1050" text="PDF信息(&amp;I)"/>
+					<item id="1162" text="添加附加信息到文档(&amp;D)"/>
+					<item id="1163" text="打印启动时询问文档信息(&amp;A)"/>
+					<item id="1164" text="添加 XMP 元数据到文档(&amp;M)"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1031" text="JPEG质量(&amp;Q)："/>
+					<item id="1032" text="%"/>
+					<item id="1033" text="JBIG2方式："/>
+					<item id="1050" text="通用"/>
+					<item id="1051" text="高质量彩色/灰度图像"/>
+					<item id="1052" text="索引图像"/>
+					<item id="1053" text="单色图像"/>
+					<item id="1171" text="压缩图像(&amp;G)"/>
+					<item id="1172" text="ASCII格式(更大的文件)"/>
+					<item id="1173" text="压缩文本(&amp;T)"/>
+					<item id="1174" text="压缩算法(&amp;C)："/>
+					<item id="1177" text="Spin1"/>
+					<item id="1178" text="压缩算法(&amp;U)："/>
+					<item id="1180" text="压缩算法："/>
+					<item id="1183" text="默认"/>
+				</dialog>
+				<dialog id="113" text="">
+					<item id="1030" text="像素/英寸"/>
+					<item id="1031" text="图像超过："/>
+					<item id="1032" text="像素/英寸"/>
+					<item id="1033" text="像素/英寸"/>
+					<item id="1034" text="图像超过："/>
+					<item id="1035" text="像素/英寸"/>
+					<item id="1036" text="像素/英寸"/>
+					<item id="1037" text="图像超过："/>
+					<item id="1038" text="像素/英寸"/>
+					<item id="1039" text="门限："/>
+					<item id="1050" text="高质量彩色/灰度图像"/>
+					<item id="1051" text="索引图像"/>
+					<item id="1052" text="单色图像"/>
+					<item id="1194" text="Spin1"/>
+					<item id="1202" text="使用抖动"/>
+					<item id="1203" text="使用抖动"/>
+				</dialog>
+				<dialog id="114" text="">
+					<item id="1030" text="可用字体(&amp;F):"/>
+					<item id="1031" text="%"/>
+					<item id="1183" text="默认(&amp;D)"/>
+					<item id="1206" text="嵌入所有使用的字体(&amp;A)"/>
+					<item id="1207" text="强制嵌入受保护的字体(&amp;P)"/>
+					<item id="1208" text="嵌入扩展字体/字符信息"/>
+					<item id="1212" text="&gt;&gt;"/>
+					<item id="1213" text="&lt;&lt;"/>
+					<item id="1214" text="始终嵌入的字体(&amp;E)："/>
+					<item id="1216" text="&gt;&gt;"/>
+					<item id="1217" text="&lt;&lt;"/>
+					<item id="1218" text="从不嵌入的字体(&amp;N)："/>
+					<item id="1220" text="仅嵌入字体子集，若使用的字符百分比小于(&amp;B)："/>
+				</dialog>
+				<dialog id="115" text="">
+					<item id="1031" text="覆盖文件(&amp;Y)："/>
+					<item id="1032"/>
+					<item id="1033" text="水平(&amp;H)："/>
+					<item id="1034" text="垂直(&amp;V)："/>
+					<item id="1035" text="打开保护文件密码(&amp;P)："/>
+					<item id="1051" text="重复选项"/>
+					<item id="1052" text="位置"/>
+					<item id="1153"/>
+					<item id="1221" text="覆盖已存在的 PDF 文件(&amp;O)"/>
+					<item id="1223" text="浏览(&amp;W) ..."/>
+					<item id="1225"/>
+					<item id="1226" text="不重复(&amp;N)"/>
+					<item id="1227" text="重复短的覆盖文件的未页(&amp;L)"/>
+					<item id="1228"/>
+					<item id="1231" text="保持纵横比(&amp;A)"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1031" text="密码："/>
+					<item id="1032" text="密码："/>
+					<item id="1033" text="加密等级(&amp;L)："/>
+					<item id="1050" text="文档密码"/>
+					<item id="1051" text="文档权限"/>
+					<item id="1052" text="数字签名"/>
+					<item id="1232" text="使用 PDF 安全选项"/>
+					<item id="1233" text="打开文档需要输入密码 (&amp;O)："/>
+					<item id="1235" text="修改权限/密码需要输入密码(&amp;C)："/>
+					<item id="1238" text="文档数字签名(&amp;D)"/>
+					<item id="1239" text="设置 ..."/>
+					<item id="1240" text="使用时间戳服务器(&amp;M)："/>
+					<item id="1242" text="管理 ..."/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1243" text="允许打印(&amp;P)："/>
+					<item id="1244" text="允许修改文档(&amp;D)："/>
+					<item id="1245" text="允许内容拷贝或提取，启用辅助功能(&amp;N)"/>
+					<item id="1246" text="允许添加或修改注释和表单字段(&amp;F)"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1031" text="允许修改(&amp;H)："/>
+					<item id="1032" text="打印文档(&amp;P)："/>
+					<item id="1247" text="启用视障人士内容访问(&amp;A)"/>
+					<item id="1248" text="允许内容拷贝和提取(&amp;C)"/>
+					<item id="1250" text="加密文档元数据（Acrobat 6.0及以上版本兼容）(&amp;M)"/>
+				</dialog>
+				<dialog id="119" text="">
+					<item id="1031" text="边框类型(&amp;T)："/>
+					<item id="1032" text="边框样式(&amp;S)："/>
+					<item id="1033" text="边框宽度(&amp;W)："/>
+					<item id="1034" text="点"/>
+					<item id="1035" text="边框颜色(&amp;C)："/>
+					<item id="1036" text="示例："/>
+					<item id="1037" text="我们的网址是："/>
+					<item id="1050" text="链接选项"/>
+					<item id="1052" text="本地文件"/>
+					<item id="1122" text="点击选择"/>
+					<item id="1183" text="默认(&amp;D)"/>
+					<item id="1251" text="在打印文本里分析 URL(&amp;A)"/>
+					<item id="1252" text="删除文件并转换为 PDF 链接(&amp;F)"/>
+					<item id="1253" text="检查链接文档是否存在(&amp;F)"/>
+					<item id="1258" text="http://www.tracker-software.com/"/>
+					<item id="1259" text="使得文本颜色与边框颜色一致(&amp;M)"/>
+				</dialog>
+				<dialog id="120" text="书签列表">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1030" text="模板名称(&amp;N)："/>
+					<item id="1050" text="模板列表"/>
+					<item id="1100" text="移除(&amp;R)"/>
+				</dialog>
+				<dialog id="121" text="自定义 ...">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1030" text="左边区域："/>
+					<item id="1031" text="中间区域："/>
+					<item id="1032" text="左边区域："/>
+					<item id="1051" text="页眉"/>
+					<item id="1265" text="..."/>
+					<item id="1266" text="..."/>
+					<item id="1267" text="..."/>
+					<item id="1268" text="颜色"/>
+					<item id="1269" text="颜色"/>
+					<item id="1270" text="颜色"/>
+					<item id="1271" text="宏(&amp;M)"/>
+					<item id="1272" text="宏(&amp;M)"/>
+					<item id="1273" text="宏(&amp;M)"/>
+				</dialog>
+				<dialog id="122" text="">
+					<item id="1050" text="可用语言"/>
+					<item id="1275" text="使用用户区域设置(&amp;R)"/>
+					<item id="1276" text="设为默认"/>
+				</dialog>
+				<dialog id="123" text="添加/编辑水印">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1030" text="水印名称(&amp;W)："/>
+					<item id="1031" text="类型："/>
+					<item id="1032" text="旋转(&amp;R)："/>
+					<item id="1033" text="透明度(&amp;O)："/>
+					<item id="1034" text="%"/>
+					<item id="1035" text="自"/>
+					<item id="1036" text="自"/>
+					<item id="1037" text="水平偏移量："/>
+					<item id="1038" text="垂直偏移量："/>
+					<item id="1039" text="单位(&amp;U)："/>
+					<item id="1040" text="(-90到90度）"/>
+					<item id="1050" text="位置"/>
+					<item id="1051" text="外观"/>
+				</dialog>
+				<dialog id="124" text="">
+					<item id="1030" text="文本(&amp;T)："/>
+					<item id="1031" text="字体(&amp;F)："/>
+					<item id="1033" text="颜色(&amp;C)："/>
+					<item id="1034" text="大小(&amp;S)："/>
+					<item id="1035" text="点"/>
+					<item id="1050" text="文本属性"/>
+					<item id="1122" text="点击选择"/>
+					<item id="1290" text="粗体(&amp;B)"/>
+					<item id="1291" text="斜体(&amp;I)"/>
+					<item id="1292" text="作为轮廓(&amp;O)"/>
+					<item id="1293" text="自动调整(&amp;U)"/>
+				</dialog>
+				<dialog id="125" text="">
+					<item id="1031" text="宽度(&amp;W)："/>
+					<item id="1032" text="高度(&amp;H)："/>
+					<item id="1035" text="文件："/>
+					<item id="1050" text="图像属性"/>
+					<item id="1122" text="点击选择(&amp;S)"/>
+					<item id="1153" text="根据页面自动调整"/>
+					<item id="1223" text="&amp;..."/>
+					<item id="1285" text="锁定纵横比(&amp;K)："/>
+					<item id="1286" text="透明色(&amp;T)"/>
+				</dialog>
+				<dialog id="126" text="">
+					<item id="1098" text="编辑(&amp;E) ..."/>
+					<item id="1100" text="移除(&amp;R)"/>
+					<item id="1109" text="添加(&amp;A) ..."/>
+				</dialog>
+				<dialog id="127" text="添加/编辑自定义表单">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1030" text="宽度(&amp;W)："/>
+					<item id="1031" text="高度(&amp;H)："/>
+					<item id="1050" text="自定义表单名称(&amp;N)："/>
+					<item id="1051" text="自定义表单尺寸"/>
+					<item id="1052" text="单位(&amp;U)"/>
+					<item id="1301" text="英寸(&amp;I)"/>
+					<item id="1302" text="毫米(&amp;M)"/>
+				</dialog>
+				<dialog id="128" text="">
+					<item id="1030" text="作业管理(&amp;J)："/>
+					<item id="1031" text="路径(&amp;P)："/>
+					<item id="1032" text="文件件(&amp;N)："/>
+					<item id="1033" text="示例："/>
+					<item id="1034" text="当文件存在时(&amp;W)："/>
+					<item id="1035" text="开始自(&amp;F)："/>
+					<item id="1036" text="数字(&amp;I)："/>
+					<item id="1037" text="参数(&amp;M)："/>
+					<item id="1050" text="保存选项"/>
+					<item id="1223" text="浏览(&amp;B)："/>
+					<item id="1303" text="显示“另存为 ...”对话框(&amp;S)"/>
+					<item id="1305" text="宏(&amp;A)"/>
+					<item id="1306" text="从文件名剥离路径(&amp;T)"/>
+					<item id="1312" text="打印完运行应用程序(&amp;R)"/>
+					<item id="1313" text="默认 PDF 文件应用程序(&amp;D)"/>
+					<item id="1314" text="应用程序(&amp;A)："/>
+					<item id="1316" text="浏览(&amp;O) .."/>
+				</dialog>
+				<dialog id="129" text="">
+					<item id="1031" text="方法(&amp;M)："/>
+					<item id="1032" text="发自(&amp;F)："/>
+					<item id="1033" text="收件人(&amp;T)："/>
+					<item id="1034" text="抄送(&amp;C)："/>
+					<item id="1035" text="密送(&amp;B)："/>
+					<item id="1036" text="主题(&amp;U)："/>
+					<item id="1037" text="正文(&amp;O)："/>
+					<item id="1038" text="服务器(&amp;S)："/>
+					<item id="1051" text="EMail属性"/>
+					<item id="1052" text="SMTP属性"/>
+					<item id="1098" text="编辑(&amp;E) ..."/>
+					<item id="1099" text="新建(&amp;N) ..."/>
+					<item id="1100" text="移除(&amp;R) ..."/>
+					<item id="1318" text="将创建的文档作为 EMail 附件发送(&amp;A)"/>
+					<item id="1322" text="..."/>
+					<item id="1326" text="在 ZIP 压缩文件中发送文档(&amp;Z)"/>
+				</dialog>
+				<dialog id="130" text="发送邮件服务器">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1031" text="账号名(&amp;C)："/>
+					<item id="1032" text="密码(&amp;S)："/>
+					<item id="1034" text="链接安全性(&amp;N)："/>
+					<item id="1035" text="名称(&amp;M)："/>
+					<item id="1036" text="端口(&amp;O)："/>
+					<item id="1050" text="SMTP 服务器属性"/>
+					<item id="1051" text="登录信息"/>
+					<item id="1052" text="安全"/>
+					<item id="1329" text="服务器需要身份验证(&amp;A)"/>
+					<item id="1332" text="使用安全密码认证登录(&amp;S)："/>
+				</dialog>
+				<dialog id="131" text="">
+					<item id="1100" text="移除(&amp;R)"/>
+					<item id="1109" text="新增(&amp;A) ..."/>
+					<item id="1126" text="使用(&amp;U)"/>
+					<item id="1334" text="导出(&amp;E) ..."/>
+					<item id="1335" text="导入(&amp;I) ..."/>
+				</dialog>
+				<dialog id="132" text="新增配置文件">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1030" text="名称(&amp;N)："/>
+					<item id="1031" text="注释(&amp;C)："/>
+					<item id="1050" text="配置文件信息"/>
+				</dialog>
+				<dialog id="133" text="数字签名">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1031" text="签署为(&amp;B)："/>
+					<item id="1032" text="数字ID文件名:"/>
+					<item id="1033" text="数字ID密码(&amp;P)："/>
+					<item id="1034" text="签名原因(&amp;R)："/>
+					<item id="1035" text="地点(&amp;O)："/>
+					<item id="1036" text="联系信息(&amp;I)："/>
+					<item id="1037" text="页："/>
+					<item id="1038" text="左(&amp;L)："/>
+					<item id="1039" text="上(&amp;T)："/>
+					<item id="1040" text="宽(&amp;W)："/>
+					<item id="1041" text="高(&amp;H)："/>
+					<item id="1042" text="单位(&amp;U)："/>
+					<item id="1043" text="显示图像"/>
+					<item id="1044" text="显示文本"/>
+					<item id="1050" text="数字ID"/>
+					<item id="1051" text="详细信息"/>
+					<item id="1052" text="位置"/>
+					<item id="1053" text="外观"/>
+					<item id="1337" text="使用系统存储的证书(&amp;S)"/>
+					<item id="1338" text="使用文件证书(&amp;F)"/>
+					<item id="1340" text="刷新"/>
+					<item id="1342" text="浏览(&amp;B) ..."/>
+					<item id="1344" text="查看证书(&amp;V) ..."/>
+					<item id="1345" text="导出证书(&amp;X) ..."/>
+					<item id="1346" text="创建证书(&amp;E) ..."/>
+					<item id="1352" text="无图像"/>
+					<item id="1353" text="图像："/>
+					<item id="1354" text="名称"/>
+					<item id="1356" text="浏览 ..."/>
+					<item id="1357" text="名称"/>
+					<item id="1358" text="日期"/>
+					<item id="1359" text="地点"/>
+					<item id="1360" text="原因"/>
+					<item id="1361" text="或分辨名称"/>
+					<item id="1362" text="标签"/>
+				</dialog>
+				<dialog id="134" text="创建自签署数字 ID">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1030" text="创建自签名数字 ID 提供了一种无成本的方式进行 PDF 文档数字签名，但这不适用于需要第三方验证的场合。"/>
+					<item id="1032" text="名称(&amp;N)："/>
+					<item id="1033" text="组织单位(&amp;U)："/>
+					<item id="1034" text="组织名称(&amp;O)："/>
+					<item id="1035" text="Email 地址(&amp;E)："/>
+					<item id="1036" text="国家/地区(&amp;C)："/>
+					<item id="1037" text="密钥算法(&amp;A)："/>
+					<item id="1039" text="密码(&amp;P)："/>
+					<item id="1040" text="确认密码(&amp;F)："/>
+					<item id="1042" text="ASCII"/>
+					<item id="1043" text="您的数字 ID 将被存储在 Windows 证书存储区，并可提供给其他的Windows应用程序使用。此数字 ID 将受您的Windows登录保护。"/>
+					<item id="1044" text="使用标准的PKCS#12格式创建一个新的密码保护的数字 ID 文件。这种常见的数字 ID 文件格式受大多数安全应用软件支持，包括主流网络浏览器。PKCS#12文件具有.pfx或.p12文件扩展名。"/>
+					<item id="1051" text="数字 ID 属性："/>
+					<item id="1052" text="您想在哪里存储您的自签署数字 ID？"/>
+					<item id="1372" text="Windows 证书存储区(&amp;W)"/>
+					<item id="1373" text="新建 PKCS#12 数字 ID 文件(&amp;1)"/>
+					<item id="1375" text="Unicode"/>
+				</dialog>
+				<dialog id="135" text="时间戳服务器列表">
+					<item id="1" text="关闭"/>
+					<item id="1098" text="编辑(&amp;E) ..."/>
+					<item id="1100" text="移除(&amp;R) ..."/>
+					<item id="1109" text="新增(&amp;A) ..."/>
+				</dialog>
+				<dialog id="136" text="时间戳服务器">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1031" text="账号名(&amp;C)："/>
+					<item id="1032" text="密码(&amp;P)："/>
+					<item id="1033" text="名称(&amp;M)："/>
+					<item id="1034" text="URL(&amp;U)："/>
+					<item id="1050" text="服务器属性"/>
+					<item id="1051" text="登录信息"/>
+					<item id="1329" text="服务器需要身份验证(&amp;A)"/>
+				</dialog>
+				<dialog id="137" text="注册信息">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1030" text="姓名(&amp;N)："/>
+					<item id="1031" text="公司(&amp;C)："/>
+					<item id="1032" text="EMail(&amp;E)："/>
+					<item id="1033" text="序列号(&amp;K)："/>
+					<item id="1050" text="注册信息"/>
+					<item id="1381" text="在线购买(&amp;B)"/>
+				</dialog>
+				<dialog id="138" text="自定义">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="1030" text="可用页面："/>
+					<item id="1031" text="当前页面："/>
+					<item id="1093" text="上移(&amp;U)"/>
+					<item id="1094" text="下移(&amp;D)"/>
+					<item id="1100" text="&lt;- 移除(&amp;R)"/>
+					<item id="1109" text="添加 -&gt;(&amp;A)"/>
+					<item id="1387" text="重置(&amp;R)"/>
+				</dialog>
+				<dialog id="139" text="">
+					<item id="1031" text="文件(&amp;F)："/>
+					<item id="1032" text="密码(&amp;P)："/>
+					<item id="1033" text="文件(&amp;I)："/>
+					<item id="1034" text="密码(&amp;W)："/>
+					<item id="1051" text="前置文档"/>
+					<item id="1052" text="附加文档"/>
+					<item id="1388" text="在输出文档前添加一个 PDF 文件"/>
+					<item id="1390" text="浏览(&amp;B) ..."/>
+					<item id="1392" text="在输出文档后添加一个 PDF 文件"/>
+					<item id="1394" text="浏览(&amp;E)："/>
+				</dialog>
+				<dialog id="140" text="">
+					<item id="1030" text="交错操作(&amp;B)："/>
+					<item id="1031" text="M字节"/>
+					<item id="1032" text="去镶嵌方式(&amp;D)："/>
+					<item id="1051" text="Adobe Acrobat Bugs － 解决方法"/>
+					<item id="1052" text="高级内存管理"/>
+					<item id="1398" text="使用透明图(&amp;T)"/>
+					<item id="1399" text="使用遮罩图像(&amp;M)"/>
+					<item id="1400" text="在 RGB 颜色空间写入灰度调色板(&amp;G)"/>
+					<item id="1401" text="启用图像序列优化(&amp;S)"/>
+					<item id="1402" text="交换到磁盘若图像大于(&amp;L)："/>
+				</dialog>
+			</dialogs>
+			<strings count="401">
+				<item id="0" text="应用程序名称(&amp;A)"/>
+				<item id="1" text="文档名称(&amp;N)"/>
+				<item id="2" text="文档路径(&amp;P)"/>
+				<item id="3" text="日期(&amp;D)"/>
+				<item id="4" text="年(&amp;Y)"/>
+				<item id="5" text="月(&amp;M)"/>
+				<item id="6" text="日(&amp;D)"/>
+				<item id="7" text="时间(&amp;T)"/>
+				<item id="8" text="时(&amp;H)"/>
+				<item id="9" text="分(&amp;I)"/>
+				<item id="10" text="秒(&amp;S)"/>
+				<item id="11" text="计算机名称"/>
+				<item id="12" text="用户名"/>
+				<item id="13" text="页码"/>
+				<item id="14" text="页数(&amp;C)"/>
+				<item id="15" text="环境变量"/>
+				<item id="16" text="纸张"/>
+				<item id="17" text="纸张设置"/>
+				<item id="18" text="自定义表单"/>
+				<item id="19" text="自定义表单设置"/>
+				<item id="20" text="通用"/>
+				<item id="21" text="通用设置"/>
+				<item id="22" text="压缩"/>
+				<item id="23" text="压缩设置"/>
+				<item id="24" text="文档信息"/>
+				<item id="25" text="文档信息"/>
+				<item id="26" text="图像"/>
+				<item id="27" text="图像设置"/>
+				<item id="28" text="字体"/>
+				<item id="29" text="字体嵌入选项"/>
+				<item id="30" text="水印"/>
+				<item id="31" text="水印设置"/>
+				<item id="32" text="覆盖"/>
+				<item id="33" text="覆盖设置"/>
+				<item id="34" text="安全"/>
+				<item id="35" text="文档安全"/>
+				<item id="36" text="链接"/>
+				<item id="37" text="链接设置"/>
+				<item id="38" text="书签"/>
+				<item id="39" text="书签设置"/>
+				<item id="40" text="页眉/页脚"/>
+				<item id="41" text="页眉与页脚设置"/>
+				<item id="42" text="语言"/>
+				<item id="43" text="选择界面语言"/>
+				<item id="44" text="保存"/>
+				<item id="45" text="保存设置"/>
+				<item id="46" text="EMail"/>
+				<item id="47" text="EMail设置"/>
+				<item id="48" text="厘米"/>
+				<item id="49" text="厘米"/>
+				<item id="50" text="厘米"/>
+				<item id="51" text="英寸"/>
+				<item id="52" text="英寸"/>
+				<item id="53" text="英寸"/>
+				<item id="54" text="毫米"/>
+				<item id="55" text="毫米"/>
+				<item id="56" text="毫米"/>
+				<item id="57" text="派卡"/>
+				<item id="58" text="派卡"/>
+				<item id="59" text="派卡"/>
+				<item id="60" text="点"/>
+				<item id="61" text="点"/>
+				<item id="62" text="点"/>
+				<item id="63" text="版本：%1.%2 Build %3"/>
+				<item id="64" text="%1 x %2 %3"/>
+				<item id="65" text="自动"/>
+				<item id="66" text="自定义"/>
+				<item id="67" text="标准"/>
+				<item id="68" text="多版"/>
+				<item id="69" text="小册子"/>
+				<item id="70" text="小册子"/>
+				<item id="71" text="书"/>
+				<item id="72" text="从左往右"/>
+				<item id="73" text="从右往左"/>
+				<item id="74" text="从上往下从左向右"/>
+				<item id="75" text="从下往上从左向右"/>
+				<item id="76" text="从上往下从右向左"/>
+				<item id="77" text="从下往上从右向左"/>
+				<item id="78" text="1页"/>
+				<item id="79" text="2页"/>
+				<item id="80" text="4页"/>
+				<item id="81" text="6页"/>
+				<item id="82" text="8页"/>
+				<item id="83" text="9页"/>
+				<item id="84" text="16页"/>
+				<item id="85" text="自动"/>
+				<item id="86" text="Flate"/>
+				<item id="87" text="JPEG"/>
+				<item id="88" text="JPEG/ZIP"/>
+				<item id="89" text="JPEG 2000"/>
+				<item id="90" text="JPEG 2000/ZIP"/>
+				<item id="91" text="Run Length"/>
+				<item id="92" text="LZW"/>
+				<item id="93" text="CCITT Group 3"/>
+				<item id="94" text="CCITT Group 4"/>
+				<item id="95" text="JBIG 2"/>
+				<item id="96" text="标准"/>
+				<item id="97" text="剪切边框"/>
+				<item id="98" text="符号压缩"/>
+				<item id="99" text="无转换"/>
+				<item id="100" text="转换为灰度"/>
+				<item id="101" text="转换为单色"/>
+				<item id="102" text="转换为黑白"/>
+				<item id="103" text="无降采样"/>
+				<item id="104" text="线性降采样"/>
+				<item id="105" text="双线性降采样"/>
+				<item id="106" text="双立方降采样"/>
+				<item id="107" text="产品 ID ：%1"/>
+				<item id="108" text="许可类型：%1"/>
+				<item id="109" text="Demo 版本"/>
+				<item id="110" text="单用户"/>
+				<item id="111" text="3 用户包"/>
+				<item id="112" text="10 用户许可"/>
+				<item id="113" text="25 用户许可"/>
+				<item id="114" text="50 用户许可"/>
+				<item id="115" text="100 用户许可"/>
+				<item id="116" text="250 用户许可"/>
+				<item id="117" text="500 用户许可"/>
+				<item id="118" text="1000 用户许可"/>
+				<item id="119" text="单站点许可"/>
+				<item id="120" text="国家许可"/>
+				<item id="121" text="全球许可"/>
+				<item id="122" text="学校"/>
+				<item id="123" text="开发者版本"/>
+				<item id="124" text="自动"/>
+				<item id="125" text="版本1.3 (Acrobat v3.0 及以上)"/>
+				<item id="126" text="版本1.4 (Acrobat v5.0 及以上)"/>
+				<item id="127" text="版本1.5 (Acrobat v6.0 及以上)"/>
+				<item id="128" text="版本1.6 (Acrobat v7.0 及以上)"/>
+				<item id="129" text="版本1.7 (Acrobat v8.0 及以上)"/>
+				<item id="130" text="PDF/A-1a"/>
+				<item id="131" text="PDF/A-1b"/>
+				<item id="132" text="PDF/A-2a"/>
+				<item id="133" text="PDF/A-2b"/>
+				<item id="134" text="PDF/A-2u"/>
+				<item id="135" text="阅读器默认"/>
+				<item id="136" text="单页"/>
+				<item id="137" text="一栏"/>
+				<item id="138" text="双页(封面)"/>
+				<item id="139" text="双页"/>
+				<item id="140" text="双栏(封面)"/>
+				<item id="141" text="双栏"/>
+				<item id="142" text="阅读器默认"/>
+				<item id="143" text="仅页面视图"/>
+				<item id="144" text="显示书签"/>
+				<item id="145" text="显示缩略图"/>
+				<item id="146" text="显示层面板"/>
+				<item id="147" text="全屏"/>
+				<item id="148" text="默认"/>
+				<item id="149" text="实际大小"/>
+				<item id="150" text="适应页面"/>
+				<item id="151" text="适应宽度"/>
+				<item id="152" text="适应高度"/>
+				<item id="153" text="级别"/>
+				<item id="154" text="无"/>
+				<item id="155" text="替换"/>
+				<item id="156" text="分割"/>
+				<item id="157" text="交错"/>
+				<item id="158" text="盒"/>
+				<item id="159" text="擦除"/>
+				<item id="160" text="溶解"/>
+				<item id="161" text="闪烁"/>
+				<item id="162" text="飞入"/>
+				<item id="163" text="飞出"/>
+				<item id="164" text="推"/>
+				<item id="165" text="覆盖"/>
+				<item id="166" text="揭开"/>
+				<item id="167" text="淡出"/>
+				<item id="168" text="随机"/>
+				<item id="169" text="水平进入"/>
+				<item id="170" text="水平退出"/>
+				<item id="171" text="垂直进入"/>
+				<item id="172" text="垂直退出"/>
+				<item id="173" text="水平"/>
+				<item id="174" text="垂直"/>
+				<item id="175" text="进入"/>
+				<item id="176" text="退出"/>
+				<item id="177" text="右"/>
+				<item id="178" text="右上"/>
+				<item id="179" text="上"/>
+				<item id="180" text="左上"/>
+				<item id="181" text="左"/>
+				<item id="182" text="左下"/>
+				<item id="183" text="下"/>
+				<item id="184" text="右下"/>
+				<item id="185" text="左"/>
+				<item id="186" text="居中"/>
+				<item id="187" text="右"/>
+				<item id="188" text="顶部"/>
+				<item id="189" text="中间"/>
+				<item id="190" text="底部"/>
+				<item id="191" text="PDF 文档(*.pdf)"/>
+				<item id="192" text="选择重叠文件"/>
+				<item id="193" text="40 位 RC4（与 Acrobat 3.0 及以上版本兼容）"/>
+				<item id="194" text="128 位 RC4（与 Acrobat 5.0 及以上版本兼容）"/>
+				<item id="195" text="128 位 AES（与 Acrobat 7.0 及以上版本兼容）"/>
+				<item id="196" text="256 位 AES（与 Acrobat 9.0 及以上版本兼容）"/>
+				<item id="197" text="256 位 AES R6（与 Acrobat X 及以上版本兼容）"/>
+				<item id="198" text="无"/>
+				<item id="199" text="仅文档组合"/>
+				<item id="200" text="仅表单字段填入或签名"/>
+				<item id="201" text="注释编写、表单字段填入或签名"/>
+				<item id="202" text="常规编辑、注释和表单字段编写"/>
+				<item id="203" text="不允许"/>
+				<item id="204" text="低分辨率"/>
+				<item id="205" text="完全允许"/>
+				<item id="206" text="请取消“打开文档需要输入密码”选项或输入密码。"/>
+				<item id="207" text="请取消“修改权限/密码需要输入密码”选项或输入密码。"/>
+				<item id="208" text="打开文档和修改权限不能使用相同密码，请输入不同密码。"/>
+				<item id="209" text="请输入打开文档或修改权限密码。"/>
+				<item id="210" text="无边框"/>
+				<item id="211" text="下划线"/>
+				<item id="212" text="矩形"/>
+				<item id="213" text="实线"/>
+				<item id="214" text="虚线"/>
+				<item id="215" text="点划线"/>
+				<item id="216" text="黑色"/>
+				<item id="217" text="褐色"/>
+				<item id="218" text="深橄榄绿"/>
+				<item id="219" text="深绿"/>
+				<item id="220" text="深蓝绿"/>
+				<item id="221" text="深蓝"/>
+				<item id="222" text="靛青"/>
+				<item id="223" text="深灰"/>
+				<item id="224" text="深红"/>
+				<item id="225" text="橙色"/>
+				<item id="226" text="深黄"/>
+				<item id="227" text="绿色"/>
+				<item id="228" text="蓝绿"/>
+				<item id="229" text="蓝色"/>
+				<item id="230" text="蓝灰"/>
+				<item id="231" text="灰-40"/>
+				<item id="232" text="红色"/>
+				<item id="233" text="浅橙色"/>
+				<item id="234" text="酸橙色"/>
+				<item id="235" text="海绿色"/>
+				<item id="236" text="水绿"/>
+				<item id="237" text="浅蓝"/>
+				<item id="238" text="紫罗兰"/>
+				<item id="239" text="灰-50"/>
+				<item id="240" text="粉红"/>
+				<item id="241" text="金黄"/>
+				<item id="242" text="黄色"/>
+				<item id="243" text="亮绿"/>
+				<item id="244" text="绿宝石"/>
+				<item id="245" text="天蓝"/>
+				<item id="246" text="洋李"/>
+				<item id="247" text="浅灰"/>
+				<item id="248" text="玫红"/>
+				<item id="249" text="棕褐"/>
+				<item id="250" text="浅黄"/>
+				<item id="251" text="淡绿"/>
+				<item id="252" text="淡绿宝石"/>
+				<item id="253" text="淡蓝"/>
+				<item id="254" text="薰衣草"/>
+				<item id="255" text="白色"/>
+				<item id="256" text="自动"/>
+				<item id="257" text="更多颜色 ..."/>
+				<item id="258" text="相同名称的条目已存在，确认覆盖？"/>
+				<item id="259" text="确认删除？"/>
+				<item id="260" text="确定删除这条水印？"/>
+				<item id="261" text="请输入水印文本。"/>
+				<item id="262" text="请指定水印图像路径和文件名。"/>
+				<item id="263" text="水印标题不能为空！"/>
+				<item id="264" text="水印标题不能包含分号(;)。"/>
+				<item id="265" text="水印标题必须唯一！"/>
+				<item id="266" text="确定删除此自定义表单？"/>
+				<item id="267" text="文本水印"/>
+				<item id="268" text="图像水印"/>
+				<item id="269" text="&lt;未命名&gt;"/>
+				<item id="270" text="全部打开"/>
+				<item id="271" text="全部关闭"/>
+				<item id="272" text="根据项目来确定"/>
+				<item id="273" text="打开到节点级"/>
+				<item id="274" text="正常"/>
+				<item id="275" text="粗体"/>
+				<item id="276" text="斜体"/>
+				<item id="277" text="粗-斜体"/>
+				<item id="278" text="级别 %1"/>
+				<item id="279" text="页眉"/>
+				<item id="280" text="页脚"/>
+				<item id="281" text="(无)"/>
+				<item id="282" text="第 %1 页"/>
+				<item id="283" text="第 %1 页 / 共 %2 页"/>
+				<item id="284" text="机密"/>
+				<item id="285" text="由 %1 %2 编制"/>
+				<item id="286" text="标准名称"/>
+				<item id="287" text="本地名称"/>
+				<item id="288" text="语言 ID"/>
+				<item id="289" text="名称"/>
+				<item id="290" text="印花"/>
+				<item id="291" text="后台打印"/>
+				<item id="292" text="查看"/>
+				<item id="293" text="导出"/>
+				<item id="294" text="打印"/>
+				<item id="295" text="所有页"/>
+				<item id="296" text="仅首页"/>
+				<item id="297" text="仅末页"/>
+				<item id="298" text="偶数页"/>
+				<item id="299" text="奇数页"/>
+				<item id="300" text="表单名称"/>
+				<item id="301" text="大小(毫米)"/>
+				<item id="302" text="大小(英寸)"/>
+				<item id="303" text="用户表单"/>
+				<item id="304" text="请输入自定义表单名称。"/>
+				<item id="305" text="自定义表单名称必须唯一。"/>
+				<item id="306" text="使用 pdfSaver™ 进行作业管理"/>
+				<item id="307" text="将当前作业添加到最后一个活动作业之后"/>
+				<item id="308" text="保存生成的 PDF 文件"/>
+				<item id="309" text="生成 PDF，通过EMail发送并删除"/>
+				<item id="310" text="显示警告对话框"/>
+				<item id="311" text="总是覆盖"/>
+				<item id="312" text="自动编号"/>
+				<item id="313" text="与已存在文件合并(附加到最后)"/>
+				<item id="314" text="与已存在文件合并(插入到最前)"/>
+				<item id="315" text="询问新文件名"/>
+				<item id="316" text="选择文件夹以存储生成的文件"/>
+				<item id="317" text="选择应用程序"/>
+				<item id="318" text="可执行文件 (*.exe)"/>
+				<item id="319" text="全部文件"/>
+				<item id="320" text="启动默认 EMail 客户端"/>
+				<item id="321" text="通过默认 EMail 客户端发送"/>
+				<item id="322" text="直接通过 SMTP 服务器发送"/>
+				<item id="323" text="确定删除选中的SMTP服务器设置？"/>
+				<item id="324" text="选择接收人"/>
+				<item id="325" text="无"/>
+				<item id="326" text="使用 STARTTLS"/>
+				<item id="327" text="使用 SSL/TLS"/>
+				<item id="328" text="请输入SMTP服务器名称！"/>
+				<item id="329" text="1024位 RSA"/>
+				<item id="330" text="2048位 RSA"/>
+				<item id="331" text="密码长度不足。
+密码必须至少6个字符。"/>
+				<item id="332" text="密码不匹配。
+请重新输入密码。"/>
+				<item id="333" text="请输入自签署数字 ID 的名称。"/>
+				<item id="334" text="自签署数字 ID 的名称必须唯一。"/>
+				<item id="335" text="创建自签署数字 ID 必须输入EMail地址。"/>
+				<item id="336" text="请输入正确的EMail地址（如：john@mail.com）。"/>
+				<item id="337" text="“%1”字段只能输入ASCII字符。
+仅允许使用以下字符：空格、a-z、A-Z、0-9、'()+,-./: ..."/>
+				<item id="338" text="个人信息交换 (*.pxf, *.p12)"/>
+				<item id="339" text="选择证书"/>
+				<item id="340" text="选择证书文件"/>
+				<item id="341" text="&lt;无&gt;"/>
+				<item id="342" text="本文作者"/>
+				<item id="343" text="同意本文指定部分内容"/>
+				<item id="344" text="本文已审核"/>
+				<item id="345" text="本文已批准"/>
+				<item id="346" text="兹证明本文准确完整"/>
+				<item id="347" text="我同意在此文档中插入我的签名后自动生效的条款"/>
+				<item id="348" text="未选择数字证书或参数错。
+您需要更正吗？"/>
+				<item id="349" text="服务器 URL"/>
+				<item id="350" text="服务器名称"/>
+				<item id="351" text="确定删除此服务器定义？"/>
+				<item id="352" text="最后使用的路径(&amp;U)"/>
+				<item id="353" text="桌面"/>
+				<item id="354" text="我的文档"/>
+				<item id="355" text="我的图片"/>
+				<item id="356" text="收藏夹"/>
+				<item id="357" text="临时文件夹"/>
+				<item id="358" text="TMP 文件夹"/>
+				<item id="359" text="产品帮助"/>
+				<item id="360" text="主页"/>
+				<item id="361" text="支持论坛"/>
+				<item id="362" text="报告问题"/>
+				<item id="363" text="配置文件"/>
+				<item id="364" text="配置文件设置"/>
+				<item id="365" text="名称"/>
+				<item id="366" text="注释"/>
+				<item id="367" text="新建配置文件"/>
+				<item id="368" text="配置文件名不能为空！"/>
+				<item id="369" text="同名配置文件已存在，是否覆盖？"/>
+				<item id="370" text="确定删除此配置文件？"/>
+				<item id="371" text="不能删除当前配置文件，请先选择其他配置文件当为默认配置文件再执行删除。"/>
+				<item id="372" text="名为“%1”的配置文件已存在，是否覆盖？"/>
+				<item id="373" text="确定应用选定配置文件？"/>
+				<item id="374" text="PDF-XChange 2013 配置文件 (*.pp5)"/>
+				<item id="375" text="选择配置文件"/>
+				<item id="376" text="自定义(&amp;C) ..."/>
+				<item id="377" text="帮助"/>
+				<item id="378" text="警告"/>
+				<item id="379" text="由于在“General（常规）”设置页上已选定 PDF/A 格式规范，为保持一致，此页上的一些选项已禁用和/或已预先设置好。  请参阅“Help（帮助）”了解更多详情。"/>
+
+				<item id="380" text="默认文件附加"/>
+				<item id="381" text="额外的文件附加/插入选项"/>
+				<item id="382" text="优化"/>
+				<item id="383" text="优化设置"/>
+				<item id="384" text="选择文件"/>
+				<item id="385" text="正常"/>
+				<item id="386" text="多个"/>
+				<item id="387" text="屏幕"/>
+				<item id="388" text="重叠"/>
+				<item id="389" text="加黑"/>
+				<item id="390" text="加亮"/>
+				<item id="391" text="颜色减淡模式"/>
+				<item id="392" text="颜色加深模式"/>
+				<item id="393" text="强光模式"/>
+				<item id="394" text="柔光模式"/>
+				<item id="395" text="差别"/>
+				<item id="396" text="排除"/>
+				<item id="397" text="无"/>
+				<item id="398" text="简单"/>
+				<item id="399" text="设置"/>
+				<item id="400" text="关于"/>
+			</strings>
+		</module>
+		<module id="pdfSaver" name="pdfSaver">
+			<dialogs>
+				<dialog id="101" text="">
+					<item id="1" text="&amp;Hide"/>
+					<item id="1030" text="&amp;Help"/>
+				</dialog>
+				<dialog id="102" text="Printing Progress">
+					<item id="1036" text="Cancel"/>
+				</dialog>
+				<dialog id="103" text="">
+					<item id="2" text="Cancel"/>
+					<item id="6" text="Try &amp;Again"/>
+					<item id="1037" text="Change File &amp;Name..."/>
+				</dialog>
+				<dialog id="104" text="">
+					<item id="1" text="OK"/>
+					<item id="2" text="Cancel"/>
+					<item id="1001" text="&amp;Title:"/>
+					<item id="1002" text="&amp;Subject:"/>
+					<item id="1003" text="A&amp;uthor:"/>
+					<item id="1004" text="&amp;Keywords:"/>
+					<item id="1005" text="&amp;Creator:"/>
+					<item id="1020" text="PDF &amp;Information"/>
+					<item id="1038" text="Place Additional Information Into the &amp;Document"/>
+				</dialog>
+				<dialog id="105" text="">
+					<item id="1000" text="seconds"/>
+					<item id="1001" text="Progress Window Opacity:"/>
+					<item id="1002" text="Default &amp;Folder for Jobs Files:"/>
+					<item id="1020" text="Miscellaneous Settings"/>
+					<item id="1021" text="Jobs Options"/>
+					<item id="1044" text="Show &amp;Icon in System Tray"/>
+					<item id="1045" text="&amp;Run pdfSaver at Windows Startup"/>
+					<item id="1046" text="Show Printing &amp;Progress Window"/>
+					<item id="1047" text="Auto&amp;unload pdfSaver after:"/>
+					<item id="1050" text="Tweaks"/>
+					<item id="1051" text="Don't Remove Temporary Files"/>
+					<item id="1052" text="Don't Erase Temporary Folder at pdfSaver startup"/>
+					<item id="1053" text="Show 'Tweaks' without command line argument"/>
+					<item id="1095" text="&amp;Browse..."/>
+					<item id="1096" text="Auto&amp;Save Jobs"/>
+					<item id="1097" text="Auto&amp;Load Available Jobs on StartUp"/>
+				</dialog>
+				<dialog id="106" text="">
+					<item id="1003" text="Copyright © 2001-16 by Tracker Software Products (Canada) Ltd.
+All rights reserved."/>
+				</dialog>
+				<dialog id="107" text="">
+					<item id="1" text="OK"/>
+					<item id="2" text="Cancel"/>
+					<item id="1000" text="Action:"/>
+					<item id="1001" text="The Chosen file name already exists. Please specify the required action to take:"/>
+				</dialog>
+				<dialog id="108" text="">
+					<item id="1021" text="Localization Settings"/>
+					<item id="1022" text="Available Languages"/>
+					<item id="1057" text="Use Users &amp;Regional Settings"/>
+					<item id="1060" text="Set As Default"/>
+				</dialog>
+				<dialog id="109" text="">
+					<item id="1020" text="Jobs Groups"/>
+					<item id="1021" text="Jobs Documents"/>
+					<item id="1059" text="&amp;Load..."/>
+					<item id="2006" text="&amp;Save"/>
+					<item id="2007" text="&amp;Remove..."/>
+					<item id="2008" text="&amp;Generate"/>
+					<item id="2010" text="Move &amp;Up"/>
+					<item id="2011" text="Move &amp;Down"/>
+					<item id="2012" text="Detach"/>
+					<item id="2013" text="Remove"/>
+				</dialog>
+				<dialog id="110" text="">
+					<item id="1001" text="&amp;Method:"/>
+					<item id="1002" text="&amp;From:"/>
+					<item id="1003" text="&amp;To:"/>
+					<item id="1004" text="&amp;Cc:"/>
+					<item id="1005" text="S&amp;ubject:"/>
+					<item id="1006" text="C&amp;ontent:"/>
+					<item id="1007" text="&amp;Server:"/>
+					<item id="1008" text="&amp;Bcc:"/>
+					<item id="1021" text="e-Mail Properties"/>
+					<item id="1022" text="SMTP Properties"/>
+					<item id="1081" text="Send Created Document as e-Mail &amp;Attachment"/>
+					<item id="1082" text="Send Document in &amp;ZIP Archive"/>
+					<item id="1090" text="&amp;Edit..."/>
+				</dialog>
+				<dialog id="111" text="">
+					<item id="1000" text="&amp;Title:"/>
+					<item id="1001" text="&amp;Subject:"/>
+					<item id="1002" text="A&amp;uthor:"/>
+					<item id="1003" text="&amp;Keywords:"/>
+					<item id="1004" text="&amp;Creator:"/>
+					<item id="1005" text="&amp;Producer:"/>
+					<item id="1006" text="PDF Version:"/>
+					<item id="1007" text="Pages Count:"/>
+					<item id="1008" text="Linearized:"/>
+					<item id="1020" text="PDF Information"/>
+					<item id="1021" text="Document Information"/>
+					<item id="1038" text="Place Additional Information Into the &amp;Document"/>
+				</dialog>
+				<dialog id="112" text="">
+					<item id="1001" text="Password:"/>
+					<item id="1002" text="Password:"/>
+					<item id="1003" text="Encryption &amp;Level:"/>
+					<item id="1020" text="Document Passwords"/>
+					<item id="1022" text="Document Passwords"/>
+					<item id="1065" text="&amp;Use PDF security"/>
+					<item id="1066" text="Password Required to &amp;Open the Document:"/>
+					<item id="1067" text="Password Required to &amp;Change Permissions and/or Password:"/>
+				</dialog>
+				<dialog id="113" text="New Document Managment">
+					<item id="2" text="Cancel"/>
+					<item id="1020" text="Available Jobs &amp;Groups"/>
+					<item id="2003" text="Create &amp;New Group"/>
+					<item id="2004" text="&amp;Append To Selected"/>
+					<item id="2005" text="&amp;Save PDF Document"/>
+				</dialog>
+				<dialog id="114" text="Outgoing Mail Server">
+					<item id="1" text="OK"/>
+					<item id="2" text="Cancel"/>
+					<item id="1001" text="A&amp;ccount Name:"/>
+					<item id="1002" text="&amp;Password:"/>
+					<item id="1003" text="Na&amp;me:"/>
+					<item id="1004" text="P&amp;ort:"/>
+					<item id="1020" text="SMTP Server Properties"/>
+					<item id="1021" text="Logon Information"/>
+					<item id="1094" text="Server Requires &amp;Authentication"/>
+					<item id="1097" text="Logon Using &amp;Secure Password Authentication"/>
+				</dialog>
+				<dialog id="115" text="Password">
+					<item id="1" text="OK"/>
+					<item id="2" text="Cancel"/>
+					<item id="1001" text="Document is protected by password from modifying."/>
+					<item id="1002" text="Please enter valid user or owner password for document:"/>
+				</dialog>
+				<dialog id="116" text="">
+					<item id="1098" text="&amp;Additional Properties..."/>
+					<item id="1099" text="Run &amp;Viewer Application After Saving"/>
+					<item id="2000" text="&amp;Email PDF After Creation"/>
+					<item id="2001" text="Append To Existing &amp;PDF"/>
+				</dialog>
+				<dialog id="117" text="">
+					<item id="1001" text="C&amp;hanges Allowed:"/>
+					<item id="1002" text="&amp;Printing the Document:"/>
+					<item id="1076" text="Enable Content &amp;Access for the Visually Impaired"/>
+					<item id="1077" text="Allow &amp;Content Copying and Extraction"/>
+					<item id="1080" text="Encrypt Document &amp;Metadata (Acrobat 6.0 and later compatible)"/>
+				</dialog>
+				<dialog id="118" text="">
+					<item id="1072" text="Allow &amp;Printing"/>
+					<item id="1073" text="Allow Changing the &amp;Document"/>
+					<item id="1074" text="Allow Content Copying or Extraction, E&amp;nable Accessibility"/>
+					<item id="1075" text="Allow Adding or Changing Comments and &amp;Form Fields"/>
+				</dialog>
+			</dialogs>
+			<strings count="75">
+				<item id="0" text="File &quot;%1&quot;cannot be saved due the following error:
+
+%2
+
+What do you want to do next?"/>
+				<item id="1" text="Direct Overwrite"/>
+				<item id="2" text="Auto Number"/>
+				<item id="3" text="Merge With Existing (Append To)"/>
+				<item id="4" text="Merge With Existing (Insert Before)"/>
+				<item id="5" text="Cancel Job Operation and Leave the Job"/>
+				<item id="6" text="Select Another File"/>
+				<item id="7" text="PDF Documents (*.pdf)"/>
+				<item id="8" text="All Files"/>
+				<item id="9" text="%1%% done"/>
+				<item id="10" text="Spooling..."/>
+				<item id="11" text="Page %1"/>
+				<item id="12" text="pdfSaver was not closed.
+To exit pdfSaver, choose Exit item from tray menu."/>
+				<item id="13" text="Optimizing..."/>
+				<item id="14" text="Generating PDF..."/>
+				<item id="15" text="Saving PDF..."/>
+				<item id="16" text="Sending PDF..."/>
+				<item id="17" text="Version: %1.%2 build %3"/>
+				<item id="18" text="Jobs"/>
+				<item id="19" text="Languages"/>
+				<item id="20" text="Settings"/>
+				<item id="21" text="About"/>
+				<item id="22" text="e-Mail"/>
+				<item id="23" text="Information"/>
+				<item id="24" text="Security"/>
+				<item id="25" text="Additional Properties"/>
+				<item id="26" text="&amp;Create PDF"/>
+				<item id="27" text="View PDF"/>
+				<item id="28" text="Standard Name"/>
+				<item id="29" text="Local Name"/>
+				<item id="30" text="Lang ID"/>
+				<item id="31" text="Do you really want to delete selected jobs group?"/>
+				<item id="32" text="Do you really want to delete selected document?"/>
+				<item id="33" text="Invalid password entered.
+Do you want to re-enter password again?"/>
+				<item id="34" text="SMTP server Name must be specified!"/>
+				<item id="35" text="Please either deselect 'Password Required to Open the Document' option or enter the password."/>
+				<item id="36" text="Please either deselect 'Password Required to Change Permissions and/or Password' option or enter the password."/>
+				<item id="37" text="The passwords to document open and permissions cannot be the same. Please enter different password in one of passwords fields."/>
+				<item id="38" text="Either a Document Open Password or Permissions Password should be specified."/>
+				<item id="39" text="Title"/>
+				<item id="40" text="Documents Count"/>
+				<item id="41" text="Pages Count"/>
+				<item id="42" text="Document"/>
+				<item id="43" text="Pages"/>
+				<item id="44" text="40-bit RC4 (Compatible with Acrobat 3.0 and above)"/>
+				<item id="45" text="128-bit RC4 (Compatible with Acrobat 5.0 and above)"/>
+				<item id="46" text="128-bit AES (Compatible with Acrobat 7.0 and above)"/>
+				<item id="47" text="256-bit AES (Compatible with Acrobat 9.0 and above)"/>
+				<item id="48" text="256-bit AES R6 (Compatible with Acrobat X and above)"/>
+				<item id="49" text="None"/>
+				<item id="50" text="Only Document Assembly"/>
+				<item id="51" text="Only Form Field Fill-in or Signing"/>
+				<item id="52" text="Comment Authoring, Form Field Fill-in or Signing"/>
+				<item id="53" text="General Editing, Comment and Form Field Authoring"/>
+				<item id="54" text="Not Allowed"/>
+				<item id="55" text="Low Resolution"/>
+				<item id="56" text="Fully Allowed"/>
+				<item id="57" text="Version 1.3 (Acrobat v3.0 and above)"/>
+				<item id="58" text="Version 1.4 (Acrobat v5.0 and above)"/>
+				<item id="59" text="Version 1.5 (Acrobat v6.0 and above)"/>
+				<item id="60" text="Version 1.6 (Acrobat v7.0 and above)"/>
+				<item id="61" text="Version 1.7 (Acrobat v8.0 and above)"/>
+				<item id="62" text="PDF/A-1a"/>
+				<item id="63" text="PDF/A-1b"/>
+				<item id="64" text="PDF/A-2a"/>
+				<item id="65" text="PDF/A-2b"/>
+				<item id="66" text="PDF/A-2u"/>
+				<item id="67" text="No"/>
+				<item id="68" text="Launch Default e-Mail Client"/>
+				<item id="69" text="Send Through Default e-Mail Client"/>
+				<item id="70" text="Send Directly Through SMTP Server"/>
+				<item id="71" text="Product Help"/>
+				<item id="72" text="Home page"/>
+				<item id="73" text="Support forum"/>
+				<item id="74" text="Report a problem"/>
+			</strings>
+		</module>
+		<module id="Addin" name="Office Addin">
+			<dialogs>
+				<dialog id="1" text="">
+					<item id="207" text="在结果 PDF 文件中生成书签(&amp;G)"/>
+					<item id="212" text="全选"/>
+					<item id="213" text="全部清除"/>
+					<item id="233" text="可用样式"/>
+					<item id="246" text="展开所有书签"/>
+				</dialog>
+				<dialog id="202" text="PDF-XChange 5.0">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+				</dialog>
+				<dialog id="203" text="">
+					<item id="222" text="在结果 PDF 文件中生成链接"/>
+					<item id="223" text="脚注和尾注链接"/>
+					<item id="224" text="跨文档链接"/>
+					<item id="225" text="Internet链接"/>
+					<item id="226" text="交叉索引链接"/>
+					<item id="232" text="目标文档使用相对路径名"/>
+					<item id="233" text="转换MS Office链接"/>
+					<item id="234" text="链接外观"/>
+					<item id="235" text="跨文档链接"/>
+					<item id="236" text="边框类型(&amp;T)："/>
+					<item id="237" text="边框样式(&amp;S)："/>
+					<item id="238" text="边框宽带(&amp;W)："/>
+					<item id="239" text="点"/>
+					<item id="240" text="边框颜色(&amp;C)："/>
+					<item id="241" text="更改文件扩展名为PDF"/>
+				</dialog>
+				<dialog id="205" text="发送邮件选项">
+					<item id="1" text="确定"/>
+					<item id="2" text="取消"/>
+					<item id="236" text="收件人："/>
+					<item id="237" text="抄送："/>
+					<item id="238" text="主题："/>
+					<item id="239" text="正文："/>
+					<item id="240" text="发送文件名："/>
+				</dialog>
+				<dialog id="208" text="">
+					<item id="233" text="高级选项"/>
+					<item id="234" text="Actify SFO选项"/>
+					<item id="241" text="转换后运行默认PDF程序(&amp;R)"/>
+					<item id="242" text="转换前保存文档(&amp;S)"/>
+					<item id="243" text="提示输入PDF文件名(&amp;P)"/>
+					<item id="244" text="发送邮件后删除PDF文件(&amp;A)"/>
+					<item id="245" text="转换文档信息(&amp;I)"/>
+					<item id="246" text="允许Actify 3D识别"/>
+					<item id="247" text="压缩U3D输出(较慢)"/>
+					<item id="248" text="保存文档到原始文件夹(&amp;A)"/>
+				</dialog>
+				<dialog id="209" text="PDF－XChange 5.0">
+					<item id="2" text="取消"/>
+				</dialog>
+				<dialog id="210" text="">
+					<item id="205" text="将每页胶片设为书签"/>
+					<item id="246" text="转换胶片切换"/>
+				</dialog>
+				<dialog id="236" text="">
+					<item id="249" text="打印整个工作薄"/>
+				</dialog>
+				<dialog id="237" text="表单">
+					<item id="246" text="转换Web表单"/>
+					<item id="247" text="转换修订标记"/>
+				</dialog>
+				<dialog id="238" text="">
+					<item id="250" text="高级(&amp;A) ..."/>
+				</dialog>
+				<dialog id="248" text="">
+					<item id="249" text="打印所有页"/>
+				</dialog>
+			</dialogs>
+			<strings count="54">
+				<item id="0" text="设置"/>
+				<item id="1" text="链接"/>
+				<item id="2" text="书签"/>
+				<item id="3" text="PowerPoint 选项"/>
+				<item id="4" text="Excel 选项"/>
+				<item id="5" text="Visio 选项"/>
+				<item id="6" text="Word 选项"/>
+				<item id="7" text="高级"/>
+				<item id="8" text="PDF-XChange 2013"/>
+				<item id="9" text="PDF-XChange 2013"/>
+				<item id="10" text="PDF-XChange 2013"/>
+				<item id="11" text="转换为 PDF"/>
+				<item id="12" text="转换文档为 PDF (&amp;C)"/>
+				<item id="13" text="C"/>
+				<item id="14" text="创建 PDF 并发送 EMail(&amp;E)"/>
+				<item id="15" text="从当前文档创建 PDF 文件并发送 EMail"/>
+				<item id="16" text="E"/>
+				<item id="17" text="设置"/>
+				<item id="18" text="设置 PDF 创建过程首选项"/>
+				<item id="19" text="S"/>
+				<item id="20" text="另存为 PDF 文件(&amp;S)"/>
+				<item id="21" text="使用 PDF-XChange 2013 将当前文档保存为 PDF 文件"/>
+				<item id="22" text="使用 PDF-XChange 2013 将当前文档保存为 PDF 文件"/>
+				<item id="23" text="C"/>
+				<item id="24" text="创建 PDF 并发送 EMail(&amp;E)"/>
+				<item id="25" text="使用 PDF-XChange 2013 从当前文档创建 PDF 文件并发送 EMail"/>
+				<item id="26" text="使用 PDF-XChange 2013 从当前文档创建 PDF 文件并发送 EMail"/>
+				<item id="27" text="E"/>
+				<item id="28" text="错误"/>
+				<item id="29" text="PDF-XChange 打印驱动未发现或无法装载，请重新安装。"/>
+				<item id="30" text="PDF-XChange 5.0选项"/>
+				<item id="31" text="%1: %2%%完成"/>
+				<item id="32" text="正在处理脚注"/>
+				<item id="33" text="正在处理尾注"/>
+				<item id="34" text="正在处理超链接"/>
+				<item id="35" text="正在处理内部引用"/>
+				<item id="36" text="正在处理标题"/>
+				<item id="37" text="正在处理切换"/>
+				<item id="38" text="正在处理 Web 表单"/>
+				<item id="39" text="正在处理 U3D Actify 对象"/>
+				<item id="40" text="无边框"/>
+				<item id="41" text="下划线"/>
+				<item id="42" text="矩形"/>
+				<item id="43" text="实线"/>
+				<item id="44" text="短线"/>
+				<item id="45" text="点划线"/>
+				<item id="46" text="样式"/>
+				<item id="47" text="类型"/>
+				<item id="48" text="层次"/>
+				<item id="49" text="自定义"/>
+				<item id="50" text="标准"/>
+				<item id="51" text="PDF-XChange 2013 AcroPlot"/>
+				<item id="52" text="PDF-XChange 2013 AcroPlot"/>
+				<item id="53" text="PDF-XChange 2013 AcroPlot"/>
+			</strings>
+		</module>
+		<module id="Office2PDF" name="Office2PDF">
+			<dialogs>
+				<dialog id="100" text="关于">
+					<item id="1003" text="版权所有  © 2001-16 Tracker Software Products (Canada) Ltd.
+
+保留一切权利"/>
+					<item id="1004" text="此应用程序使用 PDF-XChange 2013 驱动将 Office 文档转换为 PDF格式。
+必须安装该驱动才能使用此应用程序。"/>
+				</dialog>
+				<dialog id="129" text="OFFice2PDF 2013">
+					<item id="1" text="运行"/>
+					<item id="2" text="退出"/>
+					<item id="1020" text="列表操作"/>
+					<item id="1030" text="新增"/>
+					<item id="1031" text="删除"/>
+					<item id="1032" text="全部删除"/>
+					<item id="1033" text="显示应用程序图形用户界面"/>
+					<item id="1034" text="文件夹"/>
+					<item id="1035" text="自动从新增的“监视”文件夹处理文件"/>
+					<item id="1044" text="保存转换的文件到原始文件夹"/>
+				</dialog>
+			</dialogs>
+			<strings count="28">
+				<item id="0" text="PDF-XChange 打印驱动未发现或无法装载，请重新安装。"/>
+				<item id="1" text="未注册"/>
+				<item id="2" text="产品 ID ："/>
+				<item id="3" text="许可类型："/>
+				<item id="4" text="PDF-XChange 2013 选项"/>
+				<item id="5" text="请稍候 ..."/>
+				<item id="6" text="运行"/>
+				<item id="7" text="版本：%1.%2 build %3"/>
+				<item id="8" text="您希望添加 “%s” 文件夹为监视文件夹吗？"/>
+				<item id="9" text="“%s” 文件夹包含可处理的文件，您希望立即处理吗？"/>
+				<item id="10" text="无法找到帮助文件。"/>
+				<item id="11" text="MS Word 应用程序未安装，不处理指定文档。"/>
+				<item id="12" text="MS Excel 应用程序未安装，不处理指定文档。"/>
+				<item id="13" text="Internet Explorer 应用程序未安装，不处理指定文档。"/>
+				<item id="14" text="Microsoft Word"/>
+				<item id="15" text="Microsoft Excel"/>
+				<item id="16" text="Internet Explorer"/>
+				<item id="17" text="Word 文档"/>
+				<item id="18" text="Excel 文档"/>
+				<item id="19" text="IE 文档"/>
+				<item id="20" text="所有支持的格式"/>
+				<item id="21" text="监视文件夹"/>
+				<item id="22" text="选项"/>
+				<item id="23" text="信息"/>
+				<item id="24" text="设置 ..."/>
+				<item id="25" text="退出"/>
+				<item id="26" text="帮助 ..."/>
+				<item id="27" text="关于 ..."/>
+			</strings>
+		</module>
+	</modules>
+</Localization>

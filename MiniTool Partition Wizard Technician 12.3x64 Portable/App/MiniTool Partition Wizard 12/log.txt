@@ -1,0 +1,35 @@
+=====================================================================================
+2022-08-26 07:03:54:465 => [                                                    main.cpp, 00124] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2022-08-26 07:03:54:465 => [                                                    main.cpp, 00125] => System is server:No
+2022-08-26 07:03:54:465 => [                                                    main.cpp, 00126] => Software is 64 bit:Yes
+2022-08-26 07:03:54:465 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2022-08-26 07:03:54:496 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2022-08-26 07:03:54:496 => [                                                 idriver.cpp, 00378] => OpenService failed!  Error = 1060 
+
+2022-08-26 07:03:54:496 => [                                                 idriver.cpp, 00700] => Failed to call ManageDriver(DRIVER_FUNC_START)
+2022-08-26 07:03:54:496 => [                                                 idriver.cpp, 00455] => OpenService failed!  Error = 1060 
+
+2022-08-26 07:03:54:496 => [                                                 idriver.cpp, 00311] => OpenService failed!  Error = 1060 
+
+2022-08-26 07:03:55:471 => [                                          kvolumemanager.cpp, 00227] => Disk0, NVMe OM3PDP3-AD NVMe KDI 512GB RAID, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2022-08-26 07:03:55:551 => [                                          kvolumemanager.cpp, 00248] => Disk0 set alignmentFactor =AlignToMB
+2022-08-26 07:03:55:564 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2022-08-26 07:04:31:937 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:7 NewStartingLba:997226496 NewPartitionSize:2985984 SafeMode:1
+2022-08-26 07:04:31:937 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2022-08-26 07:04:31:984 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2022-08-26 07:04:31:984 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2022-08-26 07:04:31:995 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2022-08-26 07:04:32:595 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:6 NewStartingLba:963753984 NewPartitionSize:33468416 SafeMode:1
+2022-08-26 07:04:32:610 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2022-08-26 07:04:32:639 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2022-08-26 07:04:32:639 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2022-08-26 07:04:32:653 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2022-08-26 07:04:33:286 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:961724416 NewPartitionSize:2027520 SafeMode:1
+2022-08-26 07:04:33:286 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2022-08-26 07:04:33:319 => [                                                 kvolume.cpp, 00491] => Succeed to lock volume.
+2022-08-26 07:04:33:319 => [                                                 kvolume.cpp, 00506] => Dismounting volume...
+2022-08-26 07:04:33:328 => [                                                 kvolume.cpp, 00511] => Succeed to dismount volume.
+2022-08-26 07:04:33:900 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:4 NewStartingLba:429240320 NewPartitionSize:532480000 SafeMode:1
+2022-08-26 07:04:33:902 => [                                                 kvolume.cpp, 00486] => Locking volume...
+2022-08-26 07:04:34:032 => [                                                 kvolume.cpp, 00495] => Failed to lock volume.
+2022-08-26 07:04:34:032 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:4 NewStartingLba:429240320 NewPartitionSize:532480000 SafeMode:1 ]
