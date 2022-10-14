@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\MiniTool Software Limited\MiniTool Partition Wizard]
+"DiskMapLocation"=dword:00000001
+
